@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 214
+[label] NOT ENOUGH INFO
+[claim] A recent essay in Scientific American argued that scientists “tend to underestimate the severity of threats and the rapidity with which they might unfold” and said one of the reasons was “the perceived need for consensus.”
+[candidate_evidence]
+- (NOT ENOUGH INFO) Consciousness: After the conference, they signed in the presence of Stephen Hawking, the 'Cambridge Declaration on Consciousness', which summarizes the most important findings of the survey: "We decided to reach a consensus and make a statement directed to the public that is not scientific.
+- (NOT ENOUGH INFO) Intelligent design: Further criticism stems from the fact that the phrase intelligent design makes use of an assumption of the quality of an observable intelligence, a concept that has no scientific consensus definition.
+- (NOT ENOUGH INFO) Media coverage of global warming: But recently scientists and scholars have challenged the legitimacy of this journalistic core value with regard to matters of great importance on which the overwhelming majority of the scientific community has reached a well-substantiated consensus view.
+- (NOT ENOUGH INFO) Media coverage of global warming: As Stephen Schneider put it: “a mainstream, well-established consensus may be ‘balanced’ against the opposing views of a few extremists, and to the uninformed, each position seems equally credible.” Science journalism concerns itself with gathering and evaluating various types of relevant evidence and rigorously checking sources and facts.
+- (NOT ENOUGH INFO) Thomas Kuhn: Kuhn made several claims concerning the progress of scientific knowledge: that scientific fields undergo periodic "paradigm shifts" rather than solely progressing in a linear and continuous way, and that these paradigm shifts open up new approaches to understanding what scientists would never have considered valid before; and that the notion of scientific truth, at any given moment, cannot be established solely by objective criteria but is defined by a consensus of a scientific community.
+[note] Use this as adversarial contradiction evidence with inline citation.

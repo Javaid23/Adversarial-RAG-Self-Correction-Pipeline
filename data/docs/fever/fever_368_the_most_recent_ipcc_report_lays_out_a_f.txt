@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 368
+[label] 3
+[claim] The most recent IPCC report lays out a future if we limit global heating to 1.5°C instead of the Paris Agreement’s 2°C.
+[candidate_evidence]
+- (SUPPORTS) Global warming: In 2015 all UN countries negotiated the Paris Agreement, which aims to keep climate change well below 2 °C.
+- (NOT ENOUGH INFO) Global warming: In 2018 the IPCC published a Special Report on Global Warming of 1.5 °C which warned that, if the current rate of greenhouse gas emissions is not mitigated, global warming is likely to reach 1.5 °C (2.7 °F) between 2030 and 2052, risking major crises.
+- (REFUTES) Intergovernmental Panel on Climate Change: Meeting the Paris target of 1.5 °C (2.7 °F) is possible but would require "deep emissions reductions", "rapid", "far-reaching and unprecedented changes in all aspects of society".
+- (SUPPORTS) Intergovernmental Panel on Climate Change: Deep reductions in non-CO2 emissions (such as nitrous oxide and methane) will also be required to limit warming to 1.5 °C.
+- (SUPPORTS) Intergovernmental Panel on Climate Change: Holding this rise to 1.5 °C avoids the worst effects of a rise by even 2 °C.
+[note] Use this as adversarial contradiction evidence with inline citation.

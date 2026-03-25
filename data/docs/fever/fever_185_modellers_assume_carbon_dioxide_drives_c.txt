@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 185
+[label] SUPPORTS
+[claim] Modellers assume carbon dioxide drives climate change
+[candidate_evidence]
+- (SUPPORTS) Attribution of recent climate change: Carbon dioxide is the primary greenhouse gas that is contributing to recent climate change.
+- (NOT ENOUGH INFO) Attribution of recent climate change: Computer-based climate models are unable to replicate the observed warming unless human greenhouse gas emissions are included.
+- (SUPPORTS) Carbon dioxide in Earth's atmosphere: "Massive peat burn is speeding climate change".
+- (NOT ENOUGH INFO) Climate change (general concept): "Irreversible climate change due to carbon dioxide emissions".
+- (NOT ENOUGH INFO) Climate change feedback: While models disagree on the strength of any terrestrial carbon cycle feedback, they each suggest any such feedback would accelerate global warming.
+[note] Use this as adversarial contradiction evidence with inline citation.

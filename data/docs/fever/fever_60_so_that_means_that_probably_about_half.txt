@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 60
+[label] 3
+[claim] So that means that probably about half, maybe half of that nine-tenths of the degree [of total warming] might be caused by greenhouse gases
+[candidate_evidence]
+- (NOT ENOUGH INFO) Global warming: Before the Industrial Revolution, naturally occurring amounts of greenhouse gases caused the air near the surface to be warmer by about 33 °C (59 °F) than it would be in their absence.
+- (SUPPORTS) Patrick Michaels: In 2018, Michaels asserted on Fox News, "probably about half, maybe half of that nine-tenths of the degree [of total warming] might be caused by greenhouse gases."
+- (REFUTES) Scientific consensus on climate change: Most of the climatic warming over the last 50 years is likely to have been caused by increased concentrations of greenhouse gases in the atmosphere.
+- (REFUTES) Scientific consensus on climate change: Human-caused increases in greenhouse gases are responsible for most of the observed global average surface warming of roughly 0.8 °C (1.5 °F) over the past 140 years.
+- (REFUTES) Scientific consensus on climate change: The Intergovernmental Panel on Climate Change said the likelihood was 90 percent to 99 percent that emissions of heat-trapping greenhouse gases like carbon dioxide, spewed from tailpipes and smokestacks, were the dominant cause of the observed warming of the last 50 years.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 342
+[label] SUPPORTS
+[claim] While members of the media may nod along to such claims [about changes in weather extremes], the evidence paints a different story
+[candidate_evidence]
+- (NOT ENOUGH INFO) Attribution of recent climate change: As noted, clear and compelling scientific evidence supports the case for a pronounced human influence on global climate.
+- (NOT ENOUGH INFO) Attribution of recent climate change: One of the subjects discussed in the literature is whether or not extreme weather events can be attributed to human activities.
+- (SUPPORTS) Attribution of recent climate change: They were, however, more confident over attributing changes in long-term trends of extreme weather.
+- (SUPPORTS) Climate change denial: Antilla 2005: "One problematic trend of the US media has been the suggestion that substantive disagreement exists within the international scientific community as to the reality of anthropogenic climate change; however, this concept is false…Although the science of climate change does not appear to be a prime news topic for most of the 255 newspapers included in this study…articles that framed climate change in terms of debate, controversy, or uncertainty were plentiful."
+- (NOT ENOUGH INFO) Scientific consensus on climate change: This could lead to changing, and for all emissions scenarios more unpredictable, weather patterns around the world, less frost days, more extreme events (droughts and storm or flood disasters), and warmer sea temperatures and melting glaciers causing sea levels to rise.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 99
+[label] SUPPORTS
+[claim] Most likely the primary control knob [on climate change] is the ocean waters and this environment that we live in.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate change (general concept): These include processes such as variations in solar radiation, variations in the Earth's orbit, variations in the albedo or reflectivity of the continents, atmosphere, and oceans, mountain-building and continental drift and changes in greenhouse gas concentrations.
+- (NOT ENOUGH INFO) Climate change (general concept): "Episodic fresh surface waters in the Eocene Arctic Ocean".
+- (NOT ENOUGH INFO) Climate change and ecosystems: Eventually the planet will warm to such a degree that the ocean's ability to dissolve water will no longer exist, resulting in a worldwide dead zone.
+- (NOT ENOUGH INFO) Climate change and ecosystems: Alterations to the ocean currents, due to increased freshwater inputs from glacier melt, and the potential alterations to thermohaline circulation of the worlds oceans, may affect existing fisheries upon which humans depend as well.
+- (SUPPORTS) Climate change denial: United States Secretary of Energy Rick Perry, in a 19 June 2017 interview with CNBC, acknowledged the existence of climate change and impact from humans, but said that he did not agree with the idea that carbon dioxide was the primary driver of global warming pointing instead to "the ocean waters and this environment that we live in".
+[note] Use this as adversarial contradiction evidence with inline citation.

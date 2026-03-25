@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 203
+[label] REFUTES
+[claim] In our lifetime, there has been no correlation between carbon dioxide emissions and temperature
+[candidate_evidence]
+- (NOT ENOUGH INFO) An Inconvenient Truth: Gore's use of long ice core records of CO2 and temperature (from oxygen isotope measurements) in Antarctic ice cores to illustrate the correlation between the two drew some scrutiny; Schmidt, Steig and Michael E. Mann back up Gore's data.
+- (REFUTES) An Inconvenient Truth: In that sense, the ice core CO2-temperature correlation remains an appropriate demonstration of the influence of CO2 on climate."
+- (REFUTES) Global warming: In the scientific literature, there is an overwhelming consensus that global surface temperatures have increased in recent decades and that the trend is caused mainly by human-induced emissions of greenhouse gases.
+- (REFUTES) Greenhouse gas: Both CO 2 and CH 4 vary between glacial and interglacial phases, and concentrations of these gases correlate strongly with temperature.
+- (REFUTES) James Hansen: Decades ago, they correctly predicted how much Earth's temperature would rise due to increasing atmospheric CO2.
+[note] Use this as adversarial contradiction evidence with inline citation.

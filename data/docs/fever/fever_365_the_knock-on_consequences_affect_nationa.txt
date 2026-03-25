@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 365
+[label] SUPPORTS
+[claim] The knock-on consequences affect national security, as the scale of the challenges involved, such as pandemic disease outbreaks, are overwhelming.
+[candidate_evidence]
+- (SUPPORTS) Bioterrorism: These high-priority agents pose a risk to national security, can be easily transmitted and disseminated, result in high mortality, have potential major public health impact, may cause public panic, or require special action for public health preparedness.
+- (SUPPORTS) Influenza A virus: A pandemic, or worldwide outbreak of a new influenza virus, could dwarf this impact by overwhelming our health and medical capabilities, potentially resulting in hundreds of thousands of deaths, millions of hospitalizations, and hundreds of billions of dollars in direct and indirect costs.
+- (NOT ENOUGH INFO) National security: These include global environmental problems such as climate change due to global warming, deforestation, and loss of biodiversity.
+- (NOT ENOUGH INFO) National security: For example, Sweden's national security strategy of 2017 declared: "Wider security measures must also now encompass protection against epidemics and infectious diseases, combating terrorism and organised crime, ensuring safe transport and reliable food supplies, protecting against energy supply interruptions, countering devastating climate change, initiatives for peace and global development, and much more."
+- (NOT ENOUGH INFO) Pandemic: A pandemic is an epidemic occurring on a scale which crosses international boundaries, usually affecting a large number of people.
+[note] Use this as adversarial contradiction evidence with inline citation.

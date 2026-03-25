@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 473
+[label] NOT ENOUGH INFO
+[claim] La Niñas, on the other hand, feature cooler than average waters in the Pacific
+[candidate_evidence]
+- (NOT ENOUGH INFO) Pacific Ocean: Surface water temperatures in the Pacific can vary from −1.4 °C (29.5 °F), the freezing point of sea water, in the poleward areas to about 30 °C (86 °F) near the equator.
+- (NOT ENOUGH INFO) South Pacific convergence zone: At its southeast edge, the circulation around the feature forces a salinity gradient in the ocean, with fresher and warmer waters of the western Pacific lying to its west.
+- (NOT ENOUGH INFO) South Pacific convergence zone: Cooler and saltier waters lie to its east.
+- (NOT ENOUGH INFO) Tropical cyclone: Water temperatures must be extremely high (near or above 30 °C, 86 °F), and water of this temperature must be sufficiently deep such that waves do not upwell cooler waters to the surface.
+- (NOT ENOUGH INFO) Tropical cyclone: latent heat) at the temperature of the warm ocean surface (during evaporation, the ocean cools and the air warms).
+[note] Use this as adversarial contradiction evidence with inline citation.

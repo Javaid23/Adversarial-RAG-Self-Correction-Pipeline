@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 250
+[label] NOT ENOUGH INFO
+[claim] CO2 is not powerful in that sense, the only thing it does in the system is make the planet greener.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Captain Planet and the Planeteers: Captain Pollution is weakened when he is in contact with pure elements such as clean water or sunlight, while he gains power from contact with pollutants, being able to absorb pollutant and emit radioactive rays (and is later shown to gain limitless power when in contact with pollutants after his resurrection).
+- (NOT ENOUGH INFO) City: Big cities were created as power images of a competitive society, conscious of its achievement potential.
+- (NOT ENOUGH INFO) City: But it is not a socialized collectivity of labor and it lacks significant power to disrupt or seize the means of production.
+- (NOT ENOUGH INFO) Marvel Universe: The Phoenix Force is a force of incredible power.
+- (NOT ENOUGH INFO) Orbital ring: This ring effectively provides near unlimited power to earth.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 143
+[label] NOT ENOUGH INFO
+[claim] Recent modelling data suggests the climate is considerably more sensitive to carbon emissions than previously believed
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate sensitivity: Climate sensitivity is an emergent property of these models.
+- (NOT ENOUGH INFO) Climate sensitivity: The cause of the increased sensitivity lies mainly in improved modelling of clouds so that low clouds descrease more strongly when temperature rise causing enhanced planetary absorption of sunlight.
+- (NOT ENOUGH INFO) Climate sensitivity: The more sensitive a climate system is to increased greenhouse gases, the more likely it is to have decades when temperatures are much higher or much lower than the longer-term average.
+- (NOT ENOUGH INFO) Climate sensitivity: Climate sensitivity is typically estimated in three ways; by using observations taken during the industrial age, by using temperature and other data from the Earth's past and by modelling the climate system in computers.
+- (NOT ENOUGH INFO) Greenhouse gas: The IPCC has pointed out that many long-term climate scenario models require large-scale manmade negative emissions to avoid serious climate change.
+[note] Use this as adversarial contradiction evidence with inline citation.

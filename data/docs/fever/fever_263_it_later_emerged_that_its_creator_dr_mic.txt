@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 263
+[label] SUPPORTS
+[claim] it later emerged that its creator Dr Michael Mann had spliced too [sic] datasets together – tree-rings showing temperatures going back hundreds of years, then recent thermometer readings for the more recent decades.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climatic Research Unit documents: He said that there was nothing "hidden or inappropriate" about it, and that his method of combining proxy data had been corroborated by numerous statistical tests and matched thermometer readings taken over the past 150 years.
+- (SUPPORTS) Hockey stick controversy: Mann said, "Ten years ago, the availability of data became quite sparse by the time you got back to 1,000 AD, and what we had then was weighted towards tree-ring data; but now you can go back 1,300 years without using tree-ring data at all and still get a verifiable conclusion."
+- (SUPPORTS) Hockey stick graph: Using various high-resolution proxies including tree rings, ice cores and sediments, Mann and Jones published reconstructions in August 2003 which indicated that "late 20th century warmth is unprecedented for at least roughly the past two millennia for the Northern Hemisphere.
+- (NOT ENOUGH INFO) Hockey stick graph: published on 10 February 2005 used a wavelet transform technique to reconstruct Northern Hemisphere temperatures over the last 2,000 years, combining low-resolution proxy data such as lake and ocean sediments for century-scale or longer changes, with tree ring proxies only used for annual to decadal resolution.
+- (NOT ENOUGH INFO) Hockey stick graph: Archives of climate proxies were developed: in 1993 Raymond S. Bradley and Phil Jones composited historical records, tree-rings and ice cores for the Northern Hemisphere from 1400 up to the 1970s to produce a decadal reconstruction.
+[note] Use this as adversarial contradiction evidence with inline citation.

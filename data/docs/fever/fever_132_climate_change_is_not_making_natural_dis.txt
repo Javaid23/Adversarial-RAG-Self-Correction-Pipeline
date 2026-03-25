@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 132
+[label] NOT ENOUGH INFO
+[claim] Climate change is not making natural disasters worse
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate change adaptation: attribute these events to sudden environmental changes, like natural disasters.
+- (NOT ENOUGH INFO) Effects of global warming: Gradual but pervasive environmental change and sudden natural disasters both influence the nature and extent of human migration but in different ways.
+- (NOT ENOUGH INFO) Effects of global warming: Slow-onset disasters and gradual environmental erosion such as desertification, reduction of soil fertility, coastal erosion and sea-level rise are likely to induce long term migration.
+- (NOT ENOUGH INFO) Habitat destruction: Habitat destruction vastly increases an area's vulnerability to natural disasters like flood and drought, crop failure, spread of disease, and water contamination.
+- (NOT ENOUGH INFO) Intergovernmental Panel on Climate Change: It assesses the effect that climate change has on the threat of natural disasters and how nations can better manage an expected change in the frequency of occurrence and intensity of severe weather patterns.
+[note] Use this as adversarial contradiction evidence with inline citation.

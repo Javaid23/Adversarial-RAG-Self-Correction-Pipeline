@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 113
+[label] REFUTES
+[claim] The temperature is not rising nearly as fast as the alarmist computer models predicted.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Global warming controversy: Our results show that the observed rapid rise in global mean temperatures seen after 1985 cannot be ascribed to solar variability, whichever of the mechanisms is invoked and no matter how much the solar variation is amplified.
+- (NOT ENOUGH INFO) Global warming controversy: Satellite temperature measurements show that tropospheric temperatures are increasing with "rates similar to those of the surface temperature", leading the IPCC to conclude that this discrepancy is reconciled.
+- (NOT ENOUGH INFO) Global warming controversy: Conventional projections of future temperature rises depend on estimates of future anthropogenic GHG emissions (see SRES), those positive and negative climate change feedbacks that have so far been incorporated into the models, and the climate sensitivity.
+- (NOT ENOUGH INFO) Global warming controversy: Ed Hawkins, of the University of Reading, stated that the "surface temperatures since 2005 are already at the low end of the range of projections derived from 20 climate models.
+- (REFUTES) Global warming controversy: Confidence in model estimates is higher for some climate variables (e.g., temperature) than for others (e.g., precipitation).
+[note] Use this as adversarial contradiction evidence with inline citation.

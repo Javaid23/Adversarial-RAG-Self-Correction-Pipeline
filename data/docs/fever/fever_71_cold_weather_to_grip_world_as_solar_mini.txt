@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 71
+[label] SUPPORTS
+[claim] Cold weather to grip world as solar minimum to deepen, NASA says
+[candidate_evidence]
+- (NOT ENOUGH INFO) NASA: Its statements concur with the global scientific consensus that the global climate is warming.
+- (SUPPORTS) Solar minimum: Solar physicist Dean Pesnell of the Goddard Space Flight Center came to the following conclusion: "We're experiencing a very deep solar minimum."
+- (NOT ENOUGH INFO) Solar minimum: "NOAA Space Weather Scales Page Has Changed".
+- (NOT ENOUGH INFO) Solar minimum: "Deep Solar Minimum – NASA Science".
+- (NOT ENOUGH INFO) Sun: The coolest layer of the Sun is a temperature minimum region extending to about 500 km above the photosphere, and has a temperature of about 4,100 K. This part of the Sun is cool enough to allow the existence of simple molecules such as carbon monoxide and water, which can be detected via their absorption spectra.
+[note] Use this as adversarial contradiction evidence with inline citation.

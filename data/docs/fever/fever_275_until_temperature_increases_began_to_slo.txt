@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 275
+[label] SUPPORTS
+[claim] until temperature increases began to slow down after 1998 and remained relatively stable for a period of 15 years
+[candidate_evidence]
+- (NOT ENOUGH INFO) Global warming: Currently, surface temperatures are rising by about 0.2 °C per decade.
+- (SUPPORTS) Global warming: An example of such an episode is the slower rate of surface temperature increase from 1998 to 2012, which was dubbed the global warming hiatus.
+- (NOT ENOUGH INFO) Global warming: Throughout this period ocean heat storage continued to progress steadily upwards, and in subsequent years surface temperatures have spiked upwards.
+- (NOT ENOUGH INFO) Ice age: An ice age is a long period of reduction in the temperature of the Earth's surface and atmosphere, resulting in the presence or expansion of continental and polar ice sheets and alpine glaciers.
+- (NOT ENOUGH INFO) Retreat of glaciers since 1850: The Little Ice Age was a period from about 1550 to 1850 when the world experienced relatively cooler temperatures compared to the time before and after.
+[note] Use this as adversarial contradiction evidence with inline citation.

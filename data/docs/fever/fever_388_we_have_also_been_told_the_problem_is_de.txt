@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 388
+[label] NOT ENOUGH INFO
+[claim] We have also been told the problem is DEFINITELY NOT a billions-year-old planet running through cycles where the temperature might fluctuate a bit.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Earth: Each layer has a different lapse rate, defining the rate of change in temperature with height.
+- (NOT ENOUGH INFO) Earth: This is predicted to produce changes such as the melting of glaciers and ice sheets, more extreme temperature ranges, significant changes in weather and a global rise in average sea levels.
+- (NOT ENOUGH INFO) Planetary habitability: The greater the eccentricity the greater the temperature fluctuation on a planet's surface.
+- (NOT ENOUGH INFO) Planetary habitability: If a day takes years, the temperature differential between the day and night side will be pronounced, and problems similar to those noted with extreme orbital eccentricity will come to the fore.
+- (NOT ENOUGH INFO) Planetary nebula: This may be explained by the presence of small temperature fluctuations within planetary nebulae.
+[note] Use this as adversarial contradiction evidence with inline citation.

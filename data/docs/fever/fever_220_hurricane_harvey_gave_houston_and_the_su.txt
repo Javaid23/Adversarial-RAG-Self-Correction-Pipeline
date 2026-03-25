@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 220
+[label] SUPPORTS
+[claim] Hurricane Harvey gave Houston and the surrounding region a $125 billion lesson about the costs of misjudging the potential for floods
+[candidate_evidence]
+- (SUPPORTS) Houston: "Hurricane Harvey was year's costliest U.S. disaster at $125 billion in damages".
+- (SUPPORTS) Houston: The damage for the Houston area is estimated at up to $125 billion U.S. dollars, and it is considered to be one of the worst natural disasters in the history of the United States, with the death toll exceeding 70 people.
+- (SUPPORTS) Hurricane Harvey: It is tied with 2005's Hurricane Katrina as the costliest tropical cyclone on record, inflicting $125 billion (2017 USD) in damage, primarily from catastrophic rainfall-triggered flooding in the Houston metropolitan area and Southeast Texas.
+- (SUPPORTS) Hurricane Harvey: Preliminary reporting from the National Oceanic and Atmospheric Administration set a more concrete total at $125 billion, making Harvey the 2nd costliest tropical cyclone on record, behind Hurricane Katrina with 2017 costs of $161 billion (after adjusting for inflation).
+- (SUPPORTS) Hurricane Harvey: The National Oceanic and Atmospheric Administration estimated total damage at $125 billion, with a 90% confidence interval of $90–160 billion.
+[note] Use this as adversarial contradiction evidence with inline citation.

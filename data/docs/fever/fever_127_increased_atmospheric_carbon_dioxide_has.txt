@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 127
+[label] REFUTES
+[claim] Increased atmospheric carbon dioxide has helped raise global food production and reduce poverty.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate change and agriculture: In the 1980s and 1990s low world market prices for cereals and livestock resulted in decreased agricultural growth and increased rural poverty.
+- (REFUTES) Global warming: While increased CO 2 levels help crop growth at lower temperature increases, those crops do become less nutritious.
+- (NOT ENOUGH INFO) Human impact on the environment: Global warming is the result of increasing atmospheric carbon dioxide concentrations which is caused primarily by the combustion of fossil energy sources such as petroleum, coal, and natural gas, and to an unknown extent by destruction of forests, increased methane, volcanic activity and cement production.
+- (NOT ENOUGH INFO) Human impact on the environment: Potential negative environmental impacts caused by increasing atmospheric carbon dioxide concentrations are rising global air temperatures, altered hydrogeological cycles resulting in more frequent and severe droughts, storms, and floods, as well as sea level rise and ecosystem disruption.
+- (NOT ENOUGH INFO) Sustainability: A major hurdle to achieve sustainability is the alleviation of poverty.
+[note] Use this as adversarial contradiction evidence with inline citation.

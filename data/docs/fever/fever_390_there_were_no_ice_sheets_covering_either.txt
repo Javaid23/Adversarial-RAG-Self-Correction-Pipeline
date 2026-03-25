@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 390
+[label] REFUTES
+[claim] there were no ice sheets covering either Greenland or West Antarctica, and much of the East Antarctic ice sheet was gone.
+[candidate_evidence]
+- (REFUTES) Antarctica: The mass balance of the East Antarctic Ice Sheet as a whole is thought to be slightly positive (lowering sea level) or near to balance.
+- (NOT ENOUGH INFO) Antarctica: West Antarctica is covered by the West Antarctic Ice Sheet.
+- (NOT ENOUGH INFO) Antarctica: East Antarctica is largely covered by the East Antarctic Ice Sheet.
+- (NOT ENOUGH INFO) West Antarctic Ice Sheet: Play media The Western Antarctic Ice Sheet (WAIS) is the segment of the continental ice sheet that covers West (or Lesser) Antarctica, the portion of Antarctica on the side of the Transantarctic Mountains which lies in the Western Hemisphere.
+- (NOT ENOUGH INFO) West Antarctica: It is separated from East Antarctica by the Transantarctic Mountains and is covered by the West Antarctic Ice Sheet.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 0
+[label] SUPPORTS
+[claim] Global warming is driving polar bears toward extinction
+[candidate_evidence]
+- (NOT ENOUGH INFO) Extinction risk from global warming: "Recent Research Shows Human Activity Driving Earth Towards Global Extinction Event".
+- (SUPPORTS) Global warming: Environmental impacts include the extinction or relocation of many species as their ecosystems change, most immediately the environments of coral reefs, mountains, and the Arctic.
+- (NOT ENOUGH INFO) Global warming: Rising temperatures push bees to their physiological limits, and could cause the extinction of bee populations.
+- (SUPPORTS) Habitat destruction: Rising global temperatures, caused by the greenhouse effect, contribute to habitat destruction, endangering various species, such as the polar bear.
+- (NOT ENOUGH INFO) Polar bear: "Bear hunting caught in global warming debate".
+[note] Use this as adversarial contradiction evidence with inline citation.

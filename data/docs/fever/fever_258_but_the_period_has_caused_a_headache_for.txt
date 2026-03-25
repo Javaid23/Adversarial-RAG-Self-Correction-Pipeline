@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 258
+[label] SUPPORTS
+[claim] But the period has caused a headache for climate scientists because clearly there was no upswell in carbon dioxide that could account for such swift warming.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Eocene: The cause of the warming is considered to be primarily due to carbon dioxide increases, because carbon isotope signatures rule out major methane release during this short term warming.
+- (NOT ENOUGH INFO) Global warming: This is due to carbon dioxide's very long lifetime in the atmosphere.
+- (SUPPORTS) Ice age: In 2009, further evidence was provided that changes in solar insolation provide the initial trigger for the earth to warm after an Ice Age, with secondary factors like increases in greenhouse gases accounting for the magnitude of the change.
+- (SUPPORTS) Ice age: There is considerable evidence that over the very recent period of the last 100–1000 years, the sharp increases in human activity, especially the burning of fossil fuels, has caused the parallel sharp and accelerating increase in atmospheric greenhouse gases which trap the sun's heat.
+- (NOT ENOUGH INFO) Mars ocean hypothesis: Despite a weak early Sun, the greenhouse effect from a thick carbon dioxide atmosphere, if bolstered with small amounts of methane or insulating effects of carbon-dioxide-ice clouds, would have been sufficient to warm the mean surface temperature to a value above the freezing point of water.
+[note] Use this as adversarial contradiction evidence with inline citation.

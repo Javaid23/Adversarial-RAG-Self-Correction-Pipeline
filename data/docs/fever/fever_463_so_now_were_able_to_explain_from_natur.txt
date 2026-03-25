@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 463
+[label] NOT ENOUGH INFO
+[claim] “So now we’re able to explain from natural factors how we’ve had the 20th Century warming.
+[candidate_evidence]
+- (NOT ENOUGH INFO) 20th century: The average global temperature on Earth has increased by about 0.8° Celsius (1.4° Fahrenheit) since 1880; Two-thirds of the warming has occurred since 1975, at a rate of roughly 0.15-0.20 °C per decade.
+- (NOT ENOUGH INFO) 20th century: One argument is that of global warming occurring due to human-caused emission of greenhouse gases, particularly carbon dioxide produced by the burning of fossil fuels.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: The introduction includes this statement: There is strong evidence that the warming of the Earth over the last half-century has been caused largely by human activity, such as the burning of fossil fuels and changes in land use, including agriculture and deforestation.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: These, together with other anthropogenic drivers, are "extremely likely" (where that means more than 95% probability) to have been the dominant cause of the observed global warming since the mid-20th century.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: Since the start of the 20th century, the global mean surface temperature of the Earth has increased by more than 0.7°C and the rate of warming has been largest in the last 30 years.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 530
+[label] SUPPORTS
+[claim] South Australia is winning: it has the most unreliable grid in the world outside Africa and the most expensive electricity.
+[candidate_evidence]
+- (SUPPORTS) Adelaide: [citation needed] South Australia has the highest retail price for electricity in the country.
+- (NOT ENOUGH INFO) Adelaide: "FactCheck: does South Australia have the 'highest energy prices' in the nation and 'the least reliable grid'?".
+- (NOT ENOUGH INFO) South Australia: South Australia has the lead over other Australian states for its commercialisation and commitment to renewable energy.
+- (NOT ENOUGH INFO) South Australia: It is now the leading producer of wind power in Australia.
+- (NOT ENOUGH INFO) South Australia: Renewable energy is a growing source of electricity in South Australia, and there is potential for growth from this particular industry of the state's economy.
+[note] Use this as adversarial contradiction evidence with inline citation.

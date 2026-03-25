@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 344
+[label] REFUTES
+[claim] Globally there’s no clear evidence of trends and patterns in extreme events such as droughts, hurricanes and floods.
+[candidate_evidence]
+- (NOT ENOUGH INFO) El Niño–Southern Oscillation: The extremes of this climate pattern's oscillations cause extreme weather (such as floods and droughts) in many regions of the world.
+- (NOT ENOUGH INFO) Natural disaster: A natural disaster is a major adverse event resulting from natural processes of the Earth; examples are floods, hurricanes, tornadoes, volcanic eruptions, earthquakes, tsunamis, storms, and other geologic processes.
+- (REFUTES) Scientific consensus on climate change: Documented long-term climate changes include changes in Arctic temperatures and ice, widespread changes in precipitation amounts, ocean salinity, wind patterns and extreme weather including droughts, heavy precipitation, heat waves and the intensity of tropical cyclones.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: Health impacts of climate change include the direct impacts of extreme events such as storms, floods, heatwaves and fires and the indirect effects of longer-term changes, such as drought, changes to the food and water supply, resource conflicts and population shifts.
+- (REFUTES) Scientific consensus on climate change: As the Earth's climate warms, we are seeing many changes: stronger, more destructive hurricanes; heavier rainfall; more disastrous flooding; more areas of the world experiencing severe drought; and more heat waves."
+[note] Use this as adversarial contradiction evidence with inline citation.

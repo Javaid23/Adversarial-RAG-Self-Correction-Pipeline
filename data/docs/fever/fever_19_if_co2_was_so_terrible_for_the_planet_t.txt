@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 19
+[label] REFUTES
+[claim] If CO2 was so terrible for the planet, then installing a CO2 generator in a greenhouse would kill the plants.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Carbon dioxide in Earth's atmosphere: The greenhouse effect is a process by which thermal radiation from a planetary atmosphere warms the planet's surface beyond the temperature it would have in the absence of its atmosphere.
+- (REFUTES) Carbon dioxide: At very high concentrations (100 times atmospheric concentration, or greater), carbon dioxide can be toxic to animal life, so raising the concentration to 10,000 ppm (1%) or higher for several hours will eliminate pests such as whiteflies and spider mites in a greenhouse.
+- (NOT ENOUGH INFO) Carbon dioxide: Since the Industrial Revolution anthropogenic emissions – primarily from use of fossil fuels and deforestation – have rapidly increased its concentration in the atmosphere, leading to global warming.
+- (NOT ENOUGH INFO) Terraforming of Mars: Because its atmosphere consists mainly of CO 2, a known greenhouse gas, once Mars begins to heat, the CO 2 may help to keep thermal energy near the surface.
+- (NOT ENOUGH INFO) Terraforming of Mars: These gases are proposed for introduction because they generate a greenhouse effect thousands of times stronger than that of CO 2.
+[note] Use this as adversarial contradiction evidence with inline citation.

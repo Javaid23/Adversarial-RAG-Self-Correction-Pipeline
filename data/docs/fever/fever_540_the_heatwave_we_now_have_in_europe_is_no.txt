@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 540
+[label] SUPPORTS
+[claim] The heatwave we now have in Europe is not something that was expected with just 1C of warming
+[candidate_evidence]
+- (SUPPORTS) 2010 Northern Hemisphere heat waves: Ruse, Bulgaria hit 36.6 °C (97.9 °F) on the 13th making it the warmest spot in Europe.
+- (SUPPORTS) 2010 Northern Hemisphere heat waves: A heat wave started in Moscow on the 27 June, as temperatures reached 33.1 °C (91.6 °F), and stayed around 30 °C (90 °F) for the rest of the week.
+- (SUPPORTS) 2018 British Isles heat wave: 2018's temperature was 16.1 °C (61.0 °F), meaning it ranks as the 18th warmest June recorded in England in the past 359 years, also being the warmest since 1976.
+- (SUPPORTS) Heat wave: June 2019 was the hottest month on record worldwide, the effects of this were especially prominent in Europe.
+- (SUPPORTS) Heat wave: The effects of climate change have been projected to make heat waves in places such as Europe up to five times more likely to occur.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 126
+[label] REFUTES
+[claim] El Niño drove record highs in global temperatures suggesting rise may not be down to man-made emissions.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Attribution of recent climate change: (2012) concluded that human activities had likely led to a warming of extreme daily minimum and maximum temperatures at the global scale.
+- (NOT ENOUGH INFO) Global warming: Global warming is the long-term rise in the average temperature of the Earth's climate system.
+- (NOT ENOUGH INFO) Global warming: CO2 emissions are continuing to rise due to the burning of fossil fuels and land-use change.
+- (REFUTES) Scientific consensus on climate change: While ‘climate change’ can be due to natural forces or human activity, there is now substantial evidence to indicate that human activity – and specifically increased greenhouse gas (GHGs) emissions – is a key factor in the pace and extent of global temperature increases.
+- (REFUTES) Sea level rise: This acceleration is due mostly to human-caused global warming, which is driving thermal expansion of seawater and the melting of land-based ice sheets and glaciers.
+[note] Use this as adversarial contradiction evidence with inline citation.

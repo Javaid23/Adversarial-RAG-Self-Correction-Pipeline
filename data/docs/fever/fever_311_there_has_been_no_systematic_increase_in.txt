@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 311
+[label] REFUTES
+[claim] there has been no systematic increase in the frequency of extreme weather events,
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate change adaptation: This causes a variety of secondary effects, namely, changes in patterns of precipitation, rising sea levels, altered patterns of agriculture, increased extreme weather events, the expansion of the range of tropical diseases, and the opening of new marine trade routes.
+- (REFUTES) Climate of Argentina: These changes have impacted river flow, increased the frequency of extreme weather events, and led to the retreat of glaciers.
+- (REFUTES) Effects of global warming on human health: This has led to an increase in the number and severity of extreme weather events.
+- (NOT ENOUGH INFO) Little Ice Age: This was associated with a 1.5 °C fall in temperature (determined from oxygen-isotope analysis) and an observed increase in El Niño frequency.
+- (NOT ENOUGH INFO) Malnutrition: Even small changes in temperatures can lead to increased frequency of extreme weather conditions.
+[note] Use this as adversarial contradiction evidence with inline citation.

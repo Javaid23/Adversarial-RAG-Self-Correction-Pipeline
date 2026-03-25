@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 30
+[label] NOT ENOUGH INFO
+[claim] the bushfires [in Australia] were caused by arsonists and a series of lightning strikes, not 'climate change'
+[candidate_evidence]
+- (NOT ENOUGH INFO) 2007 Kangaroo Island bushfires: The 2007 Kangaroo Island bushfires were a series of bushfires caused by lightning strikes on 6 December 2007 on Kangaroo Island, South Australia, resulting in the destruction of 95,000 hectares (230,000 acres) of national park and wilderness protection area.
+- (NOT ENOUGH INFO) Bushfires in Australia: Many fires are as a result of either deliberate arson or carelessness, however these fires normally happen in readily accessible areas and are rapidly brought under control.
+- (NOT ENOUGH INFO) Bushfires in Australia: Man-made events include arcing from overhead power lines, arson, accidental ignition in the course of agricultural clearing, grinding and welding activities, campfires, cigarettes and dropped matches, sparks from machinery, and controlled burn escapes.
+- (NOT ENOUGH INFO) Bushfires in Australia: The fires would have been caused by both natural phenomenon and human hands.
+- (NOT ENOUGH INFO) Natural disaster: A summer heat wave in Victoria, Australia, created conditions which fuelled the massive bushfires in 2009.
+[note] Use this as adversarial contradiction evidence with inline citation.

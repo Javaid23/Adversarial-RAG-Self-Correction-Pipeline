@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 199
+[label] REFUTES
+[claim] In the past, warming has never been a threat to life on Earth.
+[candidate_evidence]
+- (REFUTES) Biodiversity: Global warming is a major threat to global biodiversity.
+- (NOT ENOUGH INFO) Global catastrophic risk: If such an event were to occur oriented towards the Earth, the massive amounts of gamma radiation could significantly affect the Earth's atmosphere and pose an existential threat to all life.
+- (NOT ENOUGH INFO) James Lovelock: Lovelock has become concerned about the threat of global warming from the greenhouse effect.
+- (REFUTES) Scientific consensus on climate change: Given the potential threat to marine ecosystems and its ensuing impact on human society and economy, especially as it acts in conjunction with anthropogenic global warming, there is an urgent need for immediate action."
+- (NOT ENOUGH INFO) Scientific consensus on climate change: The ongoing warming will increase risks and stresses to human societies, economies, ecosystems, and wildlife through the 21st century and beyond, making it imperative that society respond to a changing climate.
+[note] Use this as adversarial contradiction evidence with inline citation.

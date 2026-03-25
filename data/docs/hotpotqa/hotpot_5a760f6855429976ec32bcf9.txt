@@ -1,0 +1,31 @@
+[dataset] HotpotQA_distractor
+
+[title] Jean Carper
+Jean Carper (born January 3, 1932) is a New York Times best-selling author, an American medical journalist, contributing editor to USA Weekend Magazine, and author of 24 books including 100 Simple Things You Can Do to Prevent Alzheimer's, Your Miracle Brain, Miracle Cures, the award-winning Stop Aging Now! , and The Food Pharmacy.
+
+[title] Amell Santana
+Amell Santa de Jesus (born July 30, 1987, in Sabana de la Mar) is a Dominican beauty pageant contestant.  She competed in Miss Dominican Republic Universe 2005, representing the province of Hato Mayor, and ended as 1st runner-up.  Santana then competed in Miss Dominican Republic 2005 and also placed as 1st runner-up.  Receiving most of the judge votes, she was crowned as Miss Tierra República Dominicana 2005.  A few months later, she represented the Dominican Republic in the 2005 Miss Earth pageant, placing as 1st runner-up.
+
+[title] Deanna Loveland
+Deanna Marie Loveland (born April 5, 1989) is an American recording artist, harpist, pianist and fashion designer.  She began her career performing the harp at private functions, weddings and celebrity events for Jerry Bruckheimer and his wife, Linda.  Consequently, she began songwriting and in 2005 her original song, "Shine" was 1st Runner-Up out of 12,000 entries in USA Weekend Magazine's national songwriting competition judged by Simon Cowell and Fantasia Barrino.  In March 2007 Loveland released her solo harp album, "Moments".  A month later she signed with a talent agency, appearing in music videos and commercials for companies including Toyota and Target and films including "A Pure Country Gift II" and "Country Strong".
+
+[title] Gloria Almonte
+Almonte won the Miss New York Teen USA 2001 title in late 2000, after placing 2nd Runner-Up in the same competition the year prior.  She represented New York at the Miss Teen USA 2001 pageant held in South Padre Island, Texas on August 22, 2001 where placed 1st Runner-Up to Marissa Whitley of Missouri.  This was New York's first placement since 1996 and their highest since 1988, when Jessica Collins also placed 1st Runner-Up.
+
+[title] Miss New York USA
+The Miss New York USA competition is the pageant that selects the representative for the state of New York in the Miss USA pageant.  New York is one of the most successful states at Miss USA, and is ranked third in terms of number and value of placement across all years of competition .  New York's strongest run was an unbroken string of placements from 1957 to 1966.  New York also had a streak of 3 consecutive 1st runner-up placements from 1972 to 1974.  In 1954, Karin Huitman was 2nd runner-up.  She later moved up to be 1st runner-up, as the original 1st runner-up, Miss Virginia USA was dethroned due to underage (she was 16).  As there was no rule in 1954 that if Miss USA won Miss Universe, first runner-up became Miss USA, Karin was only 1st runner-up.  Huitman went on to become Miss World USA 1954 and 1st runner-up at Miss World 1954.
+
+[title] Target Corporation
+Target Corporation is the second-largest discount store retailer in the United States, behind Walmart, and a component of the S&P 500 Index.  Founded by George Dayton and headquartered in Minneapolis, Minnesota, the company was originally named Goodfellow Dry Goods in June 1902 before being renamed the Dayton's Dry Goods Company in 1903 and later the Dayton Company in 1910.  The first Target store opened in Roseville, Minnesota in 1962 while the parent company was renamed the Dayton Corporation in 1967.  It became the Dayton-Hudson Corporation after merging with the J.L. Hudson Company in 1969 and held ownership of several department store chains including Dayton's, Hudson's, Marshall Field's, and Mervyn's.
+
+[title] Miss North Dakota Teen USA
+Compared to the sister Miss North Dakota USA pageant, North Dakota Teen USAs have been quite successful at Miss Teen USA, and are ranked fifteenth in terms of number and value of placements .  North Dakota is one of only ten states to have had nine or more semifinalist (or better) placings at Miss Teen USA .  Despite this, no Miss North Dakota Teen USA has won the Miss Teen USA crown, and in fact the highest placement ever reached by a North Dakota teen is 2nd runner-up, which was awarded to Katie Cooper 2006.  The new record was made until Audra Mari placed 1st runner-up in 2011.
+
+[title] Mary Murphy (news personality)
+Mary Murphy is an American television personality, print journalist and author.  She is an on-air correspondent for "The Insider" and a news producer at "Entertainment Tonight".  Murphy is also a Senior Lecturer at USC Annenberg School for Communication and Journalism.  She is a contributor to the "Los Angeles Times Magazine", "USA Weekend Magazine", the "New York Post" and "The Hollywood Reporter".  Murphy has been on the staff of the "Los Angeles Times" and New York, "Esquire", and "TV Guide" Magazines.
+
+[title] Carole Gist
+Carole Anne-Marie Gist (born May 8, 1969) is an American TV host, model and first African American woman to win the Miss USA title.  Gist first won the title of Miss Michigan USA and went on to win the Miss USA crown on March 2, 1990 in Wichita, Kansas.  The 1990 pageant had representatives from Georgia (Brenda Leithleiter), Alaska (Karin Elizabeth Meyer), Kentucky (Tiffany Tenfelde), South Carolina (Gina Tolleson, who as 1st runner-up then went on to represent the country at the Miss World pageant, winning the title) and Karin Hartz of New Jersey making up with Gist the Top 6 finalists.  Gist, a 5 ft Detroit native, 20 years old at the time, eventually became first runner-up to Mona Grudt of Norway in the Miss Universe pageant of that same year.  She was also the first contestant from Michigan to win Miss USA, and broke the five-year streak of winners from Texas.
+
+[title] Anne Marie Braafheid
+Anne Marie Braafheid became the first black woman to attain the position of 1st runner-up in the Miss Universe contest.  She was the second black woman to reach the top 15 finalists position, after Evelyn Miot of Haiti in 1962.  She represented Curaçao in the 1968 pageant, and was featured in Ebony Magazine after achieving 1st runner-up status

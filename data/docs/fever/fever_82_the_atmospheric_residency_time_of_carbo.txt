@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 82
+[label] REFUTES
+[claim] The ­atmospheric residency time of carbon dioxide is five years
+[candidate_evidence]
+- (NOT ENOUGH INFO) Carbon dioxide: Five hundred million years ago the carbon dioxide concentration was 20 times greater than today, decreasing to 4–5 times during the Jurassic period and then slowly declining with a particularly swift reduction occurring 49 million years ago.
+- (NOT ENOUGH INFO) Eocene: "Atmospheric carbon dioxide concentrations over the past 60 million years".
+- (NOT ENOUGH INFO) Greenhouse gas: As a result of this balance, the atmospheric mole fraction of carbon dioxide remained between 260 and 280 parts per million for the 10,000 years between the end of the last glacial maximum and the start of the industrial era.
+- (REFUTES) Greenhouse gas: The atmospheric lifetime of CO 2 is estimated of the order of 30–95 years.
+- (NOT ENOUGH INFO) Greenhouse gas: N2O has a mean atmospheric lifetime of 121 years.
+[note] Use this as adversarial contradiction evidence with inline citation.

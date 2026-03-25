@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 549
+[label] SUPPORTS
+[claim] The extent of climate change’s influence on the jet stream is an intense subject of research.
+[candidate_evidence]
+- (SUPPORTS) Arctic sea ice decline: Based on effects of Arctic amplification (warming) and ice loss, a study in 2015 concluded that highly amplified jet-stream patterns are occurring more frequently in the past two decades, and that such patterns can not be tied to certain seasons.
+- (NOT ENOUGH INFO) Cloud: As a consequence, much research has focused on the response of low and vertical clouds to a changing climate.
+- (NOT ENOUGH INFO) Hurricane Harvey: The relationship between climate change and the frequency of hurricanes (or tropical cyclones) is still unclear, and is the subject of continuing research.
+- (NOT ENOUGH INFO) Jet stream: Climatological Studies of the Influences of El Niño Southern Oscillation Events in the Precipitation Pattern Over South America During Austral Summer.
+- (NOT ENOUGH INFO) Jet stream: The factors that control the number of jet streams in a planetary atmosphere is an active area of research in dynamical meteorology.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 294
+[label] SUPPORTS
+[claim] A global network of 500 scientists and professionals has prepared this urgent message.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Emergency management: TIEMS is a Global Forum for Education, Training, Certification and Policy in Emergency and Disaster Management.
+- (NOT ENOUGH INFO) Emergency management: The National Institute of Disaster Management is a policy think-tank and training institution for developing guidelines and training programs for mitigating disasters and managing crisis response.
+- (NOT ENOUGH INFO) Global governance: Dr. Rajesh Tandon, president of the FIM (Montreal International Forum) and of PRIA (Participatory Research in Asia), prepared a framework document entitled "Democratization of Global Governance for Global Democracy: Civil Society Visions and Strategies (G05) conference."
+- (NOT ENOUGH INFO) Sustainability: The Millennium Ecosystem Assessment is an international synthesis by over 1000 of the world's leading biological scientists that analyzes the state of the Earth's ecosystems and provides summaries and guidelines for decision-makers.
+- (SUPPORTS) Sustainability: The scientists declared "climate emergency" and called to stop Overconsumption, move from fossil fuels, eat less meat, stabilize population and more The philosophical and analytic framework of sustainability draws on and connects with many different disciplines and fields; in recent years an area that has come to be called sustainability science has emerged.
+[note] Use this as adversarial contradiction evidence with inline citation.

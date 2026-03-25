@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 10
+[label] REFUTES
+[claim] Human additions of CO2 are in the margin of error of current measurements and the gradual increase in CO2 is mainly from oceans degassing as the planet slowly emerges from the last ice age.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Carbon dioxide in Earth's atmosphere: While CO 2 absorption and release is always happening as a result of natural processes, the recent rise in CO 2 levels in the atmosphere is known to be mainly due to human (anthropogenic) activity.
+- (NOT ENOUGH INFO) Carbon dioxide in Earth's atmosphere: The burning of long-buried fossil fuels releases CO 2 containing carbon of different isotopic ratios to those of living plants, enabling distinction between natural and human-caused contributions to CO 2 concentration.
+- (NOT ENOUGH INFO) Carbon dioxide in Earth's atmosphere: The beginning of human agriculture during the current Holocene epoch may have been strongly connected to the atmospheric CO 2 increase after the last ice age ended, a fertilization effect raising plant biomass growth and reducing stomatal conductance requirements for CO 2 intake, consequently reducing transpiration water losses and increasing water usage efficiency.
+- (NOT ENOUGH INFO) Ocean acidification: Ocean acidification is the ongoing decrease in the pH of the Earth's oceans, caused by the uptake of carbon dioxide (CO 2) from the atmosphere.
+- (REFUTES) Sea: More recently, anthropogenic activities have steadily increased the carbon dioxide content of the atmosphere; about 30–40% of the added CO2 is absorbed by the oceans, forming carbonic acid and lowering the pH (now below 8.1) through a process called ocean acidification.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 109
+[label] SUPPORTS
+[claim] Local and regional sea levels continue to exhibit typical natural variability—in some places rising and in others falling.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Sea level: The term "steric" refers to global changes in sea level due to thermal expansion and salinity variations.
+- (NOT ENOUGH INFO) Sea level: Local mean sea level (LMSL) is defined as the height of the sea with respect to a land benchmark, averaged over a period of time (such as a month or a year) long enough that fluctuations caused by waves and tides are smoothed out.
+- (SUPPORTS) Sea: Tides, the generally twice-daily rise and fall of sea levels, are caused by Earth's rotation and the gravitational effects of the orbiting Moon and, to a lesser extent, of the Sun.
+- (SUPPORTS) Sea: Tides are the regular rise and fall in water level experienced by seas and oceans in response to the gravitational influences of the Moon and the Sun, and the effects of the Earth's rotation.
+- (NOT ENOUGH INFO) Sea: For at least the last 100 years, sea level has been rising at an average rate of about 1.8 millimetres (0.071 in) per year.
+[note] Use this as adversarial contradiction evidence with inline citation.

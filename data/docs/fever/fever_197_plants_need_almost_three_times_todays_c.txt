@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 197
+[label] NOT ENOUGH INFO
+[claim] Plants need almost three times today’s carbon dioxide content of the atmosphere to thrive.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Atmosphere of Earth: By volume, dry air contains 78.09% nitrogen, 20.95% oxygen, 0.93% argon, 0.04% carbon dioxide, and small amounts of other gases.
+- (NOT ENOUGH INFO) Carbon dioxide: During active photosynthesis, plants can absorb more carbon dioxide from the atmosphere than they release in respiration.
+- (NOT ENOUGH INFO) Carbon dioxide: Plants can grow as much as 50 percent faster in concentrations of 1,000 ppm CO 2 when compared with ambient conditions, though this assumes no change in climate and no limitation on other nutrients.
+- (NOT ENOUGH INFO) Deforestation: Plants remove carbon in the form of carbon dioxide from the atmosphere during the process of photosynthesis, but release some carbon dioxide back into the atmosphere during normal respiration.
+- (NOT ENOUGH INFO) Earth: A dry atmosphere is composed of 78.084% nitrogen, 20.946% oxygen, 0.934% argon, and trace amounts of carbon dioxide and other gaseous molecules.
+[note] Use this as adversarial contradiction evidence with inline citation.

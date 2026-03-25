@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 61
+[label] NOT ENOUGH INFO
+[claim] [NASA] has been adjusting temperatures from the past[...]
+[candidate_evidence]
+- (NOT ENOUGH INFO) Global warming: "Estimating Changes in Global Temperature since the Preindustrial Period".
+- (NOT ENOUGH INFO) Global warming: The 1720–1800 period is most suitable to be defined as preindustrial in physical terms ...
+- (NOT ENOUGH INFO) NASA: On January 14, 1958, NACA Director Hugh Dryden published "A National Research Program for Space Technology" stating: Play media It is of great urgency and importance to our country both from consideration of our prestige as a nation as well as military necessity that this challenge [Sputnik] be met by an energetic program of research and development for the conquest of space ...
+- (NOT ENOUGH INFO) NASA: ""2016 Climate Trends Continue to Break Records".
+- (NOT ENOUGH INFO) Space Shuttle Challenger disaster: Tests and adjusted calculations later confirmed that the temperature of the joint was not substantially different from the ambient temperature.
+[note] Use this as adversarial contradiction evidence with inline citation.

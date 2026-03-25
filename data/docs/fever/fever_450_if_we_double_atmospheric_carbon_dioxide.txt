@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 450
+[label] REFUTES
+[claim] If we double atmospheric carbon dioxide[…] we’d only raise global surface temperatures by about a degree Celsius.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Carbon dioxide: Increases in atmospheric concentrations of CO 2 and other long-lived greenhouse gases such as methane, nitrous oxide and ozone have correspondingly strengthened their absorption and emission of infrared radiation, causing the rise in average global temperature since the mid-20th century.
+- (NOT ENOUGH INFO) Carbon dioxide: Not only do increasing carbon dioxide concentrations lead to increases in global surface temperature, but increasing global temperatures also cause increasing concentrations of carbon dioxide.
+- (NOT ENOUGH INFO) Global warming: Currently, surface temperatures are rising by about 0.2 °C per decade.
+- (REFUTES) Greenhouse gas: At current emission rates, temperatures could increase by 2 °C, which the United Nations' Intergovernmental Panel on Climate Change (IPCC) designated as the upper limit to avoid "dangerous" levels, by 2036.
+- (REFUTES) Svante Arrhenius: On the other hand, any doubling of the percentage of carbon dioxide in the air would raise the temperature of the earth's surface by 4°; and if the carbon dioxide were increased fourfold, the temperature would rise by 8°."
+[note] Use this as adversarial contradiction evidence with inline citation.

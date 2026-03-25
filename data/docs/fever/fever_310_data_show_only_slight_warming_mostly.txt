@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 310
+[label] SUPPORTS
+[claim] [data] show only slight warming, mostly at night and in winter
+[candidate_evidence]
+- (NOT ENOUGH INFO) Cloud: The water reacts by radiating, also in the infrared, both upward and downward, and the downward longwave radiation results in increased warming at the surface.
+- (NOT ENOUGH INFO) Earth: Consequently, summers are 2.3 °C (4 °F) warmer in the Northern Hemisphere than in the Southern Hemisphere under similar conditions.
+- (NOT ENOUGH INFO) Earth: In winter, the climate becomes cooler and the days shorter.
+- (NOT ENOUGH INFO) Environmental impact of wind power: Overall, wind farms lead to a slight warming at night and a slight cooling during the day time.
+- (SUPPORTS) Global warming: Since 1950, the number of cold days and nights have decreased, and the number of warm days and night have increased.
+[note] Use this as adversarial contradiction evidence with inline citation.

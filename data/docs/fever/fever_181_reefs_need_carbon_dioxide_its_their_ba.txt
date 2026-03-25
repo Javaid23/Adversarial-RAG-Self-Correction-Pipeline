@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 181
+[label] NOT ENOUGH INFO
+[claim] Reefs need carbon dioxide; it’s their basic food.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Anthozoa: In this symbiotic relationship, the zooxanthellae benefit by using nitrogenous waste and carbon dioxide produced by the host while the cnidarian gains photosynthetic capability and increased production of calcium carbonate, a substance of great importance to stony corals.
+- (NOT ENOUGH INFO) Breathing: All aerobic creatures need oxygen for cellular respiration, which uses the oxygen to break down foods for energy and produces carbon dioxide as a waste product.
+- (NOT ENOUGH INFO) Gas exchange: In aerobic organisms, gas exchange is particularly important for respiration, which involves the uptake of oxygen (O 2) and release of carbon dioxide (CO 2).
+- (NOT ENOUGH INFO) Ocean acidification: Ocean acidification is the ongoing decrease in the pH of the Earth's oceans, caused by the uptake of carbon dioxide (CO 2) from the atmosphere.
+- (NOT ENOUGH INFO) Sea: Marine life plays an important part in the carbon cycle as photosynthetic organisms convert dissolved carbon dioxide into organic carbon and it is economically important to humans for providing fish for use as food.
+[note] Use this as adversarial contradiction evidence with inline citation.

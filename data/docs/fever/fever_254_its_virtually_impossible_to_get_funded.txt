@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 254
+[label] SUPPORTS
+[claim] it’s virtually impossible to get funded for work that disputes climate change through other channels [other than oil companies]
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate change denial: "Dirty Money, Oil Companies and Special Interests Spend Millions to Oppose Climate Legislation".
+- (NOT ENOUGH INFO) Climate change denial: Several large corporations within the fossil fuel industry provide significant funding for attempts to mislead the public about the trustworthiness of climate science.
+- (NOT ENOUGH INFO) Climate change denial: The coalition was financed by large corporations and trade groups from the oil, coal and auto industries.
+- (NOT ENOUGH INFO) Climate change denial: During the 1990s, the tobacco campaign died away, and TASSC began taking funding from oil companies including Exxon.
+- (SUPPORTS) Climate change denial: The New York Times and others reported in 2015 that oil companies knew that burning oil and gas could cause climate change and global warming since the 1970s but nonetheless funded deniers for years.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 200
+[label] NOT ENOUGH INFO
+[claim] if we halved today’s atmospheric carbon dioxide content, all life would die.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Atmosphere of Earth: By volume, dry air contains 78.09% nitrogen, 20.95% oxygen, 0.93% argon, 0.04% carbon dioxide, and small amounts of other gases.
+- (NOT ENOUGH INFO) Carbon dioxide: Carbon dioxide in Earth's atmosphere is a trace gas, currently (mid 2018) having a global average concentration of 409 parts per million by volume (or 622 parts per million by mass).
+- (NOT ENOUGH INFO) Earth: Earth's increasing surface temperature will accelerate the inorganic carbon cycle, reducing CO 2 concentration to levels lethally low for plants (10 ppm for C4 photosynthesis) in approximately 100–900 million years.
+- (NOT ENOUGH INFO) Earth: The lack of vegetation will result in the loss of oxygen in the atmosphere, making animal life impossible.
+- (NOT ENOUGH INFO) Eocene: For contrast, today the carbon dioxide levels are at 400 ppm or 0.04%.
+[note] Use this as adversarial contradiction evidence with inline citation.

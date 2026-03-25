@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 184
+[label] REFUTES
+[claim] It has never been shown that human emissions of carbon dioxide drive global warming.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Carbon dioxide: Since the Industrial Revolution anthropogenic emissions – primarily from use of fossil fuels and deforestation – have rapidly increased its concentration in the atmosphere, leading to global warming.
+- (NOT ENOUGH INFO) Global warming: CO2 emissions are continuing to rise due to the burning of fossil fuels and land-use change.
+- (REFUTES) Global warming: In the scientific literature, there is an overwhelming consensus that global surface temperatures have increased in recent decades and that the trend is caused mainly by human-induced emissions of greenhouse gases.
+- (NOT ENOUGH INFO) Global warming: Human activity since the Industrial Revolution has increased the amount of greenhouse gases in the atmosphere, leading to increased radiative forcing from CO2, methane, tropospheric ozone, CFCs, and nitrous oxide.
+- (NOT ENOUGH INFO) Global warming: The largest human influence has been the emission of greenhouse gases such as carbon dioxide, methane, and nitrous oxide.
+[note] Use this as adversarial contradiction evidence with inline citation.

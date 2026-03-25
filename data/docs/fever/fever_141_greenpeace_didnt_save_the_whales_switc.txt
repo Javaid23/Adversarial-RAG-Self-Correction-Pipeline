@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 141
+[label] NOT ENOUGH INFO
+[claim] Greenpeace didn’t save the whales, switching from whale oil to petroleum and palm oil did
+[candidate_evidence]
+- (NOT ENOUGH INFO) Greenpeace: Greenpeace is also critical of extracting petroleum from oil sands and has used direct action to block operations at the Athabasca oil sands in Canada.
+- (NOT ENOUGH INFO) Greenpeace: Another Greenpeace movement concerning the rain forests is discouraging palm oil industries.
+- (NOT ENOUGH INFO) Greenpeace: Greenpeace is also calling Wilmar out for breaking the commitment to end deforestation policy signed by Wilmar in December 2013 where they promise to incorporate organic and sustainable ways to collect palm oil.
+- (NOT ENOUGH INFO) Greenpeace: Brands cannot let this deception pass unchallenged and have no choice but to suspend all business with Wilmar until it can prove it only trades clean palm oil from responsible producers."
+- (NOT ENOUGH INFO) Petroleum: James S. Robbins has argued that the advent of petroleum-refined kerosene saved some species of great whales from extinction by providing an inexpensive substitute for whale oil, thus eliminating the economic imperative for open-boat whaling.
+[note] Use this as adversarial contradiction evidence with inline citation.

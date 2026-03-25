@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 487
+[label] NOT ENOUGH INFO
+[claim] “It’s horrifying that we’d lose our biodiversity to avert climate change.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate change and ecosystems: Studying the association between Earth climate and extinctions over the past 520 million years, scientists from the University of York write, "The global temperatures predicted for the coming centuries may trigger a new ‘mass extinction event’, where over 50 percent of animal and plant species would be wiped out."
+- (NOT ENOUGH INFO) Climate change and ecosystems: Researchers expect that over time, climate change will affect mountain and lowland ecosystems, the frequency and intensity of forest fires, the diversity of wildlife, and the distribution of fresh water.
+- (NOT ENOUGH INFO) Climate change in Australia: Australia has some of the world's most diverse ecosystems and natural habitats, and it may be this variety that makes them the Earth's most fragile and at-risk when exposed to climate change.
+- (NOT ENOUGH INFO) Intergovernmental Panel on Climate Change: "Ecosystems and species are vulnerable to climate change and other stresses (as illustrated by observed impacts of recent regional temperature changes) and some will be irreversibly damaged or lost."
+- (NOT ENOUGH INFO) Scientific consensus on climate change: The integrity of essential natural systems is already at risk from climate change caused by the atmospheric emissions of greenhouse gases.
+[note] Use this as adversarial contradiction evidence with inline citation.

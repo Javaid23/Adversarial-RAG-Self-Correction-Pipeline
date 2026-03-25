@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 531
+[label] NOT ENOUGH INFO
+[claim] When South Australians buy electricity at $14,200/MWh, they are paying the equivalent of $400 a litre for petrol.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Energy policy of India: The retail price of petrol is 75.00 Rs/litre in 2012-13.
+- (NOT ENOUGH INFO) Energy policy of India: The affordable electricity retail price (860 kcal/kWh at 75% input electricity to shaft power efficiency) to replace petrol (lower heating value 7693 kcal/litre at 33% fuel energy to crank shaft efficiency) is 19.06 Rs/kWh.
+- (NOT ENOUGH INFO) Kilowatt hour: The kilowatt-hour (kWh, also kW⋅h or kW h) is a unit of energy equal to 3600 kilojoules (3.6 megajoules).
+- (NOT ENOUGH INFO) National Electricity Market: The maximum price was $14,000/MWh in 2016-2017, $13,800/MWh in 2015-2016, $13,500/MWh in 2014-2015, and $13,100/MWh in 2013-2014.
+- (NOT ENOUGH INFO) Solar power: As of 2018, the unsubsidised levelised cost of electricity for utility scale solar power is around $43/MWh.
+[note] Use this as adversarial contradiction evidence with inline citation.

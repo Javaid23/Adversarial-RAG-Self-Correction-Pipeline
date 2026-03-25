@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 74
+[label] SUPPORTS
+[claim] The models predicted about three times the amount of warming in the world we’ve seen since [1988].
+[candidate_evidence]
+- (SUPPORTS) Global warming controversy: Models referenced by the Intergovernmental Panel on Climate Change (IPCC) predict that global temperatures are likely to increase by 1.1 to 6.4 °C (2.0 to 11.5 °F) between 1990 and 2100.
+- (NOT ENOUGH INFO) Global warming: Currently, surface temperatures are rising by about 0.2 °C per decade.
+- (NOT ENOUGH INFO) Global warming: In 1896, he published the first climate model of its kind, showing that halving of CO 2 could have produced the drop in temperature initiating the ice age.
+- (NOT ENOUGH INFO) Global warming: The 10th Emissions Gap Report issued by the United Nations Environment Programme (UNEP) predicts that if emissions continue to increase at the same rate as they have in 2010–2020, global temperatures would rise by as much as 4° by 2100.
+- (NOT ENOUGH INFO) Global warming: Climate model projections summarized in the report indicated that during the 21st century the global surface temperature is likely to rise a further 0.3 to 1.7 °C (0.5 to 3.1 °F) in a moderate scenario, or as much as 2.6 to 4.8 °C (4.7 to 8.6 °F) in an extreme scenario, depending on the rate of future greenhouse gas emissions and on climate feedback effects.
+[note] Use this as adversarial contradiction evidence with inline citation.

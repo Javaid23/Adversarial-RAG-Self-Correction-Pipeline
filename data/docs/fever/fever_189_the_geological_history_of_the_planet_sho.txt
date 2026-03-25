@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 189
+[label] 3
+[claim] The geological history of the planet shows major planetary climate changes have never been driven by a trace gas
+[candidate_evidence]
+- (SUPPORTS) Climate change denial: Rennie 2009: "Claim 1: Anthropogenic CO2 can't be changing climate, because CO2 is only a trace gas in the atmosphere and the amount produced by humans is dwarfed by the amount from volcanoes and other natural sources.
+- (NOT ENOUGH INFO) Earth: This last phenomenon is known as the greenhouse effect: trace molecules within the atmosphere serve to capture thermal energy emitted from the ground, thereby raising the average temperature.
+- (SUPPORTS) Earth: The distance of Earth from the Sun, as well as its orbital eccentricity, rate of rotation, axial tilt, geological history, sustaining atmosphere, and magnetic field all contribute to the current climatic conditions at the surface.
+- (REFUTES) Global warming: Scientists have determined that the major factors causing the current climate change are greenhouse gases, land use changes, and aerosols and soot.
+- (NOT ENOUGH INFO) Natural environment: The remaining gases are often referred to as trace gases, among which are the greenhouse gases such as water vapor, carbon dioxide, methane, nitrous oxide, and ozone.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 307
+[label] SUPPORTS
+[claim] For instance, wind turbines kill birds and insects, and palm-oil plantations destroy the biodiversity of the rainforests
+[candidate_evidence]
+- (NOT ENOUGH INFO) Deforestation: Forests support biodiversity, providing habitat for wildlife; moreover, forests foster medicinal conservation.
+- (NOT ENOUGH INFO) Palm oil: However palm oil cultivation has been criticized for its impact on the natural environment, including deforestation, loss of natural habitats, and greenhouse gas emissions which have threatened critically endangered species, such as the orangutan and Sumatran tiger.
+- (NOT ENOUGH INFO) Palm oil: The IUCN maintains that replacing palm oil with other vegetable oils would necessitate greater amounts of agricultural land, negatively affecting biodiversity.
+- (SUPPORTS) Wind turbine: Thousands of birds, including rare species, have been killed by the blades of wind turbines, though wind turbines contribute relatively insignificantly to anthropogenic avian mortality.
+- (NOT ENOUGH INFO) Wind turbine: In 2009, for every bird killed by a wind turbine in the US, nearly 500,000 were killed by cats and another 500,000 by buildings.
+[note] Use this as adversarial contradiction evidence with inline citation.

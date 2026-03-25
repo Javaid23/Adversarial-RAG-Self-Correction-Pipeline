@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 18
+[label] REFUTES
+[claim] it’s not a pollutant that threatens human civilization.
+[candidate_evidence]
+- (REFUTES) Air pollution: An air pollutant is a material in the air that can have adverse effects on humans and the ecosystem.
+- (NOT ENOUGH INFO) Global catastrophic risk: A global catastrophic risk is a hypothetical future event which could damage human well-being on a global scale, even endangering or destroying modern civilization.
+- (REFUTES) Global catastrophic risk: The report warned that the pollution crisis was exceeding "the envelope on the amount of pollution the Earth can carry" and “threatens the continuing survival of human societies”.
+- (NOT ENOUGH INFO) Global catastrophic risk: The present, unprecedented scale and speed of human movement make it more difficult than ever to contain an epidemic through local quarantines, and other sources of uncertainty and the evolving nature of the risk means natural pandemics may pose a realistic threat to human civilization.
+- (NOT ENOUGH INFO) Global catastrophic risk: "Global pollution kills 9m a year and threatens 'survival of human societies'".
+[note] Use this as adversarial contradiction evidence with inline citation.

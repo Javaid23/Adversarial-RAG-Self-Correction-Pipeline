@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 103
+[label] REFUTES
+[claim] global warming ceased around the end of the twentieth century and was followed (since 1997) by 19 years of stable temperature
+[candidate_evidence]
+- (NOT ENOUGH INFO) 20th century: The 20th (twentieth) century was a century that began on January 1, 1901 and ended on December 31, 2000.
+- (REFUTES) 20th century: The average global temperature on Earth has increased by about 0.8° Celsius (1.4° Fahrenheit) since 1880; Two-thirds of the warming has occurred since 1975, at a rate of roughly 0.15-0.20 °C per decade.
+- (REFUTES) Global warming: Between 1993 and 2017, the global mean sea level rose on average by 3.1 ± 0.3 mm per year, with an acceleration detected as well.
+- (REFUTES) Global warming: The period from 1983 to 2012 was likely the warmest 30-year period of the last 1400 years in the Northern Hemisphere, where such assessment is possible (medium confidence).
+- (REFUTES) Global warming: An example of such an episode is the slower rate of surface temperature increase from 1998 to 2012, which was dubbed the global warming hiatus.
+[note] Use this as adversarial contradiction evidence with inline citation.

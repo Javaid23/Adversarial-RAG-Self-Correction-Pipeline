@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 506
+[label] NOT ENOUGH INFO
+[claim] More than 100 climate models over the past 30 years did not predict what actually happened because it was assumed carbon dioxide had the pivotal role in driving climate change and that the effects of clouds, back-radiation and the sun were trivial.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Attribution of recent climate change: Climate models have been used to examine the role of the Sun in recent climate change.
+- (NOT ENOUGH INFO) Attribution of recent climate change: (2007) allowed for the possibility that climate models had been underestimated the effect of solar forcing.
+- (NOT ENOUGH INFO) Global warming: Computer models are run on supercomputers to reproduce and predict the circulation of the oceans, the annual cycle of the seasons, and the flows of carbon between the land surface and the atmosphere.
+- (NOT ENOUGH INFO) Global warming: "How the oceans absorb carbon dioxide is critical for predicting climate change".
+- (NOT ENOUGH INFO) Intergovernmental Panel on Climate Change: They judge that global mean surface air temperature has increased by 0.3 to 0.6 °C over the last 100 years, broadly consistent with prediction of climate models, but also of the same magnitude as natural climate variability.
+[note] Use this as adversarial contradiction evidence with inline citation.

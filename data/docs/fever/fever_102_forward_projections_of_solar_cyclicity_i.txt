@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 102
+[label] NOT ENOUGH INFO
+[claim] Forward projections of solar cyclicity imply the next few decades may be marked by global cooling rather than warming, despite continuing CO2 emissions.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Global cooling: When the model included estimated changes in solar intensity, it gave a reasonable match to temperatures over the previous thousand years and its prediction was that "CO 2 warming dominates the surface temperature patterns soon after 1980."
+- (NOT ENOUGH INFO) Global warming: Global anthropogenic greenhouse gas emissions in 2010 were equivalent to 49 billion tonnes of carbon dioxide (using the most recent global warming potentials over 100 years from the AR5 report).
+- (NOT ENOUGH INFO) Scientific consensus on climate change: Avoiding this future warming will require a large and rapid reduction in global greenhouse gas emissions.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: The current trajectory of global greenhouse gas emissions is not consistent with limiting global warming to below 1.5 or 2 °C, relative to pre-industrial levels.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: It said that Continued emission of greenhouse gases will cause further warming and long-lasting changes in all components of the climate system, increasing the likelihood of severe, pervasive and irreversible impacts for people and ecosystems.
+[note] Use this as adversarial contradiction evidence with inline citation.

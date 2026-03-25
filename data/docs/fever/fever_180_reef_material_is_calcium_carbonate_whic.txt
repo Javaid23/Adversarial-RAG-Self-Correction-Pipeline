@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 180
+[label] SUPPORTS
+[claim] Reef material is calcium carbonate, which contains 44 per cent carbon dioxide.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Calcium carbonate: Under these conditions calcium carbonate decomposes to produce carbon dioxide which, along with other gases, give rise to explosive volcanic eruptions.
+- (SUPPORTS) Carbon sink: The calcium carbonate from which coral skeletons are made is just over 60% carbon dioxide.
+- (SUPPORTS) Coral: Scleractinian skeletons are composed of a form of calcium carbonate known as aragonite.
+- (NOT ENOUGH INFO) Limestone: Its major materials are the minerals calcite and aragonite, which are different crystal forms of calcium carbonate (CaCO3).
+- (SUPPORTS) Reef: Cyanobacteria can encourage the precipitation or accumulation of calcium carbonate to produce distinct sediment bodies in composition that have relief on the seafloor.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 381
+[label] 3
+[claim] [subsidies for wind and solar] add to emissions because coal-fired elec­tricity needs to be on standby for when there is no wind or sunshine.
+[candidate_evidence]
+- (SUPPORTS) Energy subsidy: Though in 2007 some suggested that a subsidy shift would help to level the playing field and support growing energy sectors, namely solar power, wind power, and bio-fuels., by 2017 those sources combined had yet to provide 10% of U.S. electricity, and intermittency forced utilities to remain reliant on oil, natural gas, and coal to meet baseload demand.
+- (NOT ENOUGH INFO) Energy subsidy: Because fossil fuels are a leading contributor to climate change through greenhouse gases, fossil fuel subsidies increase emissions and exacerbate climate change.
+- (NOT ENOUGH INFO) Fossil fuel: Fossil fuel-fired electric power plants also emit carbon dioxide, which may contribute to climate change.
+- (NOT ENOUGH INFO) Renewable energy commercialization: The Solar updraft tower (SUT) is a renewable-energy power plant for generating electricity from low temperature solar heat.
+- (REFUTES) Renewable energy commercialization: Shifting these subsidies to the development of climate-benign energy sources such as wind, solar, biomass, and geothermal power is the key to stabilizing the earth's climate."
+[note] Use this as adversarial contradiction evidence with inline citation.

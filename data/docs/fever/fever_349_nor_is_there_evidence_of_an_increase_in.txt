@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 349
+[label] REFUTES
+[claim] Nor is there evidence of an increase in floods globally.
+[candidate_evidence]
+- (REFUTES) Effects of global warming on human health: With the increase in temperatures worldwide due to climate change the increase in flooding is unavoidable.
+- (NOT ENOUGH INFO) Physical impacts of climate change: The increase in global freshwater flow, based on data from 1994 to 2006, was about 18%.
+- (REFUTES) Sea level rise: Widespread coastal flooding is expected with several degrees of warming sustained for millennia.
+- (NOT ENOUGH INFO) Sea level rise: Such impacts include increased coastal erosion, higher storm-surge flooding, inhibition of primary production processes, more extensive coastal inundation, changes in surface water quality and groundwater characteristics, increased loss of property and coastal habitats, increased flood risk and potential loss of life, loss of non-monetary cultural resources and values, impacts on agriculture and aquaculture through decline in soil and water quality, and loss of tourism, recreation, and transportation functions.
+- (NOT ENOUGH INFO) Sea level rise: Sea level rise causes an increase in frequency and magnitude of floodings in the city that already spent more than 6 billion$ on the flood barrier system.
+[note] Use this as adversarial contradiction evidence with inline citation.

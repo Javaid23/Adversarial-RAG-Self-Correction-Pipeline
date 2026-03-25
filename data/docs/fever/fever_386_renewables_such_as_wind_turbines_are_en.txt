@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 386
+[label] REFUTES
+[claim] Renew­ables such as wind turbines are environmentally disastrous because they pollute a huge land area, slice and dice birds and bats, kill insects that are bird food, create health problems for humans who live within kilometres of them, leave toxins around the turbine site and despoil the landscape.
+[candidate_evidence]
+- (REFUTES) Environmental impact of wind power: Fossil-fueled power plants, which wind turbines generally require to make up for their weather dependent intermittency, kill almost 20 times as many birds per gigawatt hour (GWh) of electricity according to Sovacool.
+- (NOT ENOUGH INFO) Human impact on the environment: These insects accumulate toxins in their exoskeletons and pass them on to insectivorous birds and bats.
+- (NOT ENOUGH INFO) Raptor conservation: Because they are opportunistic carnivores, birds of prey are at high risk of secondary poisoning by eating organisms that have been killed or debilitated by pesticides.
+- (NOT ENOUGH INFO) Wind turbine: Thousands of birds, including rare species, have been killed by the blades of wind turbines, though wind turbines contribute relatively insignificantly to anthropogenic avian mortality.
+- (NOT ENOUGH INFO) Wind turbine: damaging Australia's Great Barrier Reef) and by water acidification from combustion monoxides.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 419
+[label] SUPPORTS
+[claim] But the heads of small island nations, fearful of rising sea levels, had also asked scientists to examine the effects of 2.7 degrees of warming.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Effects of global warming: In 2015, a study by Professor James Hansen of Columbia University and 16 other climate scientists said a sea level rise of three metres could be a reality by the end of the century.
+- (NOT ENOUGH INFO) Global warming: The effects of global warming include rising sea levels, regional changes in precipitation, more frequent extreme weather events such as heat waves, and expansion of deserts.
+- (SUPPORTS) Regional effects of global warming: "Rising sea levels threaten small Pacific island nations".
+- (SUPPORTS) Tuvalu: Tuvaluan leaders have been concerned about the effects of rising sea levels.
+- (NOT ENOUGH INFO) Tuvalu: Sopoaga said in his speech to the meeting of heads of state and government: Tuvalu's future at current warming, is already bleak, any further temperature increase will spell the total demise of Tuvalu ... For Small Island Developing States, Least Developed Countries and many others, setting a global temperature goal of below 1.5 degrees Celsius relative to pre-industrial levels is critical.
+[note] Use this as adversarial contradiction evidence with inline citation.

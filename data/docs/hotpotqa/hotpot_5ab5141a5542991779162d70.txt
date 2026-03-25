@@ -1,0 +1,31 @@
+[dataset] HotpotQA_distractor
+
+[title] New Orleans Film Society
+The New Orleans Film Society (NOFS) is a nonprofit arts organization located in New Orleans, Louisiana.  The organization presents and exhibits year-round film programming and events in addition to the annual New Orleans Film Festival.
+
+[title] Newswomen's Club of New York
+The Newswomen's Club of New York is a nonprofit organization that focuses on women working in the media in the New York City metropolitan area.  It was founded in 1922 as the New York Newspaper Woman’s Club and included such well-known individuals as Eleanor Roosevelt, Helen Rogers Reid and Anne O'Hare McCormick among its membership; it changed its name in 1971 to include members working in magazines and broadcast media.  The organization presents its Front Page Award annually to honor the most prominent achievements by women in journalism.
+
+[title] Chris Noonan
+Chris Noonan (born 14 November 1952) is a Sydney-based Australian filmmaker and actor best known for the family film "Babe" (1995), for which he was nominated for both the Academy Award for Best Director and Academy Award for Best Adapted Screenplay.
+
+[title] Alabama Broadcasters Association
+The Alabama Broadcasters Association (ABA) represents radio and television broadcasters across the U.S. state of Alabama.  It is affiliated with the National Association of Broadcasters.  Every year the organization presents the ABBY (Alabama's Best in Broadcasting Yearly) Awards.  The organization also has a Hall of Fame .
+
+[title] Public Art Fund
+Public Art Fund is an independent, non-profit arts organization founded in 1977 by Doris C. Freedman.  The organization presents contemporary art in New York City's public spaces through a series of highly visible artists' projects, new commissions, installations, and exhibitions that are emblematic of the organization's mission and innovative history.  Nicholas Baume joined PAF as Director & Chief Curator in 2009, and Susan K. Freedman has served as the President since 1986.
+
+[title] Academy Award for Best Director
+The Academy Award for Best Director (officially known as the Academy Award for Best Directing) is an award presented annually by the Academy of Motion Picture Arts and Sciences (AMPAS).  It is given in honor of a film director who has exhibited outstanding directing while working in the film industry.
+
+[title] Babe (film)
+Babe is a 1995 Australian-American comedy-drama film directed by Chris Noonan, produced by George Miller, and written by both.  It is an adaptation of Dick King-Smith's 1983 novel "The Sheep-Pig", also known as "Babe: The Gallant Pig" in the US, which tells the story of a pig who wants to be a sheepdog.  The main animal characters are played by a combination of real and animatronic pigs and Border Collies.
+
+[title] The Center for Arts in Natick
+The Center for Arts in Natick, also known as TCAN (pronounced tee-can) in Natick, Massachusetts, is a regional community arts organization serving the cities and towns of MetroWest Boston.  It has been in existence in various locations since 1997.  The organization presents more than 300 events, classes and performances each year attended by over 24,000 patrons annually.  TCAN was established as a 501(c)(3) nonprofit organization in 1997.
+
+[title] Office of the Chief Trade Adviser
+The Office of the Chief Trade Adviser (OCTA) is an independent trade advisory body of the Forum Island Countries.  OCTA provides policy advice and capacity building support to the Forum Island Countries, particularly in the Pacific Agreement on Closer Economic Relations (PACER) Plus trade negotiations with Australia and New Zealand.  OCTA was established on 29 March 2010 and is based in Port Vila, Vanuatu.  The first to be appointed to the Chief Trade Adviser position was Chris Noonan, an academic from New Zealand.  Noonan resigned in September 2011.  The OCTA Governing Board then appointed Julia Tijaja, the Trade Policy Adviser, as Caretaker Chief Trade Adviser in the interim until the new Chief Trade Adviser came on board.  In February 2012, Edwini Kessie, an international trade law expert, was appointed the new Chief Trade Adviser.  Kessie took up his post in June 2012.  Thirteen Forum Island Countries are currently members of the OCTA; Cook Islands, Federated States of Micronesia, Kiribati, Nauru, Niue, Palau, Papua New Guinea, Marshal Islands, Samoa, Solomon Islands, Tonga, Tuvalu and Vanuatu.  OCTA is fully owned and is under the exclusive control of its members.
+
+[title] League of American Orchestras
+The League of American Orchestras, formerly the American Symphony Orchestra League, is a North American Musical Organization consisting of a network of approximately 800 orchestras.  “Dedicated to helping orchestras meet the challenges of the twenty-first century,” the League consists of leading symphony and philharmonic orchestras, collegiate orchestras, community ensembles, and youth and student ensembles.  The only national organization devoted and focused on elevating the orchestra industry, the League was founded in 1942 and later chartered by Congress in 1962.  The League creates a network of all facets of the industry, including administrators, managers, board members, business partners, volunteers, and musicians.  Each year this organization presents two awards: the Gold Baton Award and the Helen M. Thompson Award.  The League affects the orchestral world through several outreach experiences, dedicated advocacy to music education and especially orchestral education, and maintaining and communicating a breadth of information and pertinent topics in publications.  It has also developed detailed antitrust policy and guidelines in order to comply with the landscape of the industry.  The League is a leading force in work on legislation regarding orchestras and support for the arts.

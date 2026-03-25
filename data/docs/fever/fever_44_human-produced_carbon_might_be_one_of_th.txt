@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 44
+[label] REFUTES
+[claim] Human-produced carbon might be one of the factors [of climate change], but there’s simply no evidence that it is a significant one.
+[candidate_evidence]
+- (REFUTES) Global warming controversy: According to the United States National Research Council, [T]here is a strong, credible body of evidence, based on multiple lines of research, documenting that climate is changing and that these changes are in large part caused by human activities.
+- (REFUTES) Scientific consensus on climate change: European Science Foundation in a 2007 position paper states: There is now convincing evidence that since the industrial revolution, human activities, resulting in increasing concentrations of greenhouse gases have become a major agent of climate change ... On-going and increased efforts to mitigate climate change through reduction in greenhouse gases are therefore crucial.
+- (REFUTES) Scientific consensus on climate change: Seventy-five of 77 believed that human activity is a significant factor in changing mean global temperatures.
+- (REFUTES) Scientific consensus on climate change: 7–10 "There is now convincing evidence that since the industrial revolution, human activities, resulting in increasing concentrations of greenhouse gases have become a major agent of climate change.
+- (REFUTES) Scientific consensus on climate change: While ‘climate change’ can be due to natural forces or human activity, there is now substantial evidence to indicate that human activity – and specifically increased greenhouse gas (GHGs) emissions – is a key factor in the pace and extent of global temperature increases.
+[note] Use this as adversarial contradiction evidence with inline citation.

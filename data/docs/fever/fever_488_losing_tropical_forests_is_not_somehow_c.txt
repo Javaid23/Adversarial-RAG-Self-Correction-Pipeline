@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 488
+[label] SUPPORTS
+[claim] Losing tropical forests is not somehow cheaper than putting up wind farms in the US or Sahara.”
+[candidate_evidence]
+- (NOT ENOUGH INFO) Biodiversity: No longer do we have to justify the existence of humid tropical forests on the feeble grounds that they might carry plants with drugs that cure human disease.
+- (NOT ENOUGH INFO) Deforestation: In Central America, two-thirds of lowland tropical forests have been turned into pasture since 1950 and 40% of all the rainforests have been lost in the last 40 years.
+- (NOT ENOUGH INFO) Deforestation: The degradation of forest ecosystems has also been traced to economic incentives that make forest conversion appear more profitable than forest conservation.
+- (NOT ENOUGH INFO) Deforestation: An ambitious proposal for China is the Aerially Delivered Re-forestation and Erosion Control System and the proposed Sahara Forest Project coupled with the Seawater Greenhouse.
+- (SUPPORTS) Habitat destruction: A country may increase its food supply by converting forest land to row-crop agriculture, but the value of the same land may be much larger when it can supply natural resources or services such as clean water, timber, ecotourism, or flood regulation and drought control.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 69
+[label] REFUTES
+[claim] Sea level rise is not going to happen.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Sea level rise: Between 1900 and 2016, the sea level rose by 16–21 cm (6.3–8.3 in).
+- (REFUTES) Sea level rise: Over the 21st century, this is expected to rise, with glaciers contributing 7 to 24 cm (3 to 9 in) to global sea levels.
+- (REFUTES) Sea level rise: If emissions remain very high, the IPCC projects sea level will rise by 52–98 cm (20–39 in).
+- (REFUTES) Sea level rise: This could mean rapid sea level rise of up to 19 mm (0.75 in) per year by the end of the century.
+- (NOT ENOUGH INFO) Sea level rise: Since the last glacial maximum about 20,000 years ago, the sea level has risen by more than 125 metres (410 ft), with rates varying from less than a mm/year to 40+ mm/year, as a result of melting ice sheets over Canada and Eurasia.
+[note] Use this as adversarial contradiction evidence with inline citation.

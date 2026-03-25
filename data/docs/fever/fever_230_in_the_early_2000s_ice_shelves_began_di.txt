@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 230
+[label] SUPPORTS
+[claim] In the early 2000s, ice shelves began disintegrating in several parts of Antarctica, and scientists realized that process could greatly accelerate the demise of the vastly larger ice sheets themselves.
+[candidate_evidence]
+- (SUPPORTS) Antarctica: Recent decades have witnessed several dramatic collapses of large ice shelves around the coast of Antarctica, especially along the Antarctic Peninsula.
+- (SUPPORTS) Antarctica: Concerns have been raised that disruption of ice shelves may result in increased glacial outflow from the continental ice mass.
+- (SUPPORTS) Ice shelf: In the last several decades, glaciologists have observed consistent decreases in ice shelf extent through melt, calving, and complete disintegration of some shelves.
+- (SUPPORTS) Ice shelf: Two sections of Antarctica's Larsen Ice Shelf broke apart into hundreds of unusually small fragments (hundreds of meters wide or less) in 1995 and 2002, Larsen C calved a huge ice island in 2017.
+- (SUPPORTS) Retreat of glaciers since 1850: In a 35-day period beginning on January 31, 2002, about 3,250 km2 (1,250 sq mi) of shelf area disintegrated.
+[note] Use this as adversarial contradiction evidence with inline citation.

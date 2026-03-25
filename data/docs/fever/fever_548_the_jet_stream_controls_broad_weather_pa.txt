@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 548
+[label] SUPPORTS
+[claim] The jet stream controls broad weather patterns, such as high-pressure and low-pressure systems.
+[candidate_evidence]
+- (SUPPORTS) Cyclone: A polar cyclone is a low-pressure weather system, usually spanning 1,000 kilometres (620 mi) to 2,000 kilometres (1,200 mi), in which the air circulates in a counterclockwise direction in the northern hemisphere, and a clockwise direction in the southern hemisphere.
+- (NOT ENOUGH INFO) Cyclone: A polar low is a small-scale, short-lived atmospheric low-pressure system (depression) that is found over the ocean areas poleward of the main polar front in both the Northern and Southern Hemispheres.
+- (SUPPORTS) Extratropical cyclone: Extratropical cyclones, sometimes called mid-latitude cyclones or wave cyclones, are low-pressure areas which, along with the anticyclones of high-pressure areas, drive the weather over much of the Earth.
+- (NOT ENOUGH INFO) Extratropical cyclone: These types of cyclones are defined as large scale (synoptic) low pressure weather systems that occur in the middle latitudes of the Earth.
+- (SUPPORTS) Jet stream: This causes surface low pressure and higher pressure at altitude.
+[note] Use this as adversarial contradiction evidence with inline citation.

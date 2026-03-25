@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 28
+[label] SUPPORTS
+[claim] Volcanoes Melting West Antarctic Glaciers, Not Global Warming
+[candidate_evidence]
+- (NOT ENOUGH INFO) Antarctica: The amount of surface warming in West Antarctica, while large, has not led to appreciable melting at the surface, and is not directly affecting the West Antarctic Ice Sheet's contribution to sea level.
+- (NOT ENOUGH INFO) Climate variability: This created a warming that later melted the ice and brought Earth's temperature back to equilibrium.
+- (NOT ENOUGH INFO) Climate variability: Previous interglacials such as the Eemian phase created temperatures higher than today, higher sea levels, and some partial melting of the West Antarctic ice sheet.
+- (SUPPORTS) Parinacota (volcano): The postulated period coincides with a global clustering of volcano collapse events; perhaps global warming occurring during this time when the last glacial maximum approached its end predisposed volcanoes to collapse.
+- (SUPPORTS) Snowball Earth: Global warming associated with large accumulations of carbon dioxide in the atmosphere over millions of years, emitted primarily by volcanic activity, is the proposed trigger for melting a snowball Earth.
+[note] Use this as adversarial contradiction evidence with inline citation.

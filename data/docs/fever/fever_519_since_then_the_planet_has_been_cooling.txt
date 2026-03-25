@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 519
+[label] SUPPORTS
+[claim] Since then, the planet has been cooling on a millennial scale
+[candidate_evidence]
+- (NOT ENOUGH INFO) Holocene: "Centennial-scale climate cooling with a sudden event around 8,200 years ago".
+- (NOT ENOUGH INFO) Little Ice Age: The Little Ice Age (LIA) was a period of cooling that occurred after the Medieval Warm Period.
+- (SUPPORTS) Little Ice Age: In the North Atlantic, sediments accumulated since the end of the last ice age, nearly 12,000 years ago, show regular increases in the amount of coarse sediment grains deposited from icebergs melting in the now open ocean, indicating a series of 1–2 °C (2–4 °F) cooling events recurring every 1,500 years or so.
+- (NOT ENOUGH INFO) Little Ice Age: Orbital forcing from cycles in the earth's orbit around the sun has, for the past 2,000 years, caused a long-term northern hemisphere cooling trend that continued through the Middle Ages and the Little Ice Age.
+- (NOT ENOUGH INFO) Little Ice Age: The rate of Arctic cooling is roughly 0.02 °C per century.
+[note] Use this as adversarial contradiction evidence with inline citation.

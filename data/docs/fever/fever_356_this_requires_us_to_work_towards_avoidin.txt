@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 356
+[label] SUPPORTS
+[claim] This requires us to work towards avoiding catastrophic possibilities rather than looking at probabilities, as learning from mistakes is not an option when it comes to existential risks.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Futures studies: "Wild cards" refer to low-probability and high-impact events, such as existential risks.
+- (SUPPORTS) Human extinction: Nick Bostrom argues that it would be "misguided" to assume that the probability of near-term extinction is less than 25% and that it will be "a tall order" for the human race to "get our precautions sufficiently right the first time", given that an existential risk provides no opportunity to learn from failure.
+- (SUPPORTS) Nick Bostrom: This principle states that we ought to retard the development of dangerous technologies, particularly ones that raise the level of existential risk, and accelerate the development of beneficial technologies, particularly those that protect against the existential risks posed by nature or by other technologies.
+- (NOT ENOUGH INFO) Risk: Measurement of uncertainty: A set of probabilities assigned to a set of possibilities.
+- (NOT ENOUGH INFO) Risk: The measure of uncertainty refers only to the probabilities assigned to outcomes, while the measure of risk requires both probabilities for outcomes and losses quantified for outcomes.
+[note] Use this as adversarial contradiction evidence with inline citation.

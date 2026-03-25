@@ -1,0 +1,31 @@
+[dataset] HotpotQA_distractor
+
+[title] Takhini River
+The Takhini River is a watercourse in Yukon, Canada.  The river is located just north of Whitehorse, Yukon, and flows from west to east, meeting the Yukon River at a point between Whitehorse and Lake Laberge.  During the winter, the river freezes and serves as part of the route of the Yukon Quest sled dog race.
+
+[title] Yukon International Storytelling Festival
+The Yukon International Storytelling Festival was held every Summer in Whitehorse, Yukon, generally in an outdoor setting.  Cofounders of the storytelling festival were storytellers Louise Profeit-Leblanc and Anne Taylor.  Profeit-Leblanc, from the Northern Tutchone Nation, was the niece of Angela Sidney {'1': ", '2': ", '3': ", '4': "} (1902 – 1991), one the Yukon's last Tagish.  Sidney had devoted her life to preserving the stories of the Tagish of Southern Yukon, Profeit-Leblanc and Taylor were motivated to found a more local venue for sharing Yukon stories when they realized that Sidney had had to travel in 1984 Toronto Festival of Storytelling to disseminate her peoples' stories to a world audience.  In 1987 interested parties came together to plan the first Yukon Storytelling Festival in 1988.  It later grew beyond the scope of Yukon and Canada to attract storytellers from all over the world with an emphasis on native peoples storytelling and circumpolar countries.
+
+[title] Yukon Energy
+Yukon Energy Corporation (YEC) (French: "Société d’énergie du Yukon" ) is a Canadian Crown corporation in Yukon that provides electrical power to Yukon.  YEC is a subsidiary of Yukon Development Corporation that was established in 1987 to take over the Yukon assets of the Northern Canada Power Commission.  The company's headquarters is in Whitehorse, Yukon.
+
+[title] White Horse Rapids
+The Whitehorse rapids were rapids on the Yukon River in Canada's Yukon Territory, named for their supposed resemblance to the mane of a charging white horse.  The rapids formed where the Yukon River flows across and cuts down through lava flows of the Miles Canyon basalt.  These rapids presented a major navigational obstacle on the Yukon River during the Klondike Gold Rush, and lent their name to the nearby town of Whitehorse.
+
+[title] Air North
+Air North Charter and Training Ltd., operating as Air North, Yukon's Airline is a Canadian airline based in Whitehorse, Yukon.  It operates scheduled passenger and cargo flights, charter flights, and ground handling services throughout the Yukon, with regular flights to the Northwest Territories, Alaska, British Columbia, Alberta, and Ontario.  Its main base is Erik Nielsen Whitehorse International Airport.
+
+[title] 2014 Yukon/NWT Men's Curling Championship
+The 2014 Yukon/NWT Men's Curling Championship, the men's curling championship for Yukon and the Northwest Territories, will be held from February 6 to 9 at the Whitehorse Curling Club in Whitehorse, Yukon.  The winning Jamie Koe rink from Yellowknife, Northwest Territories represented Yukon and the Northwest Territories at the 2014 Tim Hortons Brier in Kamloops.
+
+[title] Erik Nielsen Whitehorse International Airport
+Erik Nielsen Whitehorse International Airport (IATA: YXY, ICAO: CYXY) is located in Whitehorse, Yukon, Canada.  It is part of the National Airports System, and is owned and operated by the Government of Yukon.  The airport was renamed in honour of longtime Yukon Member of Parliament Erik Nielsen on December 15, 2008.  The terminal handled 294,000 passengers in 2012, representing a 94% increase in passenger traffic since 2002.  Air North is based in Whitehorse.
+
+[title] 2012 Yukon/NWT Men's Curling Championship
+The 2012 Yukon/NWT Men's Curling Championship was held February 9–12 at the Whitehorse Curling Club in Whitehorse, Yukon.  The winning team of Jamie Koe, will represent Yukon/Northwest Territories at the 2012 Tim Hortons Brier in Saskatoon, Saskatchewan.
+
+[title] Whitehorse Centre
+Whitehorse Centre is an electoral district which returns a member (known as an MLA) to the Legislative Assembly of the Yukon Territory in Canada.  It was created in 1992 from an amalgamation of the ridings of Whitehorse North Centre and Whitehorse South Centre and readjusted in 2002 following the dissolution of the neighbouring riding of Riverside.  The riding encompasses the downtown core of the City of Whitehorse (including Marwell) between the escarpment and the Yukon River.  Whitehorse Centre is home to most of Whitehorse's businesses and government offices.
+
+[title] 2015 Yukon Men's Curling Championship
+The 2015 Yukon Men's Curling Championship was held January 9 to 15 at the Whitehorse Curling Club in Whitehorse, Yukon.  It was the first territorial men's championship to be held since the Yukon gained a direct entry to the Brier, Canada's national men's curling championship.  Prior to 2015, the top two teams in the territory played in the Yukon/NWT Men's Curling Championship, with the winner going to the Brier.  The winning team represented the Yukon at the 2015 Tim Hortons Brier.

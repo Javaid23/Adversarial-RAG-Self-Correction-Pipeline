@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 470
+[label] NOT ENOUGH INFO
+[claim] According to NASA, the globally averaged temperature of the land and ocean was 0.9˚C (1.62˚F) above the 20th century average.
+[candidate_evidence]
+- (NOT ENOUGH INFO) 20th century: The average global temperature on Earth has increased by about 0.8° Celsius (1.4° Fahrenheit) since 1880; Two-thirds of the warming has occurred since 1975, at a rate of roughly 0.15-0.20 °C per decade.
+- (NOT ENOUGH INFO) Global warming: Currently, surface temperatures are rising by about 0.2 °C per decade.
+- (NOT ENOUGH INFO) Instrumental temperature record: Consistent with Schmidt's comment, the NASA / NOAA announcement stated that "globally-averaged temperatures in 2016 were 1.78 degrees Fahrenheit (0.99 degrees Celsius) warmer than the mid-20th century mean" and that the impact of El Niño warming was estimated to have "increased the annual global temperature anomaly for 2016 by 0.2 degrees Fahrenheit (0.12 degrees Celsius)."
+- (NOT ENOUGH INFO) Instrumental temperature record: The global average and combined land and ocean surface temperature, show a warming of 0.85 [0.65 to 1.06] °C, in the period 1880 to 2012, based on multiple independently produced datasets.
+- (NOT ENOUGH INFO) Sea surface temperature: This value is well above 16.1 °C (60.9 °F), the long term global average surface temperature of the oceans.
+[note] Use this as adversarial contradiction evidence with inline citation.

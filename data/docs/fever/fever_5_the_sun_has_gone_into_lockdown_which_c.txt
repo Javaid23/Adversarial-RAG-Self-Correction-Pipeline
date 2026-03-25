@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 5
+[label] SUPPORTS
+[claim] The sun has gone into ‘lockdown’ which could cause freezing weather, earthquakes and famine, say scientists
+[candidate_evidence]
+- (SUPPORTS) Famine: The current consensus of the scientific community is that the aerosols and dust released into the upper atmosphere causes cooler temperatures by preventing the sun's energy from reaching the ground.
+- (SUPPORTS) Weather: The Little Ice Age caused crop failures and famines in Europe.
+- (SUPPORTS) Winter: The persistently cold, wet weather caused great hardship, was primarily responsible for the Great Famine of 1315–1317, and strongly contributed to the weakened immunity and malnutrition leading up to the Black Death (1348–1350).
+- (NOT ENOUGH INFO) Winter: The manifestation of the meteorological winter (freezing temperatures) in the northerly snow–prone latitudes is highly variable depending on elevation, position versus marine winds and the amount of precipitation.
+- (NOT ENOUGH INFO) Winter: In many regions, winter is associated with snow and freezing temperatures.
+[note] Use this as adversarial contradiction evidence with inline citation.

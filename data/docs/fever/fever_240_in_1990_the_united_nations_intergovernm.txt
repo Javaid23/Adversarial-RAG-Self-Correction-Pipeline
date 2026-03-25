@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 240
+[label] SUPPORTS
+[claim] In 1990 the United Nation’s Intergovernmental Panel on Climate Change (IPCC) predicted that temperatures would rise by 0.54F (0.3C) per decade.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Global warming controversy: Models referenced by the Intergovernmental Panel on Climate Change (IPCC) predict that global temperatures are likely to increase by 1.1 to 6.4 °C (2.0 to 11.5 °F) between 1990 and 2100.
+- (SUPPORTS) Global warming: Currently, surface temperatures are rising by about 0.2 °C per decade.
+- (SUPPORTS) Intergovernmental Panel on Climate Change: They predict that under a "business as usual" (BAU) scenario, global mean temperature will increase by about 0.3 °C per decade during the [21st] century.
+- (NOT ENOUGH INFO) Intergovernmental Panel on Climate Change: They judge that global mean surface air temperature has increased by 0.3 to 0.6 °C over the last 100 years, broadly consistent with prediction of climate models, but also of the same magnitude as natural climate variability.
+- (NOT ENOUGH INFO) Intergovernmental Panel on Climate Change: The projections apply to the end of the 21st century (2090–99), relative to temperatures at the end of the 20th century (1980–99).
+[note] Use this as adversarial contradiction evidence with inline citation.

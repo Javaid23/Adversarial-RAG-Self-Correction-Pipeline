@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 477
+[label] SUPPORTS
+[claim] Scientists say halting deforestation ‘just as urgent’ as reducing emissions
+[candidate_evidence]
+- (SUPPORTS) Avoided Deforestation Partners: Leading scientists and economists say that ending deforestation is the most cost effective and scalable method of reducing greenhouse gases.
+- (NOT ENOUGH INFO) Climate change mitigation: Reducing energy use is seen as a key solution to the problem of reducing greenhouse gas emissions.
+- (NOT ENOUGH INFO) Climate change mitigation: In 2008, climate scientist Kevin Anderson raised concern about the growing effect of rapidly increasing global air transport on the climate in a paper, and a presentation, suggesting that reversing this trend is necessary to reduce emissions.
+- (NOT ENOUGH INFO) Deforestation and climate change: One attempt towards fighting climate change globally is the Reducing Emissions for Deforestation and Forest Degradation (REDD+) efforts, and a few countries are already starting to implement and analyse ways to protect standing trees.
+- (NOT ENOUGH INFO) Deforestation in Indonesia: The general term for these sorts of programs is Reducing emissions from deforestation and forest degradation (REDD).
+[note] Use this as adversarial contradiction evidence with inline citation.

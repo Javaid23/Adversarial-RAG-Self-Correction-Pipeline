@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 235
+[label] NOT ENOUGH INFO
+[claim] The planet’s average ground temperature has risen by around 1.62F (0.9C)
+[candidate_evidence]
+- (NOT ENOUGH INFO) Earth: At the center, the temperature may be up to 6,000 °C (10,830 °F), and the pressure could reach 360 GPa (52 million psi).
+- (NOT ENOUGH INFO) Earth: Without this heat-retention effect, the average surface temperature would be −18 °C (0 °F), in contrast to the current +15 °C (59 °F), and life on Earth probably would not exist in its current form.
+- (NOT ENOUGH INFO) Earth: As a result, the mean annual air temperature at sea level decreases by about 0.4 °C (0.7 °F) per degree of latitude from the equator.
+- (NOT ENOUGH INFO) Earth: About a billion years from now, all surface water will have disappeared and the mean global temperature will reach 70 °C (158 °F).
+- (NOT ENOUGH INFO) Jupiter: At the pressure level of 10 bars (1 MPa), the temperature is around 340 K (67 °C; 152 °F).
+[note] Use this as adversarial contradiction evidence with inline citation.

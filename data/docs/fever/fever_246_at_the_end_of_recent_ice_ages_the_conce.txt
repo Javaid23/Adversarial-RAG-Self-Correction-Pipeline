@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 246
+[label] REFUTES
+[claim] at the end of recent ice ages, the concentration of carbon dioxide in the atmosphere started to rise only after temperatures began to climb.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Carbon dioxide in Earth's atmosphere: Concentrations of CO 2 in the atmosphere were as high as 4,000 parts per million (ppm, on a molar basis) during the Cambrian period about 500 million years ago to as low as 180 ppm during the Quaternary glaciation of the last two million years.
+- (REFUTES) Carbon dioxide in Earth's atmosphere: Reconstructed temperature records for the last 420 million years indicate that atmospheric CO 2 concentrations peaked at ~2000 ppm during the Devonian (∼400 Myrs ago) period, and again in the Triassic (220–200 Myrs ago) period.
+- (NOT ENOUGH INFO) Carbon dioxide: Increases in atmospheric concentrations of CO 2 and other long-lived greenhouse gases such as methane, nitrous oxide and ozone have correspondingly strengthened their absorption and emission of infrared radiation, causing the rise in average global temperature since the mid-20th century.
+- (NOT ENOUGH INFO) Eocene: The polar stratospheric clouds had a warming effect on the poles, increasing temperatures by up to 20 °C in the winter months.
+- (NOT ENOUGH INFO) Ice age: An ice age is a long period of reduction in the temperature of the Earth's surface and atmosphere, resulting in the presence or expansion of continental and polar ice sheets and alpine glaciers.
+[note] Use this as adversarial contradiction evidence with inline citation.

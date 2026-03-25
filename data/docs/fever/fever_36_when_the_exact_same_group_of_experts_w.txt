@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 36
+[label] NOT ENOUGH INFO
+[claim] When the exact same group of 'experts' who claimed it was global cooling in 1977 now claim it's global warming you can easily see why I am skeptical
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate change denial: Trend sceptics or deniers (who deny there is global warming), [and] argue that no significant climate warming is taking place at all, claiming that the warming trend measured by weather stations is an artefact due to urbanisation around those stations ("urban heat island effect").
+- (NOT ENOUGH INFO) Climate change denial: Many such people prefer to call themselves skeptics and describe their position as climate change skepticism.
+- (NOT ENOUGH INFO) Global cooling: The current scientific consensus on climate change is that the Earth underwent global warming throughout the 20th century and continues to warm.
+- (NOT ENOUGH INFO) Richard Lindzen: He said, "A lot of my older colleagues are very skeptical on the global warming thing".
+- (NOT ENOUGH INFO) Richard Lindzen: John Wallace of the University of Washington agreed with Lindzen that progress in climate change science had been exaggerated, but said there are "relatively few scientists who are as skeptical of the whole thing as Dick [Lindzen] is".
+[note] Use this as adversarial contradiction evidence with inline citation.

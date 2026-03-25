@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 42
+[label] REFUTES
+[claim] Unprecedented climate change has caused sea level at Sydney Harbour to rise approximately 0.0 cm over the past 140 years.
+[candidate_evidence]
+- (REFUTES) Global warming: Between 1993 and 2017, the global mean sea level rose on average by 3.1 ± 0.3 mm per year, with an acceleration detected as well.
+- (NOT ENOUGH INFO) Global warming: Over the 21st century, the IPCC projects that in a very high emissions scenario the sea level could rise by 61–110 cm.
+- (NOT ENOUGH INFO) Sea level rise: Between 1900 and 2016, the sea level rose by 16–21 cm (6.3–8.3 in).
+- (NOT ENOUGH INFO) Sea level rise: 18 January 2019.
+- (REFUTES) Sea level: For at least the last 100 years, sea level has been rising at an average rate of about 1.8 mm (0.07 in) per year.
+[note] Use this as adversarial contradiction evidence with inline citation.

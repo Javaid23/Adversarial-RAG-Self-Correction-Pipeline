@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 298
+[label] REFUTES
+[claim] Only very few peer-reviewed papers even go so far as to say that recent warming is chiefly anthropogenic.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Global warming: In the scientific literature, there is an overwhelming consensus that global surface temperatures have increased in recent decades and that the trend is caused mainly by human-induced emissions of greenhouse gases.
+- (REFUTES) Scientific consensus on climate change: The introduction includes this statement: There is strong evidence that the warming of the Earth over the last half-century has been caused largely by human activity, such as the burning of fossil fuels and changes in land use, including agriculture and deforestation.
+- (REFUTES) Scientific consensus on climate change: A 2012 analysis of published research on global warming and climate change between 1991 and 2012 found that of the 13,950 articles in peer-reviewed journals, only 24 rejected anthropogenic global warming.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: Institute of Biology policy page 'Climate Change' "there is scientific agreement that the rapid global warming that has occurred in recent years is mostly anthropogenic, ie due to human activity."
+- (NOT ENOUGH INFO) Scientific consensus on climate change: The global warming observed over the past 50 years is due primarily to human-induced emissions of heat-trapping gases.
+[note] Use this as adversarial contradiction evidence with inline citation.

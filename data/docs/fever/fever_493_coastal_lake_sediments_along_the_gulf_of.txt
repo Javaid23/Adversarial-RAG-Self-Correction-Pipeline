@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 493
+[label] NOT ENOUGH INFO
+[claim] Coastal lake sediments along the Gulf of Mexico shoreline from 1,000 to 2,000 years ago suggest more frequent and intense hurricanes than occur today.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Paleotempestology: In the Gulf of Mexico, catastrophic hurricane strikes at given locations occur once about every 350 years in the last 3,800 years or about 0.48%-0.39% annual frequency at any given site, with a recurrence rate of 300 years or 0.33% annual probability at sites in the Caribbean and Gulf of Mexico; category 3 or more storms occur at a rate of 3.9 - 0.1 category 3 or more storms per century in the northern Gulf of Mexico.
+- (NOT ENOUGH INFO) Paleotempestology: In the past, tropical cyclones were far more frequent in the Great Barrier Reef and the northern Gulf of Mexico than today; in Apalachee Bay, strong storms occur every 40 years, not every 400 years as documented historically.
+- (NOT ENOUGH INFO) Paleotempestology: The Gulf of Mexico saw increased activity between 3,800 - 1,000 years ago with a fivefold increase of category 4-5 hurricane activity, and activity at St. Catherines Island and Wassaw Island was also higher between 2,000 and 1,100 years ago.
+- (NOT ENOUGH INFO) Paleotempestology: "700 yr sedimentary record of intense hurricane landfalls in southern New England".
+- (NOT ENOUGH INFO) Paleotempestology: "Intense Southwest Florida hurricane landfalls over the past 1000 years".
+[note] Use this as adversarial contradiction evidence with inline citation.

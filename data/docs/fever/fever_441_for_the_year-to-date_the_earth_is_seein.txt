@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 441
+[label] NOT ENOUGH INFO
+[claim] For the year-to-date, the Earth is seeing its 5th-warmest start to the year.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Earth: Earth's increasing surface temperature will accelerate the inorganic carbon cycle, reducing CO 2 concentration to levels lethally low for plants (10 ppm for C4 photosynthesis) in approximately 100–900 million years.
+- (NOT ENOUGH INFO) New Year: New Year is the time or day at which a new calendar year begins and the calendar's year count increments by one.
+- (NOT ENOUGH INFO) Tropical year: A tropical year (also known as a solar year) is the time that the Sun takes to return to the same position in the cycle of seasons, as seen from Earth; for example, the time from vernal equinox to vernal equinox, or from summer solstice to summer solstice.
+- (NOT ENOUGH INFO) Year: This is currently on or close to January 1.
+- (NOT ENOUGH INFO) Year: Its average duration is 365.256363004 days (365 d 6 h 9 min 9.76 s) (at the epoch J2000.0 = January 1, 2000, 12:00:00 TT).
+[note] Use this as adversarial contradiction evidence with inline citation.

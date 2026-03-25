@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 216
+[label] NOT ENOUGH INFO
+[claim] [The 1990 IPCC report said] that the Antarctic ice sheets were stable
+[candidate_evidence]
+- (NOT ENOUGH INFO) Cryosphere: The West Antarctic Ice Sheet is stable so long as the Ross Ice Shelf is constrained by drag along its lateral boundaries and pinned by local grounding.
+- (NOT ENOUGH INFO) James Hansen: He further stated that a lower limit on "dangerous anthropogenic interference" was set by the stability of the Greenland and Antarctic ice sheets.
+- (NOT ENOUGH INFO) Sea level rise: "Reassessment of the Potential Sea-Level Rise from a Collapse of the West Antarctic Ice Sheet".
+- (NOT ENOUGH INFO) Sea level rise: "Stability of the West Antarctic ice sheet in a warming world".
+- (NOT ENOUGH INFO) Sea level rise: The ice sheet has historically been considered to be relatively stable and has therefore attracted less scientific attention and observations compared to West Antarctica.
+[note] Use this as adversarial contradiction evidence with inline citation.

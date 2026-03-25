@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 100
+[label] SUPPORTS
+[claim] 'Global warming' is a myth — so say 80 graphs from 58 peer-reviewed scientific papers published in 2017.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climatic Research Unit email controversy: On 22 March 2010 the university announced the composition of an independent Science Assessment Panel to reassess key CRU papers that have already been peer-reviewed and published in journals.
+- (NOT ENOUGH INFO) Global cooling: Academic analysis of the peer-reviewed studies published at that time shows that most papers examining aspects of climate during the 1970s were either neutral or showed a warming trend.
+- (NOT ENOUGH INFO) Global warming controversy: A 2013 study, published in the peer-reviewed journal Environmental Research Letters analyzed 11,944 abstracts from papers published in the peer-reviewed scientific literature between 1991 and 2011, identified by searching the ISI Web of Science citation index engine for the text strings "global climate change" or "global warming".
+- (NOT ENOUGH INFO) Global warming: His 1861 paper proposed changing concentrations of these gases could have caused "all the mutations of climate which the researches of geologists reveal" and would explain ice age changes.
+- (SUPPORTS) James Delingpole: Delingpole has engaged in climate change denialism; in 2009 he wrote of "The conspiracy behind the Anthropogenic Global Warming myth".
+[note] Use this as adversarial contradiction evidence with inline citation.

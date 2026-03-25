@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 434
+[label] NOT ENOUGH INFO
+[claim] It’s also a sufficiently long period to include several cycles of climate variability.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate variability: Another longer-term near-millennial oscillation involves the Dansgaard-Oeschger cycles, occurring on roughly 1,500-year cycles during the last glacial maximum.
+- (NOT ENOUGH INFO) Climate variability: During the Pleistocene, cycles of glaciations and interglacials occurred on cycles of roughly 100,000 years, but may stay longer within an interglacial when orbital eccentricity approaches zero, as during the current interglacial.
+- (NOT ENOUGH INFO) Global Energy and Water Exchanges: There are also longer-term cycles, the mini ice-age that preceded the medieval warm period may have been a transition to an ice age, the last ice-age lasted from ~130,000 years ago until the onset of the Holocene.
+- (NOT ENOUGH INFO) Global warming: "Multicentennial variability of the Atlantic meridional overturning circulation and its climatic influence in a 4000 year simulation of the GFDL CM2.1 climate model".
+- (NOT ENOUGH INFO) Global warming: By itself, the climate system experiences various cycles which can last for years (such as the El Niño–Southern Oscillation) to decades or centuries.
+[note] Use this as adversarial contradiction evidence with inline citation.

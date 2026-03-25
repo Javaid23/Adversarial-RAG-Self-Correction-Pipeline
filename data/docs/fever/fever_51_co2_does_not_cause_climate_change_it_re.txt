@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 51
+[label] SUPPORTS
+[claim] CO2 does not cause climate change, it RESPONDS to it [...]
+[candidate_evidence]
+- (NOT ENOUGH INFO) Carbon dioxide: Increasing atmospheric CO 2 concentrations lead to further acidification ...
+- (SUPPORTS) Climate change adaptation: "Adaptation To Global Climate Change Is An Essential Response To A Warming Planet".
+- (NOT ENOUGH INFO) Greenhouse gas: "Correction to "Control of fossil-fuel particulate black carbon and organic matter, possibly the most effective method of slowing global warming."".
+- (NOT ENOUGH INFO) Greenhouse gas: "Blaming cities for climate change?
+- (NOT ENOUGH INFO) Scientific consensus on climate change: A new statement, adopted by the society in 2003, revised in 2007, and revised and expanded in 2013, affirms that rising levels of greenhouse gases have caused and will continue to cause the global surface temperature to be warmer: Human activities are changing Earth's climate.
+[note] Use this as adversarial contradiction evidence with inline citation.

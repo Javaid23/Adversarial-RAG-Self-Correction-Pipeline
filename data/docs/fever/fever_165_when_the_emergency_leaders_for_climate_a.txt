@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 165
+[label] NOT ENOUGH INFO
+[claim] When the Emergency Leaders for Climate Action approached the Federal Government in April they were drawing on decades of data showing that fire conditions are getting worse.
+[candidate_evidence]
+- (NOT ENOUGH INFO) George W. Bush: Bush's administration presided over the largest tax cuts since the presidency of Ronald Reagan, and his homeland security reforms proved to be the most significant expansion of the federal government since the Great Society.
+- (NOT ENOUGH INFO) Hurricane Sandy: On January 30, 2015, days after the U.S. Army Corps of Engineers released a post-Sandy report examining flood risks for 31,200 miles (50,210 km) of the North Atlantic coast, President Obama issued an executive order directing federal agencies, state and local governments drawing federal funds to adopt stricter building and siting standards to reflect scientific projections that future flooding will be more frequent and intense due to climate change.
+- (NOT ENOUGH INFO) Presidency of Donald Trump: The administration rolled back regulations requiring the federal government to account for climate change and sea-level rise when building infrastructure.
+- (NOT ENOUGH INFO) Presidency of Donald Trump: The administration released the Fourth National Climate Assessment (NCA4) in November 2018, a long-awaited study conducted by numerous federal agencies that found "the evidence of human-caused climate change is overwhelming and continues to strengthen, that the impacts of climate change are intensifying across the country, and that climate-related threats to Americans' physical, social, and economic well-being are rising."
+- (NOT ENOUGH INFO) Presidency of Donald Trump: In October 2017, the administration declared a 90-day public health emergency over the opioid epidemic and pledged to urgently mobilize the federal government in response to the crisis.
+[note] Use this as adversarial contradiction evidence with inline citation.

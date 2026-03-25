@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 236
+[label] NOT ENOUGH INFO
+[claim] global temperatures have risen between 0.23F (0.13C) and 0.34F (0.19C) per decade
+[candidate_evidence]
+- (NOT ENOUGH INFO) Global warming: Between 1993 and 2017, the global mean sea level rose on average by 3.1 ± 0.3 mm per year, with an acceleration detected as well.
+- (NOT ENOUGH INFO) Global warming: Currently, surface temperatures are rising by about 0.2 °C per decade.
+- (NOT ENOUGH INFO) Global warming: Temperatures rose by 0.0 °C–0.2 °C from 1720–1800 to 1850–1900 (Hawkins et al., 2017).
+- (NOT ENOUGH INFO) Global warming: Climate model projections summarized in the report indicated that during the 21st century the global surface temperature is likely to rise a further 0.3 to 1.7 °C (0.5 to 3.1 °F) in a moderate scenario, or as much as 2.6 to 4.8 °C (4.7 to 8.6 °F) in an extreme scenario, depending on the rate of future greenhouse gas emissions and on climate feedback effects.
+- (NOT ENOUGH INFO) Sea level rise: In contrast to East Antarctica and the Antarctic Peninsula, temperatures on West Antarctica have increased significantly with a trend between 0.08 °C (0.14 °F) per decade and 0.96 °C (1.7 °F) per decade between 1976 and 2012.
+[note] Use this as adversarial contradiction evidence with inline citation.

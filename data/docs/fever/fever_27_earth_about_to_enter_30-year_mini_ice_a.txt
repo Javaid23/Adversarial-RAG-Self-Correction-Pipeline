@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 27
+[label] NOT ENOUGH INFO
+[claim] Earth about to enter 30-YEAR ‘Mini Ice Age’
+[candidate_evidence]
+- (NOT ENOUGH INFO) Earth: The last continental glaciation ended 10,000 years ago.
+- (NOT ENOUGH INFO) Earth: About a billion years from now, all surface water will have disappeared and the mean global temperature will reach 70 °C (158 °F).
+- (NOT ENOUGH INFO) Little Ice Age: The Little Ice Age ended in the latter half of the 19th century or early in the 20th century.
+- (NOT ENOUGH INFO) Little Ice Age: 15 (1): 1–30.
+- (NOT ENOUGH INFO) Little Ice Age: 23 February 1998.
+[note] Use this as adversarial contradiction evidence with inline citation.

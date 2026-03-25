@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 376
+[label] 3
+[claim] whenever in the past there was an explosion of plant life, the carbon dioxide content was far higher than at present.
+[candidate_evidence]
+- (SUPPORTS) Botany: The concentration of carbon dioxide in the atmosphere today is much lower than it was when plants emerged onto land during the Ordovician and Silurian periods.
+- (REFUTES) Carbon dioxide: Combustion of fossil fuels and deforestation have caused the atmospheric concentration of carbon dioxide to increase by about 43% since the beginning of the age of industrialization.
+- (NOT ENOUGH INFO) Carbon dioxide: Since the Industrial Revolution anthropogenic emissions – primarily from use of fossil fuels and deforestation – have rapidly increased its concentration in the atmosphere, leading to global warming.
+- (NOT ENOUGH INFO) Eocene: The end of the PETM was met with a very large sequestration of carbon dioxide into the forms of methane clathrate, coal, and crude oil at the bottom of the Arctic Ocean, that reduced the atmospheric carbon dioxide.
+- (NOT ENOUGH INFO) Eocene: A sharp increase in atmospheric carbon dioxide was observed with a maximum of 4000 ppm: the highest amount of atmospheric carbon dioxide detected during the Eocene.
+[note] Use this as adversarial contradiction evidence with inline citation.

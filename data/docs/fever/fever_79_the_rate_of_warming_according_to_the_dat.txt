@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 79
+[label] REFUTES
+[claim] The rate of warming according to the data is much slower than the models used by the IPCC
+[candidate_evidence]
+- (NOT ENOUGH INFO) Global warming: Physical climate models are also unable to reproduce the rapid warming observed in recent decades when taking into account only variations in solar output and volcanic activity.
+- (NOT ENOUGH INFO) IPCC Fourth Assessment Report: The observed increase in hurricane intensity is larger than climate models predict for the sea surface temperature changes we have experienced.
+- (REFUTES) Intergovernmental Panel on Climate Change: Projections based on the Special Report on Emissions Scenarios suggest warming over the 21st century at a more rapid rate than that experienced for at least the last 10,000 years.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: Since the start of the 20th century, the global mean surface temperature of the Earth has increased by more than 0.7°C and the rate of warming has been largest in the last 30 years.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: On the basis of available data, climate scientists are now projecting an average global temperature rise over this century of 2.0 to 4.5°C.
+[note] Use this as adversarial contradiction evidence with inline citation.

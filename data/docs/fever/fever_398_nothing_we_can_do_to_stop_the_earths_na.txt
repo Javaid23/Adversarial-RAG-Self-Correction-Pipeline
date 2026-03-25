@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 398
+[label] SUPPORTS
+[claim] nothing we can do to stop the Earth’s naturally occurring climate cycles.
+[candidate_evidence]
+- (SUPPORTS) Earth: High-latitude regions have since undergone repeated cycles of glaciation and thaw, repeating about every 40,000–100,000 years.
+- (SUPPORTS) Ice age: Earth's climate alternates between ice ages and greenhouse periods, during which there are no glaciers on the planet.
+- (SUPPORTS) Ice age: The Milankovitch cycles are a set of cyclic variations in characteristics of the Earth's orbit around the Sun.
+- (NOT ENOUGH INFO) John D. Hamaker: The next ice age may be virtually upon us – a natural 100,000 year cycle which we are accelerating in many ways.
+- (NOT ENOUGH INFO) Natural environment: Shifting from meat-intensive diets to largely plant-based diets in order to help mitigate biodiversity loss and climate change.
+[note] Use this as adversarial contradiction evidence with inline citation.

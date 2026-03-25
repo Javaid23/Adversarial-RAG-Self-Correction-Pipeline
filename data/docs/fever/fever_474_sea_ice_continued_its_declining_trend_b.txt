@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 474
+[label] SUPPORTS
+[claim] Sea ice continued its declining trend, both in the Arctic and Antarctic.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Antarctica: "A 40-y record reveals gradual Antarctic sea ice increases followed by decreases at rates far exceeding the rates seen in the Arctic".
+- (SUPPORTS) Arctic Ocean: Polar Discovery "Continued Sea Ice Decline in 2005".
+- (SUPPORTS) Arctic ice pack: As well as the regular seasonal cycle there has been an underlying trend of declining sea ice in the Arctic in recent decades.
+- (SUPPORTS) Climate change in the Arctic: Sea ice is currently in decline in area, extent, and volume and summertime sea ice may cease to exist sometime during the 21st century.
+- (SUPPORTS) Sea ice: Antarctic sea ice extent gradually increased in the period of satellite observations, which began in 1979, until a rapid decline in southern hemisphere spring of 2016.
+[note] Use this as adversarial contradiction evidence with inline citation.

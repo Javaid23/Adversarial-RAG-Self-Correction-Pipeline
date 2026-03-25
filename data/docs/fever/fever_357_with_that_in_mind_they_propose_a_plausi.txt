@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 357
+[label] NOT ENOUGH INFO
+[claim] With that in mind, they propose a plausible and terrifying “2050 scenario” whereby humanity could face irreversible collapse in just three decades.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Mind Meld: Mind Meld: Secrets Behind the Voyage of a Lifetime is a 2001 American documentary film in which actors William Shatner and Leonard Nimoy discuss the Star Trek science fiction franchise and its effects on their lives.
+- (NOT ENOUGH INFO) Mind–body dualism: Naturalistic dualism comes from Australian philosopher, David Chalmers (born 1966) who argues there is an explanatory gap between objective and subjective experience that cannot be bridged by reductionism because consciousness is, at least, logically autonomous of the physical properties upon which it supervenes.
+- (NOT ENOUGH INFO) Mind–body dualism: Chalmers' argument is that it seems plausible that such a being could exist because all that is needed is that all and only the things that the physical sciences describe and observe about a human being must be true of the zombie.
+- (NOT ENOUGH INFO) Quantum mind: The quantum mind or quantum consciousness is a group of hypotheses which proposes that classical mechanics cannot explain consciousness.
+- (NOT ENOUGH INFO) Quantum mind: He proposed a scenario with a cat in a locked steel chamber, wherein the cat's life or death depended on the state of a radioactive atom, whether it had decayed and emitted radiation or not.
+[note] Use this as adversarial contradiction evidence with inline citation.

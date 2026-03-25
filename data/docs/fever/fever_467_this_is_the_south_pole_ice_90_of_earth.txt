@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 467
+[label] NOT ENOUGH INFO
+[claim] This is the South Pole ice, 90% of Earth’s ice, and it’s getting thicker.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Colonization of the Moon: It is estimated there is at least 600 million tons of ice at the north pole in sheets of relatively pure ice at least a couple of meters thick.
+- (NOT ENOUGH INFO) Greenland: Other research has shown that higher snowfalls from the North Atlantic oscillation caused the interior of the ice cap to thicken by an average of 6 cm or 2.36 in/y between 1994 and 2005.
+- (NOT ENOUGH INFO) Mars: The southern polar cap has a diameter of 350 km (220 mi) and a thickness of 3 km (1.9 mi).
+- (NOT ENOUGH INFO) Martian polar ice caps: This water ice is believed to be as much as three kilometers thick.
+- (NOT ENOUGH INFO) South Pole: The ice is estimated to be about 2,700 metres (9,000 ft) thick at the Pole, so the land surface under the ice sheet is actually near sea level.
+[note] Use this as adversarial contradiction evidence with inline citation.

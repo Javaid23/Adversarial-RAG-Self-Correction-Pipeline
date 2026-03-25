@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 207
+[label] REFUTES
+[claim] Each of the six major past ice ages began when the atmospheric carbon dioxide content was far higher than at present.
+[candidate_evidence]
+- (REFUTES) 2012 in science: (BBC) 4 April A new, detailed record of past climate change has shown compelling evidence that the last ice age was ended by a rise in temperature driven by an increase in atmospheric carbon dioxide.
+- (NOT ENOUGH INFO) Climate of Mars: Much of this early atmosphere would have consisted of carbon dioxide.
+- (NOT ENOUGH INFO) Earth: The present pattern of ice ages began about 40 Mya, and then intensified during the Pleistocene about 3 Mya.
+- (REFUTES) Geologic temperature record: The gradual intensification of this ice age over the last 3 million years has been associated with declining concentrations of the greenhouse gas carbon dioxide, though it remains unclear if this change is sufficiently large to have caused the changes in temperatures.
+- (NOT ENOUGH INFO) Peat: It decomposes and turns into carbon dioxide (CO 2), which is released into the atmosphere.
+[note] Use this as adversarial contradiction evidence with inline citation.

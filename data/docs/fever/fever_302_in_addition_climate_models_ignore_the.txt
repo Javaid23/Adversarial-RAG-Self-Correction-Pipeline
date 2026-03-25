@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 302
+[label] NOT ENOUGH INFO
+[claim] In addition, [climate models] ignore the fact that enriching the atmosphere with CO2 is beneficial
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate change mitigation: These include carbon dioxide (chemical formula: CO 2), methane (CH 4), nitrous oxide (N 2O), and a group of gases referred to as halocarbons.
+- (NOT ENOUGH INFO) Climate change mitigation: The reason for this is that human activities are adding CO2 to the atmosphere faster than natural processes can remove it (see carbon dioxide in Earth's atmosphere for a complete explanation).
+- (NOT ENOUGH INFO) Global warming: Human activity since the Industrial Revolution has increased the amount of greenhouse gases in the atmosphere, leading to increased radiative forcing from CO2, methane, tropospheric ozone, CFCs, and nitrous oxide.
+- (NOT ENOUGH INFO) Greenhouse gas: However, this excludes the balancing fluxes of CO 2 into the atmosphere from the geological reservoirs, which have slower characteristic rates.
+- (NOT ENOUGH INFO) Soil: As the planet warms, it has been predicted that soils will add carbon dioxide to the atmosphere due to increased biological activity at higher temperatures, a positive feedback (amplification).
+[note] Use this as adversarial contradiction evidence with inline citation.

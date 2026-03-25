@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 9
+[label] REFUTES
+[claim] Ironic' study finds more CO2 has slightly cooled the planet
+[candidate_evidence]
+- (NOT ENOUGH INFO) Atmosphere of Mars: CO2 in the mesosphere acts as a cooling agent by efficiently radiating heat into space.
+- (NOT ENOUGH INFO) Atmosphere of Mars: The higher concentration of CO2 in the Martian thermosphere may explain part of the discrepancy because of the cooling effects of CO2 in high altitude.
+- (REFUTES) Carbon dioxide in Earth's atmosphere: This increase of CO 2 and other long-lived greenhouse gases in Earth's atmosphere has produced the current episode of global warming.
+- (NOT ENOUGH INFO) Carbon dioxide in Earth's atmosphere: The greenhouse effect is a process by which thermal radiation from a planetary atmosphere warms the planet's surface beyond the temperature it would have in the absence of its atmosphere.
+- (NOT ENOUGH INFO) Carbon dioxide: Less energy reaches the upper atmosphere, which is therefore cooler because of this absorption.
+[note] Use this as adversarial contradiction evidence with inline citation.

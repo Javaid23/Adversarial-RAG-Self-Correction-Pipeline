@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 446
+[label] NOT ENOUGH INFO
+[claim] It’s not carbon dioxide, it’s not methane… Scientists estimate that somewhere between 75% and 90% of Earth greenhouse effect is caused by water vapor in clouds.”
+[candidate_evidence]
+- (NOT ENOUGH INFO) Global warming: The largest human influence has been the emission of greenhouse gases such as carbon dioxide, methane, and nitrous oxide.
+- (NOT ENOUGH INFO) Global warming: Of these emissions, 65% was carbon dioxide from fossil fuel burning and industry, 11% was carbon dioxide from land use change, which is primarily due to deforestation, 16% was from methane, 6.2% was from nitrous oxide, and 2.0% was from fluorinated gases.
+- (NOT ENOUGH INFO) Greenhouse effect: By their percentage contribution to the greenhouse effect on Earth the four major gases are: water vapor, 36–70% carbon dioxide, 9–26% methane, 4–9% ozone, 3–7% It is not possible to assign a specific percentage to each gas because the absorption and emission bands of the gases overlap (hence the ranges given above).
+- (NOT ENOUGH INFO) Greenhouse gas: Water vapor accounts for the largest percentage of the greenhouse effect, between 36% and 66% for clear sky conditions and between 66% and 85% when including clouds.
+- (NOT ENOUGH INFO) Natural gas: Excluding water vapor, about half of landfill gas is methane and most of the rest is carbon dioxide, with small amounts of nitrogen, oxygen, and hydrogen, and variable trace amounts of hydrogen sulfide and siloxanes.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,31 @@
+[dataset] HotpotQA_distractor
+
+[title] List of Crash Bandicoot video games
+"Crash Bandicoot" is a video game series created by Andy Gavin and Jason Rubin.  It is published by Activision, Sierra Entertainment, Vivendi Universal Games, Konami, Universal Interactive Studios, and Sony Computer Entertainment, with entries developed by Polarbit, Radical Entertainment, Vicarious Visions, Traveller's Tales, Eurocom, and Naughty Dog.  The series debuted in 1996 with the Sony PlayStation video game "Crash Bandicoot", premiered in North America on September 9, 1996.  Most "Crash Bandicoot" games have either been platform games or released for Sony consoles and handhelds.
+
+[title] Hoyle Puzzle Games 2005
+Hoyle Puzzle Games 2005 is a 2005 puzzle video game published by Sierra Entertainment.  "Hoyle Puzzle Games 2005" was released in US on January 1, 2005.
+
+[title] World in Conflict
+World in Conflict is a 2007 real-time strategy (RTS) video game developed by the Swedish video game company Massive Entertainment and published by Sierra Entertainment for Microsoft Windows.  The game was released in September 2007, receiving generally favorable reviews and several awards.  The game is considered by some to be the spiritual successor of "Ground Control", another game by Massive Entertainment, and is generally conceived by its designers to be a real-time tactical game, despite being marketed as a RTS game.
+
+[title] F.E.A.R.
+F.E.A.R. First Encounter Assault Recon is a survival horror first-person shooter video game developed by Monolith Productions and published by Sierra Entertainment.  It was released on October 17, 2005, for Microsoft Windows, and ported by Day 1 Studios to the Xbox 360 and PlayStation 3.  TimeGate Studios has released two expansion packs, "F.E.A.R. Extraction Point" in October 2006, and "F.E.A.R. Perseus Mandate" in November 2007.  A direct sequel titled "", was released in February 2009, and a second sequel, "F.3. A.R.", was released in June 2011, though it was developed by Day 1 Studios (now known as Wargaming Chicago-Baltimore), not by Monolith Productions.
+
+[title] Geometry Wars 3: Dimensions
+Geometry Wars 3: Dimensions is a 2014 multidirectional shooter video game developed by Lucid Games and published by Activision under the Sierra Entertainment brand name.  The game was released on November 25, 2014 for Microsoft Windows, OS X, GNU/Linux, PlayStation 3 and PlayStation 4, on November 26, 2014 for Xbox 360 and Xbox One and in the middle of 2015 for iOS and Android.  "Geometry Wars 3: Dimensions" is the first Sierra video game not to be owned by their former owner Vivendi.  It is the sixth installment in the "Geometry Wars" series, and the first one developed after the creator of the series Bizarre Creations was shut down by Activision.
+
+[title] Roberta Williams
+Roberta Williams (born February 16, 1953) is an American video game designer, writer, and a co-founder of Sierra On-Line (later known as Sierra Entertainment), who developed her first game while living in Simi Valley, California.  She is most famous for her pioneering work in the field of graphic adventure games with titles such as "Mystery House", the "King's Quest" series, and "Phantasmagoria".  She is married to Ken Williams and retired from her career in 1999.  Roberta Williams is one of the most influential PC game designers of the 1980s and 1990s, and has been credited with creating the graphic adventure genre.
+
+[title] Crash: Mind over Mutant
+Crash: Mind over Mutant is a platform video game published by Activision in North America and by Sierra Entertainment internationally and developed by Vancouver-based Radical Entertainment for the PlayStation 2, PlayStation Portable (ported by Virtuos), Wii and Xbox 360.  The Nintendo DS version of the game was developed by TOSE.  It was released in North America on October 7, 2008 and was later released in Europe and Australia on October 31.  It is the second game in the series not to have a Japanese release, after "Crash of the Titans".
+
+[title] Crash of the Titans
+Crash of the Titans is a platform game published by Sierra Entertainment and developed by Vancouver-based Radical Entertainment for the PlayStation 2, PlayStation Portable (ported by SuperVillain Studios), Wii and Xbox 360.  The Game Boy Advance and Nintendo DS versions of the game were developed by Amaze Entertainment.  The game was first released in North America on October 3, 2007, in Europe on October 12, 2007 and in Australia on October 25, 2007.  It is the first game in the "Crash Bandicoot" series not to have a Japanese release.
+
+[title] Alma Wade
+Alma Wade is a major antagonist and key figure in the "F.E.A.R." series of first-person shooter horror video games by Monolith Productions, introduced in "F.E.A.R." in 2005.  The mystery of Alma is the very core of the series.
+
+[title] Hoyle Casino
+Hoyle Casino is a virtual casino video game published by Encore, Inc. It was previously published by Sierra Entertainment for a variety of different platforms, including Microsoft Windows, Mac OS X, Sega Dreamcast, and Game Boy Color.

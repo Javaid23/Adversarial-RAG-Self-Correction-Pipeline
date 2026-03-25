@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 358
+[label] NOT ENOUGH INFO
+[claim] Their analysis calculates the existential climate-related security risk to Earth through a scenario set 30 years into the future.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Environmental sociology: They analyze the past 30 years of environmentalism and the different outcomes that the green movement has taken in different state contexts and cultures.
+- (NOT ENOUGH INFO) Future of Earth: Christopher Scotese and his colleagues have mapped out the predicted motions several hundred million years into the future as part of the Paleomap Project.
+- (NOT ENOUGH INFO) Global catastrophic risk: The authors of this study believe that the mentioned agricultural crisis will begin to have an effect on the world after 2020, and will become critical after 2050.
+- (NOT ENOUGH INFO) Global catastrophic risk: Those that are at least "trans-generational" (affecting all future generations) in scope and "terminal"[clarification needed] in intensity are classified as existential risks.
+- (NOT ENOUGH INFO) Global issue: A global catastrophic risk is a hypothetical future event which could damage human well-being on a global scale, even crippling or destroying modern civilization.
+[note] Use this as adversarial contradiction evidence with inline citation.

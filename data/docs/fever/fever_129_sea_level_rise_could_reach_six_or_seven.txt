@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 129
+[label] NOT ENOUGH INFO
+[claim] Sea level rise could reach six or seven feet by the year 2100.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Sea level rise: If emissions remain very high, the IPCC projects sea level will rise by 52–98 cm (20–39 in).
+- (NOT ENOUGH INFO) Sea level rise: The study also concluded that the Paris climate agreement emissions scenario, if met, would result in a median 52 cm (20 in) of sea level rise by 2100.
+- (NOT ENOUGH INFO) Sea level rise: In 2019, a study projected that in low emission scenario, sea level will rise 30 centimeters by 2050 and 69 centimetres by 2100, relatively to the level in 2000.
+- (NOT ENOUGH INFO) Sea level rise: In high emission scenario, it will be 34 cm by 2050 and 111 cm by 2100.
+- (NOT ENOUGH INFO) Sea level rise: The commission said the country must plan for a rise in the North Sea up to 1.3 metres (4 ft 3 in) by 2100 and plan for a 2–4 metres (7–13 ft) m rise by 2200.
+[note] Use this as adversarial contradiction evidence with inline citation.

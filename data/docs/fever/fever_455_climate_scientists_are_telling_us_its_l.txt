@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 455
+[label] REFUTES
+[claim] Climate scientists are telling us it’s likely we’re going to be in for a period of cooling.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Global warming: Global warming is the long-term rise in the average temperature of the Earth's climate system.
+- (REFUTES) Global warming: "The next five years will be 'anomalously warm,' scientists predict".
+- (REFUTES) Global warming: Climate model projections summarized in the report indicated that during the 21st century the global surface temperature is likely to rise a further 0.3 to 1.7 °C (0.5 to 3.1 °F) in a moderate scenario, or as much as 2.6 to 4.8 °C (4.7 to 8.6 °F) in an extreme scenario, depending on the rate of future greenhouse gas emissions and on climate feedback effects.
+- (NOT ENOUGH INFO) Ice age: The reflection of energy into space resulted in a global cooling, triggering the Pleistocene Ice Age.
+- (NOT ENOUGH INFO) Ice age: Beside the expected cooling down in comparison with the current climate, a significant precipitation change happened here.
+[note] Use this as adversarial contradiction evidence with inline citation.

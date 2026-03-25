@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 105
+[label] REFUTES
+[claim] Therefore, CO2 levels could not have forced temperatures to rise.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Anoxic event: Oceanic anoxic events most commonly occurred during periods of very warm climate characterized by high levels of carbon dioxide (CO2) and mean surface temperatures probably in excess of 25 °C (77 °F).
+- (REFUTES) Carbon dioxide: Increases in atmospheric concentrations of CO 2 and other long-lived greenhouse gases such as methane, nitrous oxide and ozone have correspondingly strengthened their absorption and emission of infrared radiation, causing the rise in average global temperature since the mid-20th century.
+- (REFUTES) Carbon dioxide: Not only do increasing carbon dioxide concentrations lead to increases in global surface temperature, but increasing global temperatures also cause increasing concentrations of carbon dioxide.
+- (NOT ENOUGH INFO) Global warming: Currently, surface temperatures are rising by about 0.2 °C per decade.
+- (REFUTES) Greenhouse gas: During the late 20th century, a scientific consensus evolved that increasing concentrations of greenhouse gases in the atmosphere cause a substantial rise in global temperatures and changes to other parts of the climate system, with consequences for the environment and for human health.
+[note] Use this as adversarial contradiction evidence with inline citation.

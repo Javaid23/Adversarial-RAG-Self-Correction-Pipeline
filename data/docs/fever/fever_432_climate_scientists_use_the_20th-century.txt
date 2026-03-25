@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 432
+[label] NOT ENOUGH INFO
+[claim] Climate scientists use the 20th-century average as a benchmark for global temperature measurements.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate: Climate is the long-term average of weather, typically averaged over a period of 30 years.
+- (NOT ENOUGH INFO) Global warming: Global warming is the long-term rise in the average temperature of the Earth's climate system.
+- (NOT ENOUGH INFO) Global warming: The IPCC has adopted the baseline reference period 1850–1900 as an approximation of pre-industrial global mean surface temperature.
+- (NOT ENOUGH INFO) Instrumental temperature record: The global average and combined land and ocean surface temperature, show a warming of 0.85 [0.65 to 1.06] °C, in the period 1880 to 2012, based on multiple independently produced datasets.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: On the basis of available data, climate scientists are now projecting an average global temperature rise over this century of 2.0 to 4.5°C.
+[note] Use this as adversarial contradiction evidence with inline citation.

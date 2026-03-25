@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 257
+[label] SUPPORTS
+[claim] The MWP lasted from about 950 to 1250AD, and temperature records appear to show it was even hotter than today
+[candidate_evidence]
+- (SUPPORTS) Medieval Warm Period: The Medieval Warm Period (MWP) also known as the Medieval Climate Optimum, or Medieval Climatic Anomaly was a time of warm climate in the North Atlantic region lasting from c. 950 to c. 1250.
+- (NOT ENOUGH INFO) Medieval Warm Period: 1250, during the European Middle Ages.
+- (NOT ENOUGH INFO) Medieval Warm Period: Global temperature records taken from ice cores, tree rings, and lake deposits, have shown that the Earth may have been slightly cooler globally (by 0.03 °C) than in the early and mid-20th century.
+- (SUPPORTS) Medieval Warm Period: study found warmth exceeding 1961–1990 levels in Southern Greenland and parts of North America during the Medieval Climate Anomaly (defined in the study from 950 to 1250) with warmth in some regions exceeding temperatures of the 1990–2010 period.
+- (SUPPORTS) Medieval Warm Period: The Medieval Warm Period (MWP) is generally thought to have occurred from c. 950–c.
+[note] Use this as adversarial contradiction evidence with inline citation.

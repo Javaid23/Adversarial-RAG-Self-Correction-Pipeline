@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 163
+[label] NOT ENOUGH INFO
+[claim] We’ve contacted them to ask more details about the size of the Sif.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Conservative Judaism: Since the 2013 Pew survey, which assessed that only 18 per cent of American Jews identify with it, Conservative leadership is engaged in attempting to solve Conservative Judaism's demographic crisis.
+- (NOT ENOUGH INFO) We Are the World: Entertainment manager and fellow fundraiser Ken Kragen was contacted by Belafonte, who asked for singers Lionel Richie and Kenny Rogers—Kragen's clients—to participate in Belafonte's musical endeavor.
+- (NOT ENOUGH INFO) We Are the World: Several musicians were contacted by the pair, before Jackson and Lionel Richie were assigned the task of writing the song.
+- (NOT ENOUGH INFO) We Found Love: Anticipation for the video grew in the United Kingdom when the national news picked up on the story of sixty-one-year-old Northern Ireland farmer Alan Graham withdrawing his permission to film in his barley field in Bangor, County Down after taking issue with Rihanna's clothing, focusing on her appearing topless and also wearing a red bikini top which he thought was an "inappropriate state of undress".
+- (NOT ENOUGH INFO) We Found Love: In the opening lines, Flo Rida introduces himself and raps tongue twisters about Rihanna and The Bahamas, "You know I got love for you/ See what happened was we in Bahams/ I remember it was the ox summer, oh so pretty I/ ..Girl nice to meet you what's the honour/ Yeah she tap me told me she Rihanna.".
+[note] Use this as adversarial contradiction evidence with inline citation.

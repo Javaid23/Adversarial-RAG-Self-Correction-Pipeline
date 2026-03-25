@@ -1,0 +1,14 @@
+{
+  "fever": {
+    "docs": 250,
+    "eval": 250
+  },
+  "squad_v2": {
+    "docs": 250,
+    "eval": 250
+  },
+  "hotpotqa": {
+    "docs": 120,
+    "eval": 120
+  }
+}

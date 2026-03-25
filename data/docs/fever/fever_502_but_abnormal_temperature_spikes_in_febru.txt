@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 502
+[label] NOT ENOUGH INFO
+[claim] But abnormal temperature spikes in February and earlier this month have left it vulnerable to winds, which have pushed the ice further away from the coast than at any time since satellite records began in the 1970s.”
+[candidate_evidence]
+- (NOT ENOUGH INFO) Antarctica: A lower air temperature of −94.7 °C (−138.5 °F) was recorded in 2010 by satellite—however, it may be influenced by ground temperatures and was not recorded at a height of 7 feet (2 m) above the surface as required for the official air temperature records.
+- (NOT ENOUGH INFO) Precipitation: Extratropical cyclones can bring cold and dangerous conditions with heavy rain and snow with winds exceeding 119 km/h (74 mph), (sometimes referred to as windstorms in Europe).
+- (NOT ENOUGH INFO) Santa Ana winds: During Santa Ana conditions it is typically hotter along the coast than in the deserts, with the Southern California coastal region reaching some of its highest annual temperatures in autumn rather than summer.
+- (NOT ENOUGH INFO) Santa Ana winds: Like the Santa Ana, these winds also heat up by compression and lose humidity, but because they start out so extraordinarily cold and dry and blow over snow and ice all the way to the sea, the perceived similarity is negligible.
+- (NOT ENOUGH INFO) West Coast of the United States: The coastline sees significantly mild temperatures when compared to the inland areas during summer.
+[note] Use this as adversarial contradiction evidence with inline citation.

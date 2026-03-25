@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 461
+[label] NOT ENOUGH INFO
+[claim] Temperatures cooled from about 1940 to 1975, and then they rose from about ’75 to about 2005 or so, and since then they’ve been flat or cooling.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Temperature: In fact the lowest temperature ever obtained in a macroscopic system was 20 nK, which was achieved in 1995 at NIST.
+- (NOT ENOUGH INFO) Temperature: A temperature of 450 ±80 pK in a Bose–Einstein condensate (BEC) of sodium atoms was achieved in 2003 by researchers at MIT.
+- (NOT ENOUGH INFO) Temperatures Rising: September 16, 1972.
+- (NOT ENOUGH INFO) Temperatures Rising: June 23, 2011.
+- (NOT ENOUGH INFO) Temperatures Rising: September 14, 1972.
+[note] Use this as adversarial contradiction evidence with inline citation.

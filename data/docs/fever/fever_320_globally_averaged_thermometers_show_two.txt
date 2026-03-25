@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 320
+[label] NOT ENOUGH INFO
+[claim] Globally averaged thermometers show two periods of warming since 1900: a half-degree from natural causes in the first half of the 20th century, before there was an increase in industrial carbon dioxide that was enough to produce it, and another half-degree in the last quarter of the century.
+[candidate_evidence]
+- (NOT ENOUGH INFO) 20th century: The average global temperature on Earth has increased by about 0.8° Celsius (1.4° Fahrenheit) since 1880; Two-thirds of the warming has occurred since 1975, at a rate of roughly 0.15-0.20 °C per decade.
+- (NOT ENOUGH INFO) 20th century: One argument is that of global warming occurring due to human-caused emission of greenhouse gases, particularly carbon dioxide produced by the burning of fossil fuels.
+- (NOT ENOUGH INFO) Carbon dioxide: Increases in atmospheric concentrations of CO 2 and other long-lived greenhouse gases such as methane, nitrous oxide and ozone have correspondingly strengthened their absorption and emission of infrared radiation, causing the rise in average global temperature since the mid-20th century.
+- (NOT ENOUGH INFO) Carbon dioxide: Since the Industrial Revolution anthropogenic emissions – primarily from use of fossil fuels and deforestation – have rapidly increased its concentration in the atmosphere, leading to global warming.
+- (NOT ENOUGH INFO) Global warming: Before the Industrial Revolution, naturally occurring amounts of greenhouse gases caused the air near the surface to be warmer by about 33 °C (59 °F) than it would be in their absence.
+[note] Use this as adversarial contradiction evidence with inline citation.

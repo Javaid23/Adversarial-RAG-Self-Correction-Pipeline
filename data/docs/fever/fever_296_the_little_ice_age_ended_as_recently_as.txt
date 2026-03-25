@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 296
+[label] SUPPORTS
+[claim] The Little Ice Age ended as recently as 1850.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Little Ice Age: 1660), and Laki (1783).
+- (NOT ENOUGH INFO) Little Ice Age: (2012) state that cold summers and ice growth began abruptly between 1275 and 1300, followed by "a substantial intensification" from 1430 to 1455.
+- (SUPPORTS) Little Ice Age: It has been conventionally defined as a period extending from the 16th to the 19th centuries, but some experts prefer an alternative timespan from about 1300 to about 1850.
+- (SUPPORTS) Little Ice Age: The Little Ice Age ended in the latter half of the 19th century or early in the 20th century.
+- (NOT ENOUGH INFO) Little Ice Age: Greenland was largely cut off by ice from 1410 to the 1720s.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 478
+[label] NOT ENOUGH INFO
+[claim] Protecting and restoring forests would reduce 18% of emissions by 2030
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate change mitigation: 10% per annum until zero emissions are reached around 2030.
+- (NOT ENOUGH INFO) Climate change mitigation: Targets for the year 2030: Reduce GHG emission by 40% from the level of 1990.
+- (NOT ENOUGH INFO) Mangrove restoration: The UN estimate deforestation and forest degradation to make up 17% of global carbon emissions, which makes it the second most polluting sector, following the energy industry.
+- (NOT ENOUGH INFO) Reforestation: Japan needs to reduce 26% of green house gas emission from 2013 by 2030 to accomplish Paris Agreement and is trying to reduce 2% of them by forestry.
+- (NOT ENOUGH INFO) Sustainable Development Goals: The report mentioned that this would require global net human-caused emissions of carbon dioxide (CO2) to fall by about 45% from 2010 levels by 2030, reaching "net zero" around 2050, through “rapid and far-reaching” transitions in land, energy, industry, buildings, transport, and cities.
+[note] Use this as adversarial contradiction evidence with inline citation.

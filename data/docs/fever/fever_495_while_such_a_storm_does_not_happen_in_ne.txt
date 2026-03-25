@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 495
+[label] NOT ENOUGH INFO
+[claim] While such a storm does not happen in New England anymore, it happened again there in 1675, with elderly eyewitnesses comparing it to the 1635 storm.
+[candidate_evidence]
+- (NOT ENOUGH INFO) 1938 New England hurricane: The 1938 New England Hurricane (also referred to as the Great New England Hurricane, Long Island Express, and Yankee Clipper) was one of the deadliest and most destructive tropical cyclones to strike Long Island, New York, and New England.
+- (NOT ENOUGH INFO) 1938 New England hurricane: It remains the most powerful and deadliest hurricane in recorded New England history, perhaps eclipsed in landfall intensity only by the Great Colonial Hurricane of 1635.
+- (NOT ENOUGH INFO) 1993 Storm of the Century: Readings of 976.0 millibars (28.82 inHg) were recorded in Tallahassee, Florida, and even lower readings of 960.0 millibars (28.35 inHg) were observed in New England.
+- (NOT ENOUGH INFO) Winter storm naming in the United States: Winter Storm naming in the United States goes back to the 1700s when a snowstorm dubbed "The Great Snow of 1717" hit the colonies of New England in 1717.
+- (NOT ENOUGH INFO) Winter storm: Notable ice storms include an El Niño-related North American ice storm of 1998 that affected much of eastern Canada, including Montreal and Ottawa, as well as upstate New York and part of New England.
+[note] Use this as adversarial contradiction evidence with inline citation.

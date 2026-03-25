@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 6
+[label] REFUTES
+[claim] The polar bear population has been growing.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Polar bear: "Ask the experts: Are polar bear populations increasing?".
+- (NOT ENOUGH INFO) Polar bear: The growth of the human population in the Eurasian Arctic in the 16th and 17th century, together with the advent of firearms and increasing trade, dramatically increased the harvest of polar bears.
+- (NOT ENOUGH INFO) Polar bear: The numbers taken grew rapidly in the 1960s, peaking around 1968 with a global total of 1,250 bears that year.
+- (REFUTES) Polar bear: In two areas where harvest levels have been increased based on increased sightings, science-based studies have indicated declining populations, and a third area is considered data-deficient.
+- (REFUTES) Polar bear: Of the 19 recognized polar bear subpopulations, one is in decline, two are increasing, seven are stable, and nine have insufficient data, as of 2017.
+[note] Use this as adversarial contradiction evidence with inline citation.

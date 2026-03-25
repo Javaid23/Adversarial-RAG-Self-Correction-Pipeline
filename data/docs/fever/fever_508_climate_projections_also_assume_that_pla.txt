@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 508
+[label] NOT ENOUGH INFO
+[claim] Climate projections also assume that planet Earth is not dynamic
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate model: This model has the advantage of allowing a rational dependence of local albedo and emissivity on temperature – the poles can be allowed to be icy and the equator warm – but the lack of true dynamics means that horizontal transports have to be specified.
+- (NOT ENOUGH INFO) Climate: These models predict an upward trend in the global mean surface temperature, with the most rapid increase in temperature being projected for the higher latitudes of the Northern Hemisphere.
+- (NOT ENOUGH INFO) Coriolis force: In meteorology and oceanography, it is convenient to postulate a rotating frame of reference wherein the Earth is stationary.
+- (NOT ENOUGH INFO) Earth: The angle of Earth's axial tilt is relatively stable over long periods of time.
+- (NOT ENOUGH INFO) Future of Earth: Despite such interactions, highly accurate simulations show that overall, Earth's orbit is likely to remain dynamically stable for billions of years into the future.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 494
+[label] NOT ENOUGH INFO
+[claim] The Massachusetts Bay Colony in 1635 experienced a Category 3 or 4 storm, with up to a 20-foot storm surge.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Air National Guard: The most severe damage came from a 30-plus-foot storm surge along the Mississippi coast and the north shore of Lake Pontchartrain in Louisiana and breaks in the levies along a canal in New Orleans.
+- (NOT ENOUGH INFO) Palm Beach County, Florida: Early on September 17, 1928, the Okeechobee hurricane made landfall near West Palm Beach as a category-4 storm and crossed Lake Okeechobee shortly thereafter.
+- (NOT ENOUGH INFO) Palm Beach County, Florida: August 28, 1949, a category-4 hurricane struck West Palm Beach with maximum sustained winds of 150 mph (240 km/h), causing considerable damage.
+- (NOT ENOUGH INFO) Palm Beach County, Florida: Jeanne struck near the same location as a category-3 hurricane on September 26, 2004.
+- (NOT ENOUGH INFO) Palm Beach County, Florida: On October 24, 2005, Hurricane Wilma struck Collier County as a category-3 hurricane.
+[note] Use this as adversarial contradiction evidence with inline citation.

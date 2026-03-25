@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 412
+[label] NOT ENOUGH INFO
+[claim] From 1970 until 1998 there was a warming period that raised temperatures by about 0.7 F that helped spawn the global warming alarmist movement.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Eocene: These isotope changes occurred due to the release of carbon from the ocean into the atmosphere that led to a temperature increase of 4-8 °C (7-14 °F) at the surface of the ocean.
+- (NOT ENOUGH INFO) Global warming: Currently, surface temperatures are rising by about 0.2 °C per decade.
+- (NOT ENOUGH INFO) Global warming: An example of such an episode is the slower rate of surface temperature increase from 1998 to 2012, which was dubbed the global warming hiatus.
+- (NOT ENOUGH INFO) Paleocene: The Paleocene–Eocene thermal maximum was an approximate 200,000 year long event where the global average temperature rose by some 5 to 8 °C (9 to 14 °F), and mid-latitude and polar areas may have exceeded modern tropical temperatures of 24–29 °C (75–84 °F).
+- (NOT ENOUGH INFO) Paleocene: For comparison, the average global temperature for the period between 1951 and 1980 was 14 °C (57 °F).
+[note] Use this as adversarial contradiction evidence with inline citation.

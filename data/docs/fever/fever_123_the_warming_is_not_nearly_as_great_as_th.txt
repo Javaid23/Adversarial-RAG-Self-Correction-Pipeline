@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 123
+[label] REFUTES
+[claim] the warming is not nearly as great as the climate change computer models have predicted.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Deforestation: The model predicted <0.2 °C warming for upper air at 700 mb and 500 mb.
+- (NOT ENOUGH INFO) Global catastrophic risk: Projections of future climate change suggest further global warming, sea level rise, and an increase in the frequency and severity of some extreme weather events and weather-related disasters.
+- (NOT ENOUGH INFO) Global catastrophic risk: Martin Weitzman argues that most of the expected economic damage from climate change may come from the small chance that warming greatly exceeds the mid-range expectations, resulting in catastrophic damage.
+- (REFUTES) Global warming: It is a major aspect of climate change and has been demonstrated by direct temperature measurements and by measurements of various effects of the warming.
+- (NOT ENOUGH INFO) Global warming: Uncertainty over feedbacks is the major reason why different climate models project different magnitudes of warming for a given amount of emissions.
+[note] Use this as adversarial contradiction evidence with inline citation.

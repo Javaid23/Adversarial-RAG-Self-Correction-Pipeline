@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 420
+[label] NOT ENOUGH INFO
+[claim] International Energy Agency, a global analysis organization, “continue to see a role for coal for the foreseeable future.”
+[candidate_evidence]
+- (NOT ENOUGH INFO) International Energy Agency: This publication on renewable energy – "which is now the fastest growing sector of the energy mix and accounts for almost a fifth of all electricity produced worldwide – will join annual medium-term reports on oil, gas and coal, which the IEA already produces".
+- (NOT ENOUGH INFO) International Energy Agency: "Fatih Birol ushers in new era for IEA—Takes office as Executive Director of global energy authority".
+- (NOT ENOUGH INFO) International Energy Agency: The IEA has a broad role in promoting alternate energy sources (including renewable energy), rational energy policies, and multinational energy technology co-operation.
+- (NOT ENOUGH INFO) International Energy Agency: Environmental groups have become critical of the IEA's 450 Scenario (created to align with the 2009 Copenhagen Accord), contending that it does not align with up-to-date climate science, nor is it consistent with the Paris climate agreement that aspires to limit global warming to 1.5 degrees Celsius.
+- (NOT ENOUGH INFO) International Energy Agency: He further said that the IEA is overstating the role of shale in a global market, and how the core job of the IEA, is not to take things out of context.
+[note] Use this as adversarial contradiction evidence with inline citation.

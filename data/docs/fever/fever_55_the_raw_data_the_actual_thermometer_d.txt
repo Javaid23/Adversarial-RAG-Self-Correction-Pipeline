@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 55
+[label] 3
+[claim] [T]he raw data, the actual thermometer data[...] shows that the US has been cooling for 80 to 90 years.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Hockey stick controversy: It said that "by 1300 it began to cool, and by 1400 we were well into the Little Ice Age.
+- (REFUTES) Hockey stick controversy: The reconstruction found significant variability around a long-term cooling trend of −0.02 °C per century, as expected from orbital forcing, interrupted in the 20th century by rapid warming which stood out from the whole period, with the 1990s "the warmest decade, and 1998 the warmest year, at moderately high levels of confidence".
+- (SUPPORTS) Hockey stick controversy: He said there had probably been no global warming since the 1940s, and "Satellite data show no appreciable warming of the global atmosphere since 1979.
+- (REFUTES) Hockey stick controversy: In fact, if one ignores the unusual El Nino year of 1998, one sees a cooling trend."
+- (REFUTES) Hockey stick controversy: That's the data we've had for the past 150 years, which is quite consistent with the expectation that the climate is continuing to warm."
+[note] Use this as adversarial contradiction evidence with inline citation.

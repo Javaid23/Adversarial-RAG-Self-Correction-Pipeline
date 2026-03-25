@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 268
+[label] REFUTES
+[claim] Some scientists believe that solar activity is more likely to influence today’s climate than carbon dioxide, and Dr Soon has compiled data showing temperature in America, Canada and Mexico rises and falls in line with solar activity.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Attribution of recent climate change: Another line of evidence against the sun having caused recent climate change comes from looking at how temperatures at different levels in the Earth's atmosphere have changed.
+- (REFUTES) Global warming controversy: In the scientific literature, there is a strong consensus that global surface temperatures have increased in recent decades and that the trend is caused by human-induced emissions of greenhouse gases.
+- (REFUTES) Global warming controversy: Our results show that the observed rapid rise in global mean temperatures seen after 1985 cannot be ascribed to solar variability, whichever of the mechanisms is invoked and no matter how much the solar variation is amplified.
+- (NOT ENOUGH INFO) Global warming: Another line of evidence for the warming not being due to the Sun is how temperature changes differ at different levels in the Earth's atmosphere.
+- (REFUTES) Greenhouse gas: The 2007 Fourth Assessment Report compiled by the IPCC (AR4) noted that "changes in atmospheric concentrations of greenhouse gases and aerosols, land cover and solar radiation alter the energy balance of the climate system", and concluded that "increases in anthropogenic greenhouse gas concentrations is very likely to have caused most of the increases in global average temperatures since the mid-20th century".
+[note] Use this as adversarial contradiction evidence with inline citation.

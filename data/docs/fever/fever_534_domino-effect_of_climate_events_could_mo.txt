@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 534
+[label] SUPPORTS
+[claim] Domino-effect of climate events could move Earth into a ‘hothouse’ state
+[candidate_evidence]
+- (SUPPORTS) Avoiding Dangerous Climate Change (2005 conference): "Domino-effect of climate events could push Earth into a 'hothouse' state".
+- (SUPPORTS) Global warming: A concern is that self-reinforcing feedbacks will lead to a tipping point, where global temperatures transition to a hothouse climate state even if greenhouse gas emissions are reduced or eliminated.
+- (SUPPORTS) Paris Agreement: Climate Action Tracker "Domino-effect of climate events could push Earth into a 'hothouse' state".
+- (SUPPORTS) Runaway greenhouse effect: "Domino-effect of climate events could move Earth into a 'hothouse' state".
+- (SUPPORTS) Tipping points in the climate system: Self-reinforcing feedbacks in the carbon cycle and planetary reflectivity could trigger a cascading set of tipping points that lead the world into a hothouse climate state.
+[note] Use this as adversarial contradiction evidence with inline citation.

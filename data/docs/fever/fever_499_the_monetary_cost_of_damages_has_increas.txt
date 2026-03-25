@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 499
+[label] NOT ENOUGH INFO
+[claim] The monetary cost of damages has increased dramatically in recent decades, but that is due to increasing population, wealth and the amount of vulnerable infrastructure.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Economics of global warming: Losses caused by catastrophes, defined by the property insurance industry as storms causing insured losses over $5 million in the year of occurrence, have grown steadily in the United States from about $100 million annually in the 1950s to $6 billion per year in the 1990s, and the annual number of catastrophes grew from 10 in the 1950s to 35 in the 1990s.” Authors have pointed to several reasons why commercial insurance markets cannot adequately cover risks associated with climate change (Arrow et al., 1996, p. 72).
+- (NOT ENOUGH INFO) Economics of global warming: (2001) concluded that: countries with limited economic resources, low levels of technology, poor information and skills, poor infrastructure, unstable or weak institutions, and inequitable empowerment and access to resources have little adaptive capacity and are highly vulnerable to climate change (p. 879).
+- (NOT ENOUGH INFO) Neoliberalism: Others note that while the economy had stabilized and was growing by the late 1980s, inequality widened: nearly 45% of the population had fallen into poverty while the wealthiest 10% had seen their incomes rise by 83%.
+- (NOT ENOUGH INFO) Neoliberalism: Additionally, the percentage of the Chilean population living in poverty rose from 17% in 1969 to 45% in 1985 at the same time government budgets for education, health and housing dropped by over 20% on average.
+- (NOT ENOUGH INFO) United States: Despite income and wealth disparities, the United States continues to rank very high in measures of socioeconomic performance, including average wage, median income, median wealth, human development, per capita GDP, and worker productivity.
+[note] Use this as adversarial contradiction evidence with inline citation.

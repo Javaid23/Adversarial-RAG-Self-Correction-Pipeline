@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 98
+[label] NOT ENOUGH INFO
+[claim] Trump's action could push the Earth over the brink, to become like Venus, with a temperature of two hundred and fifty degrees, and raining sulphuric acid.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Earth: At the center, the temperature may be up to 6,000 °C (10,830 °F), and the pressure could reach 360 GPa (52 million psi).
+- (NOT ENOUGH INFO) Earth: About a billion years from now, all surface water will have disappeared and the mean global temperature will reach 70 °C (158 °F).
+- (NOT ENOUGH INFO) Venus: Venus is by far the hottest planet in the Solar System, with a mean surface temperature of 735 K (462 °C; 863 °F), even though Mercury is closer to the Sun.
+- (NOT ENOUGH INFO) Venus: The CO 2-rich atmosphere generates the strongest greenhouse effect in the Solar System, creating surface temperatures of at least 735 K (462 °C; 864 °F).
+- (NOT ENOUGH INFO) Venus: This makes Venus's surface hotter than Mercury's, which has a minimum surface temperature of 53 K (−220 °C; −364 °F) and maximum surface temperature of 700 K (427 °C; 801 °F), even though Venus is nearly twice Mercury's distance from the Sun and thus receives only 25% of Mercury's solar irradiance.
+[note] Use this as adversarial contradiction evidence with inline citation.

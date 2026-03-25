@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 378
+[label] SUPPORTS
+[claim] for thousands of millions of years the Earth has been changing, with cycles­ and one-off events such as an asteroid impact, super-volcano or a supernova explosion.
+[candidate_evidence]
+- (SUPPORTS) Earth: Tectonics and erosion, volcanic eruptions, flooding, weathering, glaciation, the growth of coral reefs, and meteorite impacts are among the processes that constantly reshape Earth's surface over geological time.
+- (NOT ENOUGH INFO) Earth: These dates change over time due to precession and other orbital factors, which follow cyclical patterns known as Milankovitch cycles.
+- (NOT ENOUGH INFO) Earth: This is predicted to produce changes such as the melting of glaciers and ice sheets, more extreme temperature ranges, significant changes in weather and a global rise in average sea levels.
+- (SUPPORTS) Earth: Between approximately 4.1 and 3.8 Bya, numerous asteroid impacts during the Late Heavy Bombardment caused significant changes to the greater surface environment of the Moon and, by inference, to that of Earth.
+- (NOT ENOUGH INFO) Earth: High-latitude regions have since undergone repeated cycles of glaciation and thaw, repeating about every 40,000–100,000 years.
+[note] Use this as adversarial contradiction evidence with inline citation.

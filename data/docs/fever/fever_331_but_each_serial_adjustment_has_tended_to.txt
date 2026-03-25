@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 331
+[label] NOT ENOUGH INFO
+[claim] But each serial adjustment has tended to make the early years colder, which increases the warming trend.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Global cooling: The RSS satellite temperature record showed a slight cooling trend, but the UAH satellite temperature record showed a slight warming trend.
+- (NOT ENOUGH INFO) Global cooling: The general public had little awareness of carbon dioxide's effects on climate, but Science News in May 1959 forecast a 25% increase in atmospheric carbon dioxide in the 150 years from 1850 to 2000, with a consequent warming trend.
+- (NOT ENOUGH INFO) Global warming: Climate change adaptation is "the adjustment in natural or human systems in response to actual or expected climatic stimuli or their effects, which moderates harm or exploits beneficial opportunities".
+- (NOT ENOUGH INFO) Global warming: Because the climate system has large thermal inertia, it can take centuries for the climate to fully adjust.
+- (NOT ENOUGH INFO) Global warming: Globally, these effects are estimated to have led to a slight cooling, dominated by an increase in surface albedo.
+[note] Use this as adversarial contradiction evidence with inline citation.

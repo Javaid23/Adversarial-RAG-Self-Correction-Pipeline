@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 41
+[label] SUPPORTS
+[claim] More than 500 scientists and professionals in climate and related fields have sent a 'European Climate Declaration' to the Secretary-General of the United Nations
+[candidate_evidence]
+- (SUPPORTS) Scientific consensus on climate change: This scientific opinion is expressed in synthesis reports, by scientific bodies of national or international standing, and by surveys of opinion among climate scientists.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: European Academy of Sciences and Arts in 2007 issued a formal declaration on climate change titled Let's Be Honest: Human activity is most likely responsible for climate warming.
+- (SUPPORTS) Scientific consensus on climate change: Dennis Bray and Hans von Storch conducted a survey in August 2008 of 2058 climate scientists from 34 different countries.
+- (SUPPORTS) Sustainability: The Millennium Ecosystem Assessment is an international synthesis by over 1000 of the world's leading biological scientists that analyzes the state of the Earth's ecosystems and provides summaries and guidelines for decision-makers.
+- (NOT ENOUGH INFO) Sustainability: It was signed by 15,364 scientists from 184 countries, what made it the letter with the most signatures of scientists in history In November 2019, more than 11,000 scientists from 153 countries published a letter in which they warn about big threats to sustainability from climate change if big changes in policies will not happen.
+[note] Use this as adversarial contradiction evidence with inline citation.

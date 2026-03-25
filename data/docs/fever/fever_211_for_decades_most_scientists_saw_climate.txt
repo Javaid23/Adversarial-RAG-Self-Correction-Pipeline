@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 211
+[label] NOT ENOUGH INFO
+[claim] For decades, most scientists saw climate change as a distant prospect.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate change (general concept): Scientists have identified many episodes of climate change during Earth's geological history; more recently since the industrial revolution the climate has increasingly been affected by human activities driving global warming, and the terms are commonly used interchangeably in that context.
+- (NOT ENOUGH INFO) Global warming: In the scientific literature, there is an overwhelming consensus that global surface temperatures have increased in recent decades and that the trend is caused mainly by human-induced emissions of greenhouse gases.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: Decades of scientific research have shown that climate can change from both natural and anthropogenic causes.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: Catastrophic effects in 50–100 years would likely be observed according to 41%, while 44% thought the effects would be moderate and about 13 percent saw relatively little danger.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: US National Academy of Sciences: "In the judgment of most climate scientists, Earth's warming in recent decades has been caused primarily by human activities that have increased the amount of greenhouse gases in the atmosphere.
+[note] Use this as adversarial contradiction evidence with inline citation.

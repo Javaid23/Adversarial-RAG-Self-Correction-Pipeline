@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 101
+[label] NOT ENOUGH INFO
+[claim] Neither the rate nor the magnitude of the reported late twentieth century surface warming (1979–2000) lay outside normal natural variability.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Global warming: Currently, surface temperatures are rising by about 0.2 °C per decade.
+- (NOT ENOUGH INFO) Global warming: In the scientific literature, there is an overwhelming consensus that global surface temperatures have increased in recent decades and that the trend is caused mainly by human-induced emissions of greenhouse gases.
+- (NOT ENOUGH INFO) Global warming: The disputed issues include the causes of increased global average air temperature, especially since the mid-20th century, whether this warming trend is unprecedented or within normal climatic variations, whether humankind has contributed significantly to it, and whether the increase is completely or partially an artifact of poor measurements.
+- (NOT ENOUGH INFO) Global warming: Before the Industrial Revolution, naturally occurring amounts of greenhouse gases caused the air near the surface to be warmer by about 33 °C (59 °F) than it would be in their absence.
+- (NOT ENOUGH INFO) Hockey stick controversy: From this, he concluded that "The post-1980 global warming trend from surface thermometers is not credible.
+[note] Use this as adversarial contradiction evidence with inline citation.

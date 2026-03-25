@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 204
+[label] NOT ENOUGH INFO
+[claim] after a natural orbitally driven warming, atmospheric carbon dioxide content increases 800 years later
+[candidate_evidence]
+- (NOT ENOUGH INFO) Carbon dioxide: Increases in atmospheric concentrations of CO 2 and other long-lived greenhouse gases such as methane, nitrous oxide and ozone have correspondingly strengthened their absorption and emission of infrared radiation, causing the rise in average global temperature since the mid-20th century.
+- (NOT ENOUGH INFO) Earth: Earth's increasing surface temperature will accelerate the inorganic carbon cycle, reducing CO 2 concentration to levels lethally low for plants (10 ppm for C4 photosynthesis) in approximately 100–900 million years.
+- (NOT ENOUGH INFO) Eocene: Along with the decrease of atmospheric carbon dioxide reducing the global temperature, orbital factors in ice creation can be seen with 100,000-year and 400,000-year fluctuations in benthic oxygen isotope records.
+- (NOT ENOUGH INFO) Paleocene–Eocene Thermal Maximum: The current warming period is expected to last another 50,000 years due to a minimum in the eccentricity of the Earth's orbit.
+- (NOT ENOUGH INFO) Paleocene–Eocene Thermal Maximum: The associated period of massive carbon release into the atmosphere has been estimated to have lasted from 20,000 to 50,000 years.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 96
+[label] REFUTES
+[claim] The IPCC, the Intergovernmental Panel on Climate Change, which is sort of the voice of the consensus, concedes that there has been no increase in extreme weather events.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Intergovernmental Panel on Climate Change: The Intergovernmental Panel on Climate Change (IPCC) is an intergovernmental body of the United Nations that is dedicated to providing the world with objective, scientific information relevant to understanding the scientific basis of the risk of human-induced climate change, its natural, political, and economic impacts and risks, and possible response options.
+- (NOT ENOUGH INFO) Intergovernmental Panel on Climate Change: The IPCC provides an internationally accepted authority on climate change, producing reports that have the agreement of leading climate scientists and consensus from participating governments.
+- (REFUTES) Intergovernmental Panel on Climate Change: "Impacts [of climate change] will very likely increase due to increased frequencies and intensities of some extreme weather events".
+- (REFUTES) Scientific consensus on climate change: The letter goes on to warn of predicted impacts on the United States such as sea level rise and increases in extreme weather events, water scarcity, heat waves, wildfires, and the disturbance of biological systems.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: Joint Science Academies' statement, 2001: "The work of the Intergovernmental Panel on Climate Change (IPCC) represents the consensus of the international scientific community on climate change science.
+[note] Use this as adversarial contradiction evidence with inline citation.

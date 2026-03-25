@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 409
+[label] NOT ENOUGH INFO
+[claim] as time progresses and fossil fuel emissions increase, the number of record highs should increase and record lows should decrease.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Global warming: These levels are much higher than at any time during the last 800,000 years, the period for which reliable data have been collected from ice cores.
+- (NOT ENOUGH INFO) Global warming: The 10th Emissions Gap Report issued by the United Nations Environment Programme (UNEP) predicts that if emissions continue to increase at the same rate as they have in 2010–2020, global temperatures would rise by as much as 4° by 2100.
+- (NOT ENOUGH INFO) Greenhouse gas: Recent data also shows that the concentration is increasing at a higher rate.
+- (NOT ENOUGH INFO) Peak oil: Peak oil is the theorized point in time when the maximum rate of extraction of petroleum is reached, after which it is expected to enter terminal decline.
+- (NOT ENOUGH INFO) Peak oil: "Oil Production Is at Record Levels.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 452
+[label] REFUTES
+[claim] “So the bottom line of all this is that climate change is natural, not man-made.
+[candidate_evidence]
+- (REFUTES) Attribution of recent climate change: The clear message from fingerprint studies is that the observed warming over the last half-century cannot be explained by natural factors, and is instead caused primarily by human factors.
+- (REFUTES) Attribution of recent climate change: Nevertheless, the bottom-line conclusion from climate fingerprinting is that most of the observed changes studied to date are consistent with each other, and are also consistent with our scientific understanding of how the climate system would be expected to respond to the increase in heat-trapping gases resulting from human activities.
+- (NOT ENOUGH INFO) Attribution of recent climate change: (2012) stated that a combination of natural weather variability and human-induced global warming was responsible for the Moscow and Texas heat waves.
+- (REFUTES) Attribution of recent climate change: "Penetration of human-induced warming into the world's oceans".
+- (NOT ENOUGH INFO) Sustainable development: Environmental sustainability concerns the natural environment and how it endures and remains diverse and productive.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 267
+[label] NOT ENOUGH INFO
+[claim] Yet a study published just this week, by the Bjerknes Centre for Climate Research in Bergen, Norway, found that the natural climate system can change abruptly, without the need for any external forces.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Bjerknes Centre for Climate Research: The Bjerknes Centre for Climate Research is a climate research centre in Bergen, Norway.
+- (NOT ENOUGH INFO) Bjerknes Centre for Climate Research: The centres key areas of research is natural variability in the Earth system and man-made climate change.
+- (NOT ENOUGH INFO) Bjerknes Centre for Climate Research: Asgeir Sorteberg in the Special Report on managing the risks of extreme events and disasters to advance climate change adaption (SREX).
+- (NOT ENOUGH INFO) Greenland: Analysis of the layering and chemical composition of the cores has provided a revolutionary new record of climate change in the Northern Hemisphere going back about 100,000 years and illustrated that the world's weather and temperature have often shifted rapidly from one seemingly stable state to another, with worldwide consequences.
+- (NOT ENOUGH INFO) List of climate scientists: He has provided evidence that large, abrupt global climate changes have occurred repeatedly in the Earth’s history and has contributed to our understanding of the driving mechanisms of these changes.
+[note] Use this as adversarial contradiction evidence with inline citation.

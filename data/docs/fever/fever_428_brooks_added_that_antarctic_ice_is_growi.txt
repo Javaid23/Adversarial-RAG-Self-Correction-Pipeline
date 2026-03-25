@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 428
+[label] 3
+[claim] Brooks added that Antarctic ice is growing.
+[candidate_evidence]
+- (SUPPORTS) Antarctic ice sheet: The glaciation was favored by an interval when the Earth's orbit favored cool summers but oxygen isotope ratio cycle marker changes were too large to be explained by Antarctic ice-sheet growth alone indicating an ice age of some size.
+- (NOT ENOUGH INFO) Antarctic ice sheet: The general trend shows that a warming climate in the southern hemisphere would transport more moisture to Antarctica, causing the interior ice sheets to grow, while calving events along the coast will increase, causing these areas to shrink.
+- (REFUTES) Antarctic ice sheet: A 2006 paper derived from satellite data, measuring changes in the gravity of the ice mass, suggests that the total amount of ice in Antarctica has begun decreasing in the past few years.
+- (NOT ENOUGH INFO) Antarctic ice sheet: Satellite measurements by NASA indicate a still increasing sheet thickness above the continent, outweighing the losses at the edge.
+- (NOT ENOUGH INFO) Second Grinnell expedition: The brig was periodically chain-lifted above the ice to prevent it from being crushed by the growing ice.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 261
+[label] NOT ENOUGH INFO
+[claim] in 1995 one scientist at the IPCC – Jonathan Overpeck – wrote an email to a colleague claiming ‘we have to get rid of the Medieval Warm Period.’
+[candidate_evidence]
+- (NOT ENOUGH INFO) Hockey stick controversy: This was the basis of a "schematic diagram" featured in the IPCC First Assessment Report of 1990 beside cautions that the medieval warming might not have been global.
+- (NOT ENOUGH INFO) Medieval Warm Period: However, that view was questioned by other researchers; the IPCC First Assessment Report of 1990 discussed the "Medieval Warm Period around 1000 AD (which may not have been global) and the Little Ice Age which ended only in the middle to late nineteenth century."
+- (NOT ENOUGH INFO) Soon and Baliunas controversy: The IPCC Second Assessment Report (SAR) of 1996 featured a graph of an early northern hemisphere reconstruction by Raymond S. Bradley and Phil Jones, and noted the 1994 reconstruction by Hughes and Henry F. Diaz questioning how widespread the Medieval Warm Period had been at any one time.
+- (NOT ENOUGH INFO) Temperature record of the past 1000 years: This was the basis of a "schematic diagram" featured in the IPCC First Assessment Report beside cautions that the medieval warming might not have been global.
+- (NOT ENOUGH INFO) Temperature record of the past 1000 years: When the IPCC TAR was still in draft, Fred Singer held a press event saying "We don't accept this" with Wibjörn Karlén who alleged that MBH99 showed neither a Medieval Warm Period nor a Little Ice Age, an inaccurate claim echoed soon afterwards by John Lawrence Daly.
+[note] Use this as adversarial contradiction evidence with inline citation.

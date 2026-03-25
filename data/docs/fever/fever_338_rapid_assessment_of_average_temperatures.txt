@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 338
+[label] NOT ENOUGH INFO
+[claim] Rapid assessment of average temperatures in France between 26-28 June showed a “substantial” increase in the likelihood of the heatwave happening as a result of human-caused global warming, experts at the World Weather Attribution group said.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Attribution of recent climate change: (2012) concluded that human activities had likely led to a warming of extreme daily minimum and maximum temperatures at the global scale.
+- (NOT ENOUGH INFO) Attribution of recent climate change: (2012) attributed the 2010 Moscow and 2011 Texas heat waves to human-induced global warming.
+- (NOT ENOUGH INFO) Attribution of recent climate change: (2012) stated that a combination of natural weather variability and human-induced global warming was responsible for the Moscow and Texas heat waves.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: International Council of Academies of Engineering and Technological Sciences (CAETS) in 2007, issued a Statement on Environment and Sustainable Growth: As reported by the Intergovernmental Panel on Climate Change (IPCC), most of the observed global warming since the mid-20th century is very likely due to human-produced emission of greenhouse gases and this warming will continue unabated if present anthropogenic emissions continue or, worse, expand without control.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: Human-caused increases in greenhouse gases are responsible for most of the observed global average surface warming of roughly 0.8 °C (1.5 °F) over the past 140 years.
+[note] Use this as adversarial contradiction evidence with inline citation.

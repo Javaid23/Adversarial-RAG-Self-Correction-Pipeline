@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 293
+[label] SUPPORTS
+[claim] When the measuring equipment gets old and needs replacing, it often requires re-calibration.
+[candidate_evidence]
+- (SUPPORTS) Heat flux sensor: While heat flux sensors are typically supplied with a sensitivity by the manufacturer, there are times and situations that call for a re-calibration of the sensor.
+- (NOT ENOUGH INFO) Load cell: ISO9000 and most other standards specify a maximum period of around 18 months to 2 years between re-calibration procedures, dependent on the level of load cell deterioration.
+- (NOT ENOUGH INFO) Microphone: Since this may change over the lifetime of the device, it is necessary to regularly calibrate measurement microphones.
+- (NOT ENOUGH INFO) Sound reinforcement system: This tool is usually used by piping pink noise into the system and measuring the result with a special calibrated microphone connected to the RTA.
+- (NOT ENOUGH INFO) Surveying: Common in the oil and gas industry to replace old or damaged pipes on a like-for-like basis, the advantage of dimensional control survey is that the instrument used to conduct the survey does not need to be level.
+[note] Use this as adversarial contradiction evidence with inline citation.

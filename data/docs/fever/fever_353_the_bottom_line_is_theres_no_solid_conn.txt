@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 353
+[label] REFUTES
+[claim] The bottom line is there’s no solid connection between climate change and the major indicators of extreme weather
+[candidate_evidence]
+- (NOT ENOUGH INFO) Physical impacts of climate change: “The bottom line is that things are not that complicated,” Dr. Knutti said.
+- (REFUTES) Physical impacts of climate change: Other likely changes are listed below: Increased areas will be affected by drought There will be increased intense tropical cyclone activity There will be increased incidences of extreme high sea level (excluding tsunamis) Storm strength leading to extreme weather is increasing, such as the power dissipation index of hurricane intensity.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: This is especially true for smaller (seasonal and regional) scales and weather and climate extremes, and for important hydroclimatic variables such as precipitation and water availability.
+- (REFUTES) Scientific consensus on climate change: The letter goes on to warn of predicted impacts on the United States such as sea level rise and increases in extreme weather events, water scarcity, heat waves, wildfires, and the disturbance of biological systems.
+- (REFUTES) Scientific consensus on climate change: This could lead to changing, and for all emissions scenarios more unpredictable, weather patterns around the world, less frost days, more extreme events (droughts and storm or flood disasters), and warmer sea temperatures and melting glaciers causing sea levels to rise.
+[note] Use this as adversarial contradiction evidence with inline citation.

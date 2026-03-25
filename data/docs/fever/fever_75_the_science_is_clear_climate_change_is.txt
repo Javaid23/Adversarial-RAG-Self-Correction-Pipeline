@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 75
+[label] SUPPORTS
+[claim] The science is clear, climate change is making extreme weather events, including tornadoes, worse.
+[candidate_evidence]
+- (SUPPORTS) Effects of global warming: The main impact of global warming on the weather is an increase in extreme weather events such as heat waves, droughts, cyclones, blizzards and rainstorms.
+- (SUPPORTS) Scientific consensus on climate change: Documented long-term climate changes include changes in Arctic temperatures and ice, widespread changes in precipitation amounts, ocean salinity, wind patterns and extreme weather including droughts, heavy precipitation, heat waves and the intensity of tropical cyclones.
+- (SUPPORTS) Scientific consensus on climate change: As the Earth's climate warms, we are seeing many changes: stronger, more destructive hurricanes; heavier rainfall; more disastrous flooding; more areas of the world experiencing severe drought; and more heat waves."
+- (SUPPORTS) Scientific consensus on climate change: This could lead to changing, and for all emissions scenarios more unpredictable, weather patterns around the world, less frost days, more extreme events (droughts and storm or flood disasters), and warmer sea temperatures and melting glaciers causing sea levels to rise.
+- (SUPPORTS) Weather: Climate change caused by human activities that emit greenhouse gases into the air is expected to affect the frequency of extreme weather events such as drought, extreme temperatures, flooding, high winds, and severe storms.
+[note] Use this as adversarial contradiction evidence with inline citation.

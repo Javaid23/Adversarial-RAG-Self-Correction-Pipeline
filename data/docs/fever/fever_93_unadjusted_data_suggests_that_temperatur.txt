@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 93
+[label] NOT ENOUGH INFO
+[claim] unadjusted data suggests that temperatures in Australia have only increased by 0.3 degrees over the past century, not the 1 degree usually claimed
+[candidate_evidence]
+- (NOT ENOUGH INFO) Australia: "Australia's extreme heat is sign of things to come, scientists warn".
+- (NOT ENOUGH INFO) Australia: According to the Bureau of Meteorology's 2011 Australian Climate Statement, Australia had lower than average temperatures in 2011 as a consequence of a La Niña weather pattern; however, "the country's 10-year average continues to demonstrate the rising trend in temperatures, with 2002–2011 likely to rank in the top two warmest 10-year periods on record for Australia, at 0.52 °C (0.94 °F) above the long-term average".
+- (NOT ENOUGH INFO) Australia: Furthermore, 2014 was Australia's third warmest year since national temperature observations commenced in 1910.
+- (NOT ENOUGH INFO) Australia: January 2019 was the hottest month ever in Australia with average temperatures exceeding 30 °C (86 °F).
+- (NOT ENOUGH INFO) Australia: ], inflation has typically been 2–3% and the base interest rate 5–6%.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 313
+[label] NOT ENOUGH INFO
+[claim] Let’s find out by comparing the actual temperatures since 1979 with what the 32 families of climate models used in the latest U.N. report on climate science predicted they would be.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Effects of global warming on humans: There have been prediction models of temperature created to project the effects of global warming on the planet.
+- (NOT ENOUGH INFO) Global warming controversy: Models referenced by the Intergovernmental Panel on Climate Change (IPCC) predict that global temperatures are likely to increase by 1.1 to 6.4 °C (2.0 to 11.5 °F) between 1990 and 2100.
+- (NOT ENOUGH INFO) Global warming: The 10th Emissions Gap Report issued by the United Nations Environment Programme (UNEP) predicts that if emissions continue to increase at the same rate as they have in 2010–2020, global temperatures would rise by as much as 4° by 2100.
+- (NOT ENOUGH INFO) Global warming: Climate model projections summarized in the report indicated that during the 21st century the global surface temperature is likely to rise a further 0.3 to 1.7 °C (0.5 to 3.1 °F) in a moderate scenario, or as much as 2.6 to 4.8 °C (4.7 to 8.6 °F) in an extreme scenario, depending on the rate of future greenhouse gas emissions and on climate feedback effects.
+- (NOT ENOUGH INFO) Intergovernmental Panel on Climate Change: They judge that global mean surface air temperature has increased by 0.3 to 0.6 °C over the last 100 years, broadly consistent with prediction of climate models, but also of the same magnitude as natural climate variability.
+[note] Use this as adversarial contradiction evidence with inline citation.

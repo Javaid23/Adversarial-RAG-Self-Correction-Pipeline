@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 430
+[label] 3
+[claim] “But there are plenty of studies that have come that show with respect to Antarctica that the total ice sheet, particularly that above land, is increasing, not decreasing.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Antarctica: "A 40-y record reveals gradual Antarctic sea ice increases followed by decreases at rates far exceeding the rates seen in the Arctic".
+- (SUPPORTS) Antarctica: found instead that the net change in ice mass is slightly positive at approximately 82 gigatonnes per year (with significant regional variation) which would result in Antarctic activity reducing global sea-level rise by 0.23 mm per year.
+- (REFUTES) Antarctica: A satellite record revealed that the overall increase in Antarctic sea ice extents reversed in 2014, with rapid rates of decrease in 2014–2017 reducing the Antarctic sea ice extents to their lowest values in the 40-y record.
+- (REFUTES) Sea level rise: All datasets generally show an acceleration of mass loss from the Antarctic ice-sheet, but with year-to-year variations.
+- (REFUTES) Sea level rise: A 2019 study, however, using different methodology, concluded that East Antarctica is losing significant amounts of ice mass.
+[note] Use this as adversarial contradiction evidence with inline citation.

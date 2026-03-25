@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 256
+[label] SUPPORTS
+[claim] One of the main areas of contention is the existence of two strange climate episodes known as The Medieval Warm Period (MWP) and the Little Ice Age.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Little Ice Age: The Little Ice Age (LIA) was a period of cooling that occurred after the Medieval Warm Period.
+- (NOT ENOUGH INFO) Medieval Warm Period: The Medieval Warm Period (MWP) also known as the Medieval Climate Optimum, or Medieval Climatic Anomaly was a time of warm climate in the North Atlantic region lasting from c. 950 to c. 1250.
+- (SUPPORTS) Medieval Warm Period: The warm period became known as the Medieval Warm Period, and the cold period was called the Little Ice Age (LIA).
+- (NOT ENOUGH INFO) Medieval Warm Period: "The Medieval Climate Anomaly and the Little Ice Age in the eastern Ecuadorian Andes".
+- (NOT ENOUGH INFO) Medieval Warm Period: The period was followed by a cooler period in the North Atlantic and elsewhere termed the Little Ice Age.
+[note] Use this as adversarial contradiction evidence with inline citation.

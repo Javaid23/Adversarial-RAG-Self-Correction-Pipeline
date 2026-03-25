@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 33
+[label] REFUTES
+[claim] Harvard study finds that wind turbines create MORE global warming than the fossil fuels they eliminate
+[candidate_evidence]
+- (NOT ENOUGH INFO) Fossil fuel: Carbon dioxide is a greenhouse gas that increases radiative forcing and contributes to global warming along with ocean acidification.
+- (NOT ENOUGH INFO) Petroleum: The use of petroleum as fuel causes global warming and ocean acidification.
+- (REFUTES) Wind power: Compared with other low carbon power sources, wind turbines have some of the lowest global warming potential per unit of electrical energy generated.
+- (NOT ENOUGH INFO) Wind power: Arrays of large turbines, known as wind farms, have become an increasingly important source of renewable energy and are used in many countries as part of a strategy to reduce their reliance on fossil fuels.
+- (REFUTES) Wind turbine: Over 1,500 tons of carbon dioxide per year can be eliminated by using a one-megawatt turbine instead of one megawatt of energy from a fossil fuel.
+[note] Use this as adversarial contradiction evidence with inline citation.

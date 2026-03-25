@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 482
+[label] SUPPORTS
+[claim] It is expected the report will focus on required changes to the energy system, rather than forests.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Emissions trading: "How will the changes impact on forestry?".
+- (SUPPORTS) IPCC Fourth Assessment Report: There was high agreement and much evidence that a substantial fraction of these mitigation costs may be offset by benefits to health as a result of reduced air pollution, and that there would be further cost savings from other benefits such as increased energy security, increased agricultural production, and reduced pressure on natural ecosystems as well as, in certain countries, balance of trade improvements, provision of modern energy services to rural areas and employment.
+- (NOT ENOUGH INFO) IPCC Fourth Assessment Report: AR4 describes warming and cooling effects on the planet in terms of radiative forcing — the rate of change of energy in the system, measured as power per unit area (in SI units, W/m²).
+- (NOT ENOUGH INFO) Low-carbon economy: Information on the environmental impacts of alternative models of treatment and service provision Some of the suggested changes needed are: Greater efficiency and lower ecological impact of energy, buildings, and procurement choices (e.g., in-patient meals, pharmaceuticals, and medical equipment).
+- (NOT ENOUGH INFO) Low-carbon economy: Low emission development strategies for the land use sector can prioritize the protection of carbon-rich ecosystems to not only reduce emissions, but also to protect biodiversity and safeguard local livelihoods to reduce rural poverty - all of which can lead to more climate resilient systems, according to a report by the Low Emission Development Strategies Global Partnership (LEDS GP).
+[note] Use this as adversarial contradiction evidence with inline citation.

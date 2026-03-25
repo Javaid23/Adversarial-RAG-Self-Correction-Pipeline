@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 363
+[label] NOT ENOUGH INFO
+[claim] Monsoons in China fail, the great rivers of Asia virtually dry up, and rainfall in central America falls by half.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate of Asia: The monsoon accounts for 80% of the rainfall in India[citation needed].
+- (NOT ENOUGH INFO) Desert: A desert is a region of land that is very dry because it receives low amounts of precipitation (usually in the form of rain, but it may be snow, mist or fog), often has little coverage by plants, and in which streams dry up unless they are supplied by water from outside the area.
+- (NOT ENOUGH INFO) Humid subtropical climate: Rainfall often shows a summer peak, especially where monsoons are well developed, as in Southeast Asia and South Asia.
+- (NOT ENOUGH INFO) Humid subtropical climate: Summer rainfall comes from the East Asian Monsoon and from frequent typhoons.
+- (NOT ENOUGH INFO) Monsoon: Over three-quarters of annual rainfall in Northern Australia falls during this time.
+[note] Use this as adversarial contradiction evidence with inline citation.

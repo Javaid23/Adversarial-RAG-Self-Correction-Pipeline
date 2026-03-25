@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 418
+[label] SUPPORTS
+[claim] describes a world of worsening food shortages and wildfires, and a mass die-off of coral reefs as soon as 2040
+[candidate_evidence]
+- (SUPPORTS) Coral bleaching: During this period, 19 percent of coral reefs worldwide were lost, and 60 percent of the remaining reefs are at immediate risk of being lost.
+- (SUPPORTS) Drought: Malnutrition, dehydration and related diseases Mass migration, resulting in internal displacement and international refugees Reduced electricity production due to reduced water-flow through hydroelectric dams Shortages of water for industrial users Snake migration, which results in snake-bites Social unrest War over natural resources, including water and food Wildfires, such as Australian bushfires, become more common during times of drought and may cause human deaths.
+- (SUPPORTS) Effects of global warming on human health: With degradation of protective coral reefs through acidic erosion, bleaching and death, salt water is able to infiltrate fresh ground water supplies that large populations depend on.
+- (SUPPORTS) Great Barrier Reef: Battle for the Reef – Four Corners – ABC.au Great Barrier Reef scientists confirm largest die-off of corals recorded.
+- (SUPPORTS) Wild fisheries: A recent paper published by the National Academy of Sciences of the USA warns that: "Synergistic effects of habitat destruction, overfishing, introduced species, warming, acidification, toxins, and massive runoff of nutrients are transforming once complex ecosystems like coral reefs and kelp forests into monotonous level bottoms, transforming clear and productive coastal seas into anoxic dead zones, and transforming complex food webs topped by big animals into simplified, microbially dominated ecosystems with boom and bust cycles of toxic dinoflagellate blooms, jellyfish, and disease".
+[note] Use this as adversarial contradiction evidence with inline citation.

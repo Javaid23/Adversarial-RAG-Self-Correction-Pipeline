@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 404
+[label] REFUTES
+[claim] Actual weather records over the past 100 years show no correlation between rising carbon dioxide levels and local temperatures.
+[candidate_evidence]
+- (REFUTES) Global cooling: The general public had little awareness of carbon dioxide's effects on climate, but Science News in May 1959 forecast a 25% increase in atmospheric carbon dioxide in the 150 years from 1850 to 2000, with a consequent warming trend.
+- (NOT ENOUGH INFO) Global warming controversy: Correlation of CO 2 and temperature is not part of this evidence.
+- (NOT ENOUGH INFO) Global warming: Throughout this period ocean heat storage continued to progress steadily upwards, and in subsequent years surface temperatures have spiked upwards.
+- (NOT ENOUGH INFO) Physical impacts of climate change: (2013) estimated that global warming had increased the probability of local record-breaking monthly temperatures worldwide by a factor of 5.
+- (REFUTES) Regional effects of global warming: Regional effects of global warming are long-term significant changes in the expected patterns of average weather of a specific region due to global warming.
+[note] Use this as adversarial contradiction evidence with inline citation.

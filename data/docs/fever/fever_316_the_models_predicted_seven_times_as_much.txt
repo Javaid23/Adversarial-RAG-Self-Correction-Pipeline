@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 316
+[label] 3
+[claim] the models predicted seven times as much warming as has been observed
+[candidate_evidence]
+- (REFUTES) Deforestation: The model predicted <0.2 °C warming for upper air at 700 mb and 500 mb.
+- (SUPPORTS) General circulation model: However, the report also observed that the rate of warming over the period 1998–2012 was lower than that predicted by 111 out of 114 Coupled Model Intercomparison Project climate models.
+- (NOT ENOUGH INFO) General circulation model: Under the same emissions scenario but with a different model, the predicted median warming was 4.1 °C.
+- (REFUTES) James Hansen: They found that the observed warming was similar to two of the three scenarios.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: Human-caused increases in greenhouse gases are responsible for most of the observed global average surface warming of roughly 0.8 °C (1.5 °F) over the past 140 years.
+[note] Use this as adversarial contradiction evidence with inline citation.

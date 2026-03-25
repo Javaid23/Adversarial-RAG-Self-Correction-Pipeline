@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 198
+[label] SUPPORTS
+[claim] For decades horticulturalists have pumped carbon dioxide into glasshouses to increase yields.
+[candidate_evidence]
+- (SUPPORTS) Carbon dioxide: Elevated CO 2 levels cause increased growth reflected in the harvestable yield of crops, with wheat, rice and soybean all showing increases in yield of 12–14% under elevated CO 2 in FACE experiments.
+- (SUPPORTS) Climate change and agriculture: Elevated CO2 increases crop yields and growth through an increase in photosynthetic rate, and it also decreases water loss as a result of stomatal closing.
+- (NOT ENOUGH INFO) Greenhouse: Many commercial glass greenhouses or hothouses are high tech production facilities for vegetables, flowers or fruits.
+- (SUPPORTS) Greenhouse: The possibility of using carbon dioxide enrichment in greenhouse cultivation to enhance plant growth has been known for nearly 100 years.
+- (SUPPORTS) Greenhouse: The refinery reduces its carbon emissions, whilst the nursery enjoys boosted tomato yields and does not need to provide its own greenhouse heating.
+[note] Use this as adversarial contradiction evidence with inline citation.

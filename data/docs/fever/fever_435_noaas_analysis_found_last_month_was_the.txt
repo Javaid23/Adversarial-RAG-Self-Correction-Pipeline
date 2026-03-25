@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 435
+[label] NOT ENOUGH INFO
+[claim] NOAA’s analysis found last month was the 3rd-warmest April on record globally.
+[candidate_evidence]
+- (NOT ENOUGH INFO) 2015 in science: 21 July The latest global analysis of temperature data from NOAA shows that the first half of 2015 was the hottest such period on record, at 0.85 °C (1.53 °F) above the 20th century average, surpassing the previous record set in 2010 by 0.09 °C (0.16 °F).
+- (NOT ENOUGH INFO) 2015 in science: 20 August July 2015 was the hottest month on Earth since records began in 1880, according to data from NOAA.
+- (NOT ENOUGH INFO) 2015 in science: The National Oceanic and Atmospheric Administration (NOAA) reports that September's global average temperature was the largest departure from normal for any month on record.
+- (NOT ENOUGH INFO) 2019 in science: The National Oceanic and Atmospheric Administration (NOAA) reports that July 2019 was the hottest month on record globally, at 0.95 °C (1.71 °F) above the 20th century average.
+- (NOT ENOUGH INFO) National Oceanic and Atmospheric Administration: Understanding and describing Earth systems through research and analysis of that data.
+[note] Use this as adversarial contradiction evidence with inline citation.

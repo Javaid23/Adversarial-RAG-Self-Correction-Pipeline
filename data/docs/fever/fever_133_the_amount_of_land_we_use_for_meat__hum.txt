@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 133
+[label] SUPPORTS
+[claim] The amount of land we use for meat — humankind’s biggest use of land — has declined by an area nearly as large as Alaska
+[candidate_evidence]
+- (NOT ENOUGH INFO) Agriculture: As of 2010[update], 30% of Earth's ice- and water-free area was used for producing livestock, with the sector employing approximately 1.3 billion people.
+- (NOT ENOUGH INFO) Alaska: Alaska is the largest state in the United States by total area at 663,268 square miles (1,717,856 km2), over twice the size of Texas, the next largest state.
+- (NOT ENOUGH INFO) Human impact on the environment: Despite estimated losses of agricultural land, the amount of arable land used in crop production globally increased by about 9% from 1961 to 2012, and is estimated to have been 1.396 billion hectares in 2012.
+- (NOT ENOUGH INFO) Human overpopulation: The report asserts that expanding human land use for agriculture and overfishing are the main causes of this decline.
+- (SUPPORTS) Meat: It is by far the biggest cause of land use, as it accounts for nearly 40% of the global land surface.
+[note] Use this as adversarial contradiction evidence with inline citation.

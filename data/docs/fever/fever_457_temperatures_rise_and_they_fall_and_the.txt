@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 457
+[label] NOT ENOUGH INFO
+[claim] temperatures rise and they fall, and they rise and they fall… and for the last 400 years we’ve had a gentle warming as we’ve been coming out of the little ice age.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Global warming: Global warming is the long-term rise in the average temperature of the Earth's climate system.
+- (NOT ENOUGH INFO) Global warming: Temperatures rose by 0.0 °C–0.2 °C from 1720–1800 to 1850–1900 (Hawkins et al., 2017).
+- (NOT ENOUGH INFO) Ice age: An ice age is a long period of reduction in the temperature of the Earth's surface and atmosphere, resulting in the presence or expansion of continental and polar ice sheets and alpine glaciers.
+- (NOT ENOUGH INFO) Little Ice Age: Orbital forcing from cycles in the earth's orbit around the sun has, for the past 2,000 years, caused a long-term northern hemisphere cooling trend that continued through the Middle Ages and the Little Ice Age.
+- (NOT ENOUGH INFO) Retreat of glaciers since 1850: The Little Ice Age was a period from about 1550 to 1850 when the world experienced relatively cooler temperatures compared to the time before and after.
+[note] Use this as adversarial contradiction evidence with inline citation.

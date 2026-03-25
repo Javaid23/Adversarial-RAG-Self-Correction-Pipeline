@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 142
+[label] NOT ENOUGH INFO
+[claim] Worst-case global heating scenarios may need to be revised upwards in light of a better understanding of the role of clouds, scientists have said.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Cloud: For these reasons the role of tropospheric clouds in regulating weather and climate remains a leading source of uncertainty in global warming projections.
+- (NOT ENOUGH INFO) Clouds and the Earth's Radiant Energy System: Results from the CERES and other NASA missions, such as the Earth Radiation Budget Experiment (ERBE), could lead to a better understanding of the role of clouds and the energy cycle in global climate change.
+- (NOT ENOUGH INFO) Global warming: With this information, scientists can produce scenarios of how greenhouse gas emissions may vary in the future.
+- (NOT ENOUGH INFO) Global warming: Climate change is more accurate scientifically to describe the various effects of greenhouse gases on the world because it includes extreme weather, storms and changes in rainfall patterns, ocean acidification and sea level.".
+- (NOT ENOUGH INFO) Global warming: Climate model projections summarized in the report indicated that during the 21st century the global surface temperature is likely to rise a further 0.3 to 1.7 °C (0.5 to 3.1 °F) in a moderate scenario, or as much as 2.6 to 4.8 °C (4.7 to 8.6 °F) in an extreme scenario, depending on the rate of future greenhouse gas emissions and on climate feedback effects.
+[note] Use this as adversarial contradiction evidence with inline citation.

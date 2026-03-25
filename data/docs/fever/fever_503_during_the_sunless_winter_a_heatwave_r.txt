@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 503
+[label] SUPPORTS
+[claim] “During the sunless winter, a heatwave raised concerns that the polar vortex may be eroding.
+[candidate_evidence]
+- (NOT ENOUGH INFO) 2013–14 North American winter: On December 1, 2013, the weakening of the polar vortex led to the beginning of an abnormally cold trend in the Eastern and Central United States.
+- (SUPPORTS) Early 2014 North American cold wave: The polar vortex Beginning on January 2, 2014, sudden stratospheric warming (SSW)[dubious – discuss] led to the breakdown of the semi-permanent feature across the Arctic known as the polar vortex.
+- (SUPPORTS) Polar vortex: The general assumption is that reduced snow cover and sea ice reflect less sunlight and therefore evaporation and transpiration increases, which in turn alters the pressure and temperature gradient of the polar vortex, causing it to weaken or collapse.
+- (NOT ENOUGH INFO) Stratosphere: This breaking is caused due to a highly non-linear interaction between the vertically propagating planetary waves and the isolated high potential vorticity region known as the polar vortex.
+- (NOT ENOUGH INFO) Winter 1985 cold wave: The winter 1985 cold wave was a meteorological event, the result of the shifting of the polar vortex farther south than is normally seen.
+[note] Use this as adversarial contradiction evidence with inline citation.

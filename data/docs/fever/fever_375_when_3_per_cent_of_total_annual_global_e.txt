@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 375
+[label] NOT ENOUGH INFO
+[claim] when 3 per cent of total annual global emissions of carbon dioxide are from humans and Australia prod­uces 1.3 per cent of this 3 per cent, then no amount of emissions reductio­n here will have any effect on global climate.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Agriculture: The 2011 UNEP Green Economy report states that "[a]agricultural operations, excluding land use changes, produce approximately 13 per cent of anthropogenic global GHG emissions.
+- (NOT ENOUGH INFO) Climate change mitigation: With a market share of 30% and (potentially) clean electricity, heat pumps could reduce global CO 2 emissions by 8% annually.
+- (NOT ENOUGH INFO) Greenhouse gas: In the modern era, emissions to the atmosphere from volcanoes are approximately 0.645 billion tonnes of CO 2 per year, whereas humans contribute 29 billion tonnes of CO 2 each year.
+- (NOT ENOUGH INFO) Greenhouse gas: Cumulative anthropogenic (i.e., human-emitted) emissions of CO 2 from fossil fuel use are a major cause of global warming, and give some indication of which countries have contributed most to human-induced climate change.
+- (NOT ENOUGH INFO) Greenhouse gas: Other countries with fast growing emissions are South Korea, Iran, and Australia (which apart from the oil rich Persian Gulf states, now has the highest percapita emission rate in the world).
+[note] Use this as adversarial contradiction evidence with inline citation.

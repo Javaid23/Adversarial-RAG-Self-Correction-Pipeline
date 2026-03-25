@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 451
+[label] NOT ENOUGH INFO
+[claim] The idea that the much smaller carbon dioxide cycle is now controlling the water cycle is not very likely.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Carbon capture and storage: If CO 2 capture was part of a fuel cycle then the CO 2 would have value rather than be a cost.
+- (NOT ENOUGH INFO) Coal: The largest and most long term effect of coal use is the release of carbon dioxide, a greenhouse gas that causes climate change and global warming.
+- (NOT ENOUGH INFO) Ice age: The amount of heat trapping gases emitted into Earth's oceans and atmosphere are predicted to prevent the next glacial period, which otherwise would begin in around 50,000 years, and likely more glacial cycles.
+- (NOT ENOUGH INFO) Radiocarbon dating: At higher temperatures, CO 2 has poor solubility in water, which means there is less CO 2 available for the photosynthetic reactions.
+- (NOT ENOUGH INFO) Scuba diving: This would be followed by a buildup in carbon dioxide, causing an urgent feeling of a need to breathe, and if this cycle is not broken, panic and drowning are likely to follow.
+[note] Use this as adversarial contradiction evidence with inline citation.

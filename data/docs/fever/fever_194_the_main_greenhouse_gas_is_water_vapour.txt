@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 194
+[label] SUPPORTS
+[claim] The main greenhouse gas is water vapour[…]
+[candidate_evidence]
+- (SUPPORTS) Global warming: The main reinforcing feedbacks are the water vapour feedback, the ice–albedo feedback, and probably the net effect of clouds.
+- (NOT ENOUGH INFO) Global warming: As water is a potent greenhouse gas, this further heats the climate: the water vapour feedback.
+- (NOT ENOUGH INFO) Greenhouse gas: "AGU Water Vapor in the Climate System".
+- (NOT ENOUGH INFO) Greenhouse gas: "How Much CO2 Does A Single Volcano Emit?".
+- (NOT ENOUGH INFO) Greenhouse gas: Similar issues apply to other greenhouse gases, many of which have longer mean lifetimes than CO 2, e.g.
+[note] Use this as adversarial contradiction evidence with inline citation.

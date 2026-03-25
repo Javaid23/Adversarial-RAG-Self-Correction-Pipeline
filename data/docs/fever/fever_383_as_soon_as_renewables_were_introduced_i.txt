@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 383
+[label] REFUTES
+[claim] “As soon as renewables were introduced into the grid, electric­ity prices increased and delivery became unreliable.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Electrical grid: Electrical energy is stored during times when production (especially from intermittent power plants such as renewable electricity sources such as wind power, tidal power, solar power) exceeds consumption, and returned to the grid when production falls below consumption.
+- (NOT ENOUGH INFO) Electrical grid: In this way, a microgrid can effectively integrate various sources of distributed generation, especially renewable energy sources, and can supply emergency power, changing between island and connected modes.
+- (REFUTES) Smart grid: The improved flexibility of the smart grid permits greater penetration of highly variable renewable energy sources such as solar power and wind power, even without the addition of energy storage.
+- (NOT ENOUGH INFO) Smart grid: Smart grid technology is a necessary condition for very large amounts of renewable electricity on the grid for this reason.
+- (REFUTES) Smart grid: While traditionally load balancing strategies have been designed to change consumers' consumption patterns to make demand more uniform, developments in energy storage and individual renewable energy generation have provided opportunities to devise balanced power grids without affecting consumers' behavior.
+[note] Use this as adversarial contradiction evidence with inline citation.

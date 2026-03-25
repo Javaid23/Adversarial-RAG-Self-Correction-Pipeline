@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 377
+[label] REFUTES
+[claim] If we halve the carbon dioxide content of the atmosphere, all life dies.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Atmosphere of Earth: By volume, dry air contains 78.09% nitrogen, 20.95% oxygen, 0.93% argon, 0.04% carbon dioxide, and small amounts of other gases.
+- (NOT ENOUGH INFO) Atmosphere of Mars: It is primarily composed of carbon dioxide (95.32%), molecular nitrogen (2.6%) and argon (1.9%).
+- (NOT ENOUGH INFO) Atmosphere of Venus: The atmosphere of Venus is composed of 96.5% carbon dioxide, 3.5% nitrogen, and traces of other gases, most notably sulfur dioxide.
+- (REFUTES) Carbon dioxide: Currently, about half of the carbon dioxide released from the burning of fossil fuels remains in the atmosphere and is not absorbed by vegetation and the oceans.
+- (NOT ENOUGH INFO) Carbon dioxide: Since the Industrial Revolution anthropogenic emissions – primarily from use of fossil fuels and deforestation – have rapidly increased its concentration in the atmosphere, leading to global warming.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,31 @@
+[dataset] HotpotQA_distractor
+
+[title] When a Man Falls in Love
+When a Man Falls in Love () is a 2013 South Korean television series, starring Song Seung-heon, Shin Se-kyung, Chae Jung-an, and Yeon Woo-jin.  The story revolves around a world-weary gangster as his love life intertwines with three others, and how the course of their lives changes entirely based on one moment of fevered passion.  It aired on MBC from April 3 to June 6, 2013 on Wednesdays and Thursdays at 21:55 for 20 episodes.
+
+[title] The 1st Shop of Coffee Prince
+The 1st Shop of Coffee Prince (; also known as Coffee Prince) is a 2007 South Korean television drama, starring Yoon Eun-hye, Gong Yoo, Lee Sun-kyun, and Chae Jung-an.  Based on the novel of the same name written by Lee Sun-mi, the hit series aired on MBC from July 2 to August 28, 2007 on Mondays and Tuesdays at 21:55 for 17 episodes.
+
+[title] A New Leaf (TV series)
+A New Leaf () is a 2014 South Korean television series starring Kim Myung-min, Park Min-young, Kim Sang-joong and Chae Jung-an.  It aired on MBC from April 30 to June 26, 2014 on Wednesdays and Thursdays at 21:55 for 16 episodes.
+
+[title] Man to Man (TV series)
+Man to Man () is a 2017 South Korean television series starring Park Hae-jin, Park Sung-woong, Kim Min-jung, Chae Jung-an and Yeon Jung-hoon.  The show airs on JTBC every Friday and Saturday at 11:00pm KST.
+
+[title] Chae Jung-an
+Chae Jung-An (born Jang Jung-An on September 9, 1977) is a South Korean actress and singer.
+
+[title] Cain and Abel (TV series)
+Cain and Abel () is a 2009 South Korean television series starring So Ji-sub, Shin Hyun-joon, Han Ji-min, and Chae Jung-an.  It aired on SBS from February 18 to April 23, 2009 on Wednesdays and Thursdays at 21:55 for 20 episodes.
+
+[title] Emperor of the Sea
+Emperor of the Sea (; literally "Sea God") is a South Korean television drama series starring Choi Soo-jong, Chae Shi-ra, Song Il-gook، Soo Ae and Chae Jung-an It aired on KBS2 from November 24, 2004 to May 25, 2005 on Wednesdays and Thursdays at 21:55 for 51 episodes.  The period drama is based on Choi In-ho's 2003 novel "Hae-sin", which depicts the life of Jang Bogo, who rises from a lowly slave to a powerful maritime figure who dominated the East Asia seas and international trade during the Unified Silla Dynasty.
+
+[title] Prime Minister and I
+Prime Minister and I () is a 2013 South Korean television drama starring Im Yoon-ah, Lee Beom-soo, Yoon Shi-yoon, Chae Jung-an and Ryu Jin.  It aired on KBS2 from December 9, 2013 to February 4, 2014 on Mondays and Tuesdays at 22:00 for 17 episodes.
+
+[title] Queen of Reversals
+Queen of Reversals () is a 2010 South Korean romantic comedy television series, starring Kim Nam-joo, Jung Joon-ho, Park Si-hoo and Chae Jung-an.  It is about a career woman who experiences the many ups, downs, and reversals of work, family, and romance as she falls in and out of love and marriage.  It aired on MBC from October 18, 2010 to February 1, 2011 on Mondays and Tuesdays at 21:55 for 31 episodes.
+
+[title] Yeon Woo-jin
+Yeon Woo-jin (born Kim Bong-hoe on July 5, 1984) is a South Korean actor.  He started in the entertainment industry as a model and gained recognition with his leading roles in "Marriage, Not Dating" (2014), "Divorce Lawyer in Love" (2015), "Introverted Boss" (2017) and "Queen for Seven Days" (2017).

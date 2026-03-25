@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 14
+[label] SUPPORTS
+[claim] The Great Barrier Reef is experiencing the most widespread bleaching ever recorded
+[candidate_evidence]
+- (SUPPORTS) Coral bleaching: These temperatures have caused the most severe and widespread coral bleaching ever recorded in the Great Barrier reef.
+- (SUPPORTS) Great Barrier Reef: A March 2016 report stated that coral bleaching was more widespread than previously thought, seriously affecting the northern parts of the reef as a result of warming ocean temperatures.
+- (NOT ENOUGH INFO) Great Barrier Reef: The decline in the quality of water over the past 150 years (due to development) has contributed to coral bleaching, algal blooms, and pesticide pollution.
+- (SUPPORTS) Great Barrier Reef: Other environmental pressures on the reef and its ecosystem include runoff, climate change accompanied by mass coral bleaching, dumping of dredging sludge and cyclic population outbreaks of the crown-of-thorns starfish.
+- (SUPPORTS) Great Barrier Reef: Mass coral bleaching events due to elevated ocean temperatures occurred in the summers of 1998, 2002 and 2006, and coral bleaching is expected to become an annual occurrence.
+[note] Use this as adversarial contradiction evidence with inline citation.

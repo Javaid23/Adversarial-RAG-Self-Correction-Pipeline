@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 152
+[label] SUPPORTS
+[claim] “Catherine Senior, head of understanding climate change at the Met Office Hadley Centre, said more studies and more data were needed to fully understand the role of clouds and aerosols.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate change (general concept): While much remains to be learned, the core phenomenon, scientific questions, and hypotheses have been examined thoroughly and have stood firm in the face of serious scientific debate and careful evaluation of alternative explanations.
+- (SUPPORTS) Intergovernmental Panel on Climate Change: In a 2006 letter to Nature, Mann, Bradley, and Hughes pointed out that their original article had said that "more widespread high-resolution data are needed before more confident conclusions can be reached" and that the uncertainties were "the point of the article".
+- (NOT ENOUGH INFO) Intergovernmental Panel on Climate Change: IPCC reports cover the "scientific, technical and socio-economic information relevant to understanding the scientific basis of risk of human-induced climate change, its potential impacts and options for adaptation and mitigation."
+- (SUPPORTS) Scientific consensus on climate change: To inform decisions on adaptation and mitigation, it is critical that we improve our understanding of the global climate system and our ability to project future climate through continued and improved monitoring and research.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: The statement stresses that the scientific understanding of climate change is now sufficiently clear to justify nations taking prompt action, and explicitly endorsed the IPCC consensus.
+[note] Use this as adversarial contradiction evidence with inline citation.

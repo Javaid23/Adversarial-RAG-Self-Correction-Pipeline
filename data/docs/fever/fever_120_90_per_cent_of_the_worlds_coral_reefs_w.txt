@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 120
+[label] SUPPORTS
+[claim] 90 per cent of the world's coral reefs will disappear in the next 35 years due to coral bleaching induced by global warming, pollution and over-development.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Coral bleaching: During this time, over 70 percent of the coral reefs around the world have become damaged.
+- (SUPPORTS) Coral bleaching: In late November 2016 surveys of 62 reefs showed that long term heat stress from climate change caused a 29% loss of shallow water coral.
+- (NOT ENOUGH INFO) Coral reef: Every 4–7 years, an El Niño event causes some reefs with heat-sensitive corals to bleach, with especially widespread bleachings in 1998 and 2010.
+- (SUPPORTS) Coral reef: According to the Caribbean Coral Reefs - Status Report 19702-2012, states that; stop overfishing especially fishes key to coral reef like parrotfish, coastal zone management that reduce human pressure on reef, (for example restricting coastal settlement, development and tourism) and control pollution specially sewage, may reduce coral decline or even reverse it.
+- (SUPPORTS) Coral: Increasing sea temperatures in tropical regions (~1 degree C) the last century have caused major coral bleaching, death, and therefore shrinking coral populations since although they are able to adapt and acclimate, it is uncertain if this evolutionary process will happen quickly enough to prevent major reduction of their numbers.
+[note] Use this as adversarial contradiction evidence with inline citation.

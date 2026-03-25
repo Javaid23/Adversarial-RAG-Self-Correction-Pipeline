@@ -1,0 +1,31 @@
+[dataset] HotpotQA_distractor
+
+[title] Miss USA 1973
+Miss USA 1973, the 22nd Miss USA pageant, was televised live by CBS from Broadway Theatre, New York City, New York on May 19, 1973, Hosted by Bob Barker who 8 months earlier began hosting The Price Is Right on CBS.
+
+[title] Shawnae Jebbia
+Jebbia won the Miss Massachusetts USA title in 1997, in her first attempt at a pageant title.  She went on to represent Massachusetts in the Miss USA 1998 pageant, becoming that state's first Miss USA winner.  Whilst Jebbia had little prior experience, her first runner-up Shauna Gambill had previously held the Miss Teen USA 1994 title.  Jebbia's "sister" titleholder, Miss Massachusetts Teen USA 1998 Susie Castillo, went on to hold the Miss Massachusetts USA title and became Massachusetts' second Miss USA titleholder in 2003.
+
+[title] Miss New York USA
+The Miss New York USA competition is the pageant that selects the representative for the state of New York in the Miss USA pageant.  New York is one of the most successful states at Miss USA, and is ranked third in terms of number and value of placement across all years of competition .  New York's strongest run was an unbroken string of placements from 1957 to 1966.  New York also had a streak of 3 consecutive 1st runner-up placements from 1972 to 1974.  In 1954, Karin Huitman was 2nd runner-up.  She later moved up to be 1st runner-up, as the original 1st runner-up, Miss Virginia USA was dethroned due to underage (she was 16).  As there was no rule in 1954 that if Miss USA won Miss Universe, first runner-up became Miss USA, Karin was only 1st runner-up.  Huitman went on to become Miss World USA 1954 and 1st runner-up at Miss World 1954.
+
+[title] Miss USA 1956
+Miss USA 1956, the fifth edition of Miss USA was held on 18 July 1956, at Long Beach Municipal Auditorium, Long Beach, California.  They had 43 young ladies in the competition.  Miss Iowa USA, Carol Morris, won the competition and later became Miss Universe.  She became the first contestant from Iowa to win the Miss USA competition.  She was crowned by Miss USA 1955, Carlene King Johnson of Vermont.
+
+[title] Miss USA 1968
+Miss USA 1968, the 17th Miss USA pageant, was televised live by CBS from Miami Beach, Florida on May 18, 1968 hosted by Bob Barker.
+
+[title] Bob Barker
+Robert William Barker (born December 12, 1923) is an American former television game show host.  He is known for hosting CBS's "The Price Is Right" from 1972 to 2007, making it the longest-running daytime game show in North American television history, and for hosting "Truth or Consequences" from 1956 to 1974.
+
+[title] Dorothy Anstett
+Anstett competed in the Miss Washington pageant in July 1967 and placed first runner-up.  In April of the following year she won the Miss Washington USA 1968 crown title.  She won the Miss USA 1968 title on May 19, 1968 and represented the United States at Miss Universe 1968 in July, where she placed fourth runner-up.
+
+[title] Miss USA 1967
+Miss USA 1967, the 16th Miss USA pageant, was won by Sylvia Hitchcock of Alabama.  She was crowned by Miss USA 1966, Maria Remenyi of California.  It took place on the Miami Beach Auditorium in Miami Beach, Florida.  Hitchcock won Miss Universe later and her 2nd runner-up Cheryl Patton later becames Miss USA because the 1st runner-up refused the title.
+
+[title] Tanya Wilson
+Wilson placed second runner-up in the Miss Nevada pageant in 1969 and also competed in 1970.  After moving to Honolulu with her mother, Wilson won the Miss Hawaii USA title in early May 1972.  Two weeks later she represented her state in the Miss USA 1972 pageant, held in Dorado, Puerto Rico and won the Miss USA title.  She was crowned by Michele McDonald of Pennsylvania, Miss USA 1971.  Wilson was the second of four women from Hawaii to win the Miss USA title.
+
+[title] Miss Montana USA
+The Miss Montana USA competition is the pageant that selects the representative for the state of Montana in the Miss USA pageant.  Montana is one of the least successful states in Miss USA history, but there has been success in other pageants.  Miss Montana USA 2005 Amanda Kimmel was chosen to represent the United States in the 2005 Miss Earth  pageant.  Although she failed to place at Miss USA, Kimmel finished in the top 8 at Miss Earth.  The current titleholder is Dani Walker of Billings.

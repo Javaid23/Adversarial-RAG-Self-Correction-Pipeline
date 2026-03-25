@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 399
+[label] SUPPORTS
+[claim] Climate Change ‘Heat Records’ Are a Huge Data Manipulation
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climatology: The study of contemporary climates incorporates meteorological data accumulated over many years, such as records of rainfall, temperature and atmospheric composition.
+- (NOT ENOUGH INFO) Climatology: Climatology deals with the aggregate data that meteorology has collected.
+- (SUPPORTS) Climatology: As measuring technology changes over time, records of data cannot be compared directly.
+- (NOT ENOUGH INFO) Climatology: It uses monthly temperature and precipitation data.
+- (SUPPORTS) The Western Journal: In February 2019, The Western Journal published an article which alleged "Climate Change ‘Heat Records’ Are a Huge Data Manipulation."
+[note] Use this as adversarial contradiction evidence with inline citation.

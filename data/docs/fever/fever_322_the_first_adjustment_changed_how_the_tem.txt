@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 322
+[label] SUPPORTS
+[claim] The first adjustment changed how the temperature of the ocean surface is calculated, by replacing satellite data with drifting buoys and temperatures in ships’ water intake.
+[candidate_evidence]
+- (SUPPORTS) Instrumental temperature record: The sea record consists of surface ships taking sea temperature measurements from engine inlets or buckets.
+- (NOT ENOUGH INFO) Sea level: It varies globally in a range of ± 2 m. Historically, adjustments were made to sea-level measurements to take into account the effects of the 235 lunar month Metonic cycle and the 223-month eclipse cycle on the tides.
+- (SUPPORTS) Sea surface temperature: The first automated technique for determining SST was accomplished by measuring the temperature of water in the intake port of large ships, which was underway by 1963.
+- (NOT ENOUGH INFO) Weather buoy: Both moored buoys and drifting buoys (drifting in the open ocean currents) are used.
+- (SUPPORTS) Weather station: Weather conditions out at sea are taken by ships and buoys, which measure slightly different meteorological quantities such as sea surface temperature (SST), wave height, and wave period.
+[note] Use this as adversarial contradiction evidence with inline citation.

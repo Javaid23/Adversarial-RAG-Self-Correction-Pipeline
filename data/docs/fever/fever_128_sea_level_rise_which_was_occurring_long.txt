@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 128
+[label] NOT ENOUGH INFO
+[claim] Sea level rise, which was occurring long before humans could be blamed, has not accelerated.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Sea level rise: More precise data gathered from satellite radar measurements reveal an accelerating rise of 7.5 cm (3.0 in) from 1993 to 2017, which is a trend of roughly 30 cm (12 in) per century.
+- (NOT ENOUGH INFO) Sea level rise: This acceleration is due mostly to human-caused global warming, which is driving thermal expansion of seawater and the melting of land-based ice sheets and glaciers.
+- (NOT ENOUGH INFO) Sea level rise: "Climate-change–driven accelerated sea-level rise detected in the altimeter era".
+- (NOT ENOUGH INFO) Sea level rise: "Antarctica ice melt has accelerated by 280% in the last 4 decades".
+- (NOT ENOUGH INFO) Sea level rise: A 2018 systematic review study estimated that ice loss across the entire continent was 43 gigatons (Gt) per year on average during the period from 1992 to 2002, but has accelerated to an average of 220 Gt per year during the five years from 2012 to 2017.
+[note] Use this as adversarial contradiction evidence with inline citation.

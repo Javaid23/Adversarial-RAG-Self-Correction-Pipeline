@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 248
+[label] SUPPORTS
+[claim] But by far the largest greenhouse gas is water vapour, which makes 95 per cent of the total.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Greenhouse gas: The most common gases in Earth's atmosphere are nitrogen (78%), oxygen (21%), and argon (0.9%).
+- (SUPPORTS) Greenhouse gas: The next most common gases are carbon dioxide (0.04%), nitrous oxide, methane, and ozone.
+- (SUPPORTS) Greenhouse gas: Water vapor accounts for the largest percentage of the greenhouse effect, between 36% and 66% for clear sky conditions and between 66% and 85% when including clouds.
+- (NOT ENOUGH INFO) Greenhouse gas: For example, methane and carbon monoxide (CO) are oxidized to give carbon dioxide (and methane oxidation also produces water vapor).
+- (NOT ENOUGH INFO) Greenhouse gas: The burning of coal, natural gas, and oil for electricity and heat is the largest single source of global greenhouse gas emissions.
+[note] Use this as adversarial contradiction evidence with inline citation.

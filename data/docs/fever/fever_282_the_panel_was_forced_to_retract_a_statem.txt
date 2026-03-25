@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 282
+[label] SUPPORTS
+[claim] The panel was forced to retract a statement in its 2007 report saying all Himalayan glaciers could melt entirely by 2035.
+[candidate_evidence]
+- (SUPPORTS) Criticism of the IPCC Fourth Assessment Report: A paragraph in the 938-page 2007 Working Group II report (WGII) included a projection that Himalayan glaciers could disappear by 2035.
+- (SUPPORTS) Ganges: In 2007, the Intergovernmental Panel on Climate Change (IPCC), in its Fourth Report, stated that the Himalayan glaciers which feed the river, were at risk of melting by 2035.
+- (NOT ENOUGH INFO) Intergovernmental Panel on Climate Change: Two errors include the melting of Himalayan glaciers (see later section), and Dutch land area that is below sea level.
+- (SUPPORTS) Intergovernmental Panel on Climate Change: A paragraph in the 2007 Working Group II report ("Impacts, Adaptation and Vulnerability"), chapter 10 included a projection that Himalayan glaciers could disappear by 2035 Glaciers in the Himalaya are receding faster than in any other part of the world (see Table 10.9) and, if the present rate continues, the likelihood of them disappearing by the year 2035 and perhaps sooner is very high if the Earth keeps warming at the current rate.
+- (NOT ENOUGH INFO) Intergovernmental Panel on Climate Change: The final WG I report was released on 30 April 2007 and the final AR4 Synthesis Report was released on 17 November 2007.Rajendra Pachauri, the IPCC chair, admitted at the launch of this report that since the IPCC began work on it, scientists have recorded "much stronger trends in climate change", like the unforeseen dramatic melting of polar ice in the summer of 2007, and added, "that means you better start with intervention much earlier".
+[note] Use this as adversarial contradiction evidence with inline citation.

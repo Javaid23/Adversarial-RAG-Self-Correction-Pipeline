@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 449
+[label] NOT ENOUGH INFO
+[claim] So it’s clear now we’re not seeing dangerous global warming, and the climate models are wrong.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Effects of global warming: Tipping points are "perhaps the most ‘dangerous’ aspect of future climate changes", leading to irreversible impacts on society.
+- (NOT ENOUGH INFO) Global warming controversy: A 2007 study by David Douglass and coworkers, concluded that the 22 most commonly used global climate models used by the IPCC were unable to accurately predict accelerated warming in the troposphere although they did match actual surface warming, concluding "projections of future climate based on these models should be viewed with much caution".
+- (NOT ENOUGH INFO) Global warming: Climate Change: Vital Signs of the Planet prevent dangerous anthropogenic climate change.
+- (NOT ENOUGH INFO) Greenhouse gas: The IPCC has pointed out that many long-term climate scenario models require large-scale manmade negative emissions to avoid serious climate change.
+- (NOT ENOUGH INFO) Sea level rise: This is an important confirmation of climate change simulations which predicted that sea level rise would accelerate in response to global warming.
+[note] Use this as adversarial contradiction evidence with inline citation.

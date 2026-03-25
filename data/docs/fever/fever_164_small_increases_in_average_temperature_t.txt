@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 164
+[label] SUPPORTS
+[claim] Small increases in average temperature translate to big increases in the number of extremely hot days, and those hot days have a big impact.
+[candidate_evidence]
+- (SUPPORTS) Effects of global warming: In Australia, the annual number of hot days (above 35°C) and very hot days (above 40°C) has increased significantly in many areas of the country since 1950.
+- (SUPPORTS) Effects of global warming: Global warming refers to the long-term rise in the average temperature of the Earth's climate system.
+- (NOT ENOUGH INFO) Effects of global warming: Future climate change will include more very hot days and fewer very cold days.
+- (SUPPORTS) Effects of global warming: Global warming boosts the probability of extreme weather events such as heat waves where the daily maximum temperature exceeds the average maximum temperature by 5 °C (9 °F) for more than five consecutive days.
+- (SUPPORTS) Effects of global warming: The area in which extremely hot summers are observed has increased 50-100 fold.
+[note] Use this as adversarial contradiction evidence with inline citation.

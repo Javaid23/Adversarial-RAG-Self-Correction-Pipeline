@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 31
+[label] SUPPORTS
+[claim] Discovery Of Massive Volcanic CO2 Emissions Discredits Global Warming Theory
+[candidate_evidence]
+- (NOT ENOUGH INFO) Carbon tax: CO 2 is a heat-trapping greenhouse gas which causes global warming, which damages the environment and human health.
+- (SUPPORTS) Paleocene–Eocene Thermal Maximum: Intrusions of hot magma into carbon-rich sediments may have triggered the degassing of isotopically light methane in sufficient volumes to cause global warming and the observed isotope anomaly.
+- (NOT ENOUGH INFO) Permian–Triassic extinction event: "Global Warming Led To Atmospheric Hydrogen Sulfide And Permian Extinction".
+- (SUPPORTS) Permian–Triassic extinction event: The eruptions would also have emitted carbon dioxide, causing global warming.
+- (SUPPORTS) Permian–Triassic extinction event: The basalt lava erupted or intruded into carbonate rocks and into sediments that were in the process of forming large coal beds, both of which would have emitted large amounts of carbon dioxide, leading to stronger global warming after the dust and aerosols settled.
+[note] Use this as adversarial contradiction evidence with inline citation.

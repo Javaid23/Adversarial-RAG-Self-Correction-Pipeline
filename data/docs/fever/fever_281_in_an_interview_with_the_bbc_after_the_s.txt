@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 281
+[label] 3
+[claim] In an interview with the BBC after the scandal broke, Dr Jones admitted there had been no statistically significant global warming since 1995
+[candidate_evidence]
+- (REFUTES) Climatic Research Unit email controversy: The American Association for the Advancement of Science (AAAS) reaffirmed its position on global warming and "expressed grave concerns that the illegal release of private emails stolen from the University of East Anglia should not cause policy-makers and the public to become confused about the scientific basis of global climate change.
+- (NOT ENOUGH INFO) Climatic Research Unit email controversy: Rajendra Pachauri, as chairman of the Intergovernmental Panel on Climate Change, told the BBC in December 2009 that he considered the affair to be "a serious issue" and that they "will look into it in detail".
+- (SUPPORTS) Climatic Research Unit email controversy: In late 2011, Steven F. Hayward wrote that "Climategate did for the global warming controversy what the Pentagon Papers did for the Vietnam war 40 years ago: It changed the narrative decisively."
+- (SUPPORTS) Climatic Research Unit email controversy: Here is the quote: "The fact is that we can't account for the lack of warming at the moment and it is a travesty that we can't."
+- (NOT ENOUGH INFO) Climatic Research Unit email controversy: Nature considered that emails had not shown anything that undermined the scientific case on human-caused global warming or raised any substantive reasons for concern about the researchers' own papers.
+[note] Use this as adversarial contradiction evidence with inline citation.

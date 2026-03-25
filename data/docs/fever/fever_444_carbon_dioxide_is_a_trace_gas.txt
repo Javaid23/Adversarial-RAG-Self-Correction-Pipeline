@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 444
+[label] SUPPORTS
+[claim] Carbon dioxide is a trace gas.”
+[candidate_evidence]
+- (NOT ENOUGH INFO) Carbon dioxide: Carbon dioxide (chemical formula CO 2) is a colorless gas with a density about 60% higher than that of dry air.
+- (SUPPORTS) Carbon dioxide: Carbon dioxide in Earth's atmosphere is a trace gas, currently (mid 2018) having a global average concentration of 409 parts per million by volume (or 622 parts per million by mass).
+- (NOT ENOUGH INFO) Carbon dioxide: It occurs naturally in Earth's atmosphere as a trace gas.
+- (NOT ENOUGH INFO) Carbon monoxide: It is now the most commonly used tracer of molecular gas in general in the interstellar medium of galaxies, as molecular hydrogen can only be detected using ultraviolet light, which requires space telescopes.
+- (NOT ENOUGH INFO) Greenhouse gas: They are trace gases that account for almost one tenth of 1% of Earth's atmosphere.
+[note] Use this as adversarial contradiction evidence with inline citation.

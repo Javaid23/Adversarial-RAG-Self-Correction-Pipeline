@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 340
+[label] SUPPORTS
+[claim] Heatwaves occur in any climate, but we know that heatwaves are becoming much more likely due to climate change.
+[candidate_evidence]
+- (SUPPORTS) Climate change, industry and society: Heatwaves Hot days, hot nights and heatwaves have become more frequent.
+- (SUPPORTS) Global warming: Many regions have probably already seen increases in warm spells and heat waves, and it is virtually certain that these changes will continue over the 21st century.
+- (SUPPORTS) Global warming: Just as on land, heat waves in the ocean occur more due to climate change, with harmful effects found on a wide range of organisms such as corals, kelp, and seabirds.
+- (NOT ENOUGH INFO) Global warming: The effects of climate change on human systems, mostly due to warming and shifts in precipitation, have been detected worldwide.
+- (SUPPORTS) Scientific consensus on climate change: As the Earth's climate warms, we are seeing many changes: stronger, more destructive hurricanes; heavier rainfall; more disastrous flooding; more areas of the world experiencing severe drought; and more heat waves."
+[note] Use this as adversarial contradiction evidence with inline citation.

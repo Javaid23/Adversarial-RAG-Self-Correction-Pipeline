@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 424
+[label] NOT ENOUGH INFO
+[claim] Duffy pointed out that his chart was from a single tide gauge station, near San Francisco, and that sea levels rise at different rates around the world
+[candidate_evidence]
+- (NOT ENOUGH INFO) 1906 San Francisco earthquake: An offshore epicenter is supported by the occurrence of a local tsunami recorded by a tide gauge at the San Francisco Presidio; the wave had an amplitude of approximately 3 in (8 cm) and an approximate period of 40–45 minutes.
+- (NOT ENOUGH INFO) San Francisco Bay: As the great ice sheets began to melt, around 11,000 years ago, the sea level started to rise.
+- (NOT ENOUGH INFO) San Francisco Bay: By 5000 BC the sea level rose 300 feet (90 m), filling the valley with water from the Pacific.
+- (NOT ENOUGH INFO) Tide: Mean sea level (MSL) – This is the average sea level.
+- (NOT ENOUGH INFO) Tide: To make accurate records, tide gauges at fixed stations measure water level over time.
+[note] Use this as adversarial contradiction evidence with inline citation.

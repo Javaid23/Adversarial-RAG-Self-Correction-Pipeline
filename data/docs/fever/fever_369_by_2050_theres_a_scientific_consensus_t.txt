@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 369
+[label] SUPPORTS
+[claim] By 2050 there’s a scientific consensus that we reached the tipping point for ice sheets in Greenland and the West Antarctic
+[candidate_evidence]
+- (SUPPORTS) Sea level rise: A study published in 2017 concluded that Greenland's peripheral glaciers and ice caps crossed an irreversible tipping point around 1997, and will continue to melt.
+- (NOT ENOUGH INFO) Sea level rise: Both the Greenland ice sheet and Antarctica have tipping points for warming levels that could be reached before the end of the 21st century.
+- (NOT ENOUGH INFO) Sea level rise: "A tipping point in refreezing accelerates mass loss of Greenland's glaciers and ice caps".
+- (NOT ENOUGH INFO) Tipping points in the climate system: For example, at some level of temperature rise the melt of a large part of the Greenland ice sheet and/or West Antarctic Ice Sheet will become inevitable; but the ice sheet itself may persist for many centuries.
+- (SUPPORTS) Tipping points in the climate system: A 2019 UNEP study indicates that now at least for the Arctic and the Greenland ice sheet a tipping point has already been reached.
+[note] Use this as adversarial contradiction evidence with inline citation.

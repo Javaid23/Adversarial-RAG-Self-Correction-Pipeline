@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 173
+[label] REFUTES
+[claim] If there were [carbon emissions], we could not see because most carbon is black.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Coal: Bituminous coal, a dense sedimentary rock, usually black, but sometimes dark brown, often with well-defined bands of bright and dull material.
+- (REFUTES) Global warming: Global anthropogenic greenhouse gas emissions in 2010 were equivalent to 49 billion tonnes of carbon dioxide (using the most recent global warming potentials over 100 years from the AR5 report).
+- (NOT ENOUGH INFO) James Hansen: China and India have recently increased their emissions of black carbon corresponding to their rapid development.
+- (NOT ENOUGH INFO) Particulates: This causes reduced visibility and yellow color.
+- (NOT ENOUGH INFO) Particulates: As shown in the seventh image on this page, an optical thickness of less than 0.1 (palest yellow) indicates a crystal clear sky with maximum visibility, whereas a value of 1 (reddish-brown) indicates very hazy conditions.
+[note] Use this as adversarial contradiction evidence with inline citation.

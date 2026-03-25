@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 532
+[label] NOT ENOUGH INFO
+[claim] Never mind that the emissions of carbon dioxide to make and maintain a wind or solar industrial complex are far greater than they will ever save.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Carbon dioxide: Since the Industrial Revolution anthropogenic emissions – primarily from use of fossil fuels and deforestation – have rapidly increased its concentration in the atmosphere, leading to global warming.
+- (NOT ENOUGH INFO) Carbon footprint: Some potential options to increase energy efficiency include, but are not limited to: Waste heat recovery systems Insulation for large buildings and combustion chambers Technology upgrades, ie different light sources, lower consumption machines Carbon Footprints from energy consumption can be reduced through the development of alternative energy projects, such as solar and wind energy, which are renewable resources.
+- (NOT ENOUGH INFO) Coal: The largest and most long term effect of coal use is the release of carbon dioxide, a greenhouse gas that causes climate change and global warming.
+- (NOT ENOUGH INFO) Engine: Also, resulting greenhouse gas emissions, chiefly carbon dioxide, from the widespread use of engines in the modern industrialized world is contributing to the global greenhouse effect – a primary concern regarding global warming.
+- (NOT ENOUGH INFO) Fossil fuel power station: Electricity generation using carbon-based fuels is responsible for a large fraction of carbon dioxide (CO2) emissions worldwide and for 34% of U.S. man-made carbon dioxide emissions in 2010.
+[note] Use this as adversarial contradiction evidence with inline citation.

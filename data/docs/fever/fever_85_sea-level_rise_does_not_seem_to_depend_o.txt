@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 85
+[label] 3
+[claim] Sea-level rise does not seem to depend on ocean temperature, and certainly not on CO2
+[candidate_evidence]
+- (REFUTES) Paleocene–Eocene Thermal Maximum: This depth depends on (among other things) temperature and the amount of CO 2 dissolved in the ocean.
+- (REFUTES) Sea level rise: This acceleration is due mostly to human-caused global warming, which is driving thermal expansion of seawater and the melting of land-based ice sheets and glaciers.
+- (NOT ENOUGH INFO) Sea level rise: The heat needed to raise an average temperature increase of the entire world ocean by 0.01 °C would increase the atmospheric temperature by approximately 10 °C.
+- (NOT ENOUGH INFO) Sea level rise: Thus, a small change in the mean temperature of the ocean represents a very large change in the total heat content of the climate system.
+- (SUPPORTS) Sea level rise: Because different climate models have slightly different patterns of ocean heating, they do not agree fully on the predictions for the contribution of ocean heating on sea level rise.
+[note] Use this as adversarial contradiction evidence with inline citation.

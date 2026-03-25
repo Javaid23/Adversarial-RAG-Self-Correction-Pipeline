@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 95
+[label] SUPPORTS
+[claim] [climate scientists] say that aspects of the case of Hurricane Harvey suggest global warming is making a bad situation worse.
+[candidate_evidence]
+- (SUPPORTS) Effects of global warming: Global warming not only causes changes in tropical cyclones, it may also make some impacts from them worse via sea level rise.
+- (SUPPORTS) Hurricane Harvey: "It's a fact: climate change made Hurricane Harvey more deadly".
+- (SUPPORTS) Hurricane Harvey: The Gulf of Mexico is known for hurricanes in August, so their incidence alone cannot be attributed to global warming, but the warming climate does influence certain attributes of storms.
+- (SUPPORTS) Hurricane Harvey: Weather events are due to multiple factors, and so cannot be said to be caused by one precondition, but climate change affects aspects of extreme events, and very likely worsened some of the impacts of Harvey.
+- (SUPPORTS) Hurricane Harvey: "Storm Harvey: impacts likely worsened due to global warming".
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 118
+[label] SUPPORTS
+[claim] more than 100 per cent of the warming over the past century is due to human actions
+[candidate_evidence]
+- (SUPPORTS) Kyoto Protocol: The view that human activities are likely responsible for most of the observed increase in global mean temperature ("global warming") since the mid-20th century is an accurate reflection of current scientific thinking.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: Human-caused increases in greenhouse gases are responsible for most of the observed global average surface warming of roughly 0.8 °C (1.5 °F) over the past 140 years.
+- (SUPPORTS) Scientific consensus on climate change: The dominant cause of the warming since the 1950s is human activities.
+- (SUPPORTS) Scientific consensus on climate change: The global warming observed over the past 50 years is due primarily to human-induced emissions of heat-trapping gases.
+- (SUPPORTS) Scientific consensus on climate change: Human activities, primarily the burning of fossil fuels (coal, oil, and natural gas), and secondarily the clearing of land, have increased the concentration of carbon dioxide, methane, and other heat-trapping ("greenhouse") gases in the atmosphere...There is international scientific consensus that most of the warming observed over the last 50 years is attributable to human activities.
+[note] Use this as adversarial contradiction evidence with inline citation.

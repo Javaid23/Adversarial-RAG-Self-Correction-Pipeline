@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 436
+[label] SUPPORTS
+[claim] The unusual heat was most noteworthy in Europe, which had its warmest April on record, and Australia, which had its second-warmest.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Australia: "Australia's extreme heat is sign of things to come, scientists warn".
+- (NOT ENOUGH INFO) Australia: According to the Bureau of Meteorology's 2011 Australian Climate Statement, Australia had lower than average temperatures in 2011 as a consequence of a La Niña weather pattern; however, "the country's 10-year average continues to demonstrate the rising trend in temperatures, with 2002–2011 likely to rank in the top two warmest 10-year periods on record for Australia, at 0.52 °C (0.94 °F) above the long-term average".
+- (NOT ENOUGH INFO) Australia: Furthermore, 2014 was Australia's third warmest year since national temperature observations commenced in 1910.
+- (NOT ENOUGH INFO) Australia: January 2019 was the hottest month ever in Australia with average temperatures exceeding 30 °C (86 °F).
+- (SUPPORTS) Climate of Australia: According to the Bureau of Meteorology, Australia's annual mean temperature for 2009 was 0.90 °C (1.62 °F) above the 1961–90 average, making it the nation's second-warmest year since high-quality records began in 1910.
+[note] Use this as adversarial contradiction evidence with inline citation.

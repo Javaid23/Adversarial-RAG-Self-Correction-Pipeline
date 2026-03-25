@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 35
+[label] REFUTES
+[claim] Ice berg melts, ocean level remains the same.
+[candidate_evidence]
+- (REFUTES) Antarctic ice sheet: "The melting of floating ice raises the ocean level" (PDF).
+- (NOT ENOUGH INFO) Sea level rise: There is a threshold in surface warming beyond which a partial or near-complete melting of the Greenland ice sheet occurs.
+- (NOT ENOUGH INFO) Sea level rise: The gravitational effects comes into play when a large ice sheet melts.
+- (NOT ENOUGH INFO) Sea level rise: Since the last glacial maximum about 20,000 years ago, the sea level has risen by more than 125 metres (410 ft), with rates varying from less than a mm/year to 40+ mm/year, as a result of melting ice sheets over Canada and Eurasia.
+- (REFUTES) Sea level rise: "The melting of floating ice raises the ocean level".
+[note] Use this as adversarial contradiction evidence with inline citation.

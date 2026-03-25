@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 528
+[label] SUPPORTS
+[claim] Our evolving dynamic planet has survived[…] mass extinctions
+[candidate_evidence]
+- (SUPPORTS) Earth: In the history of life on Earth, biodiversity has gone through long periods of expansion, occasionally punctuated by mass extinctions.
+- (NOT ENOUGH INFO) Earth: Following the Cambrian explosion, 535 Mya, there have been five mass extinctions.
+- (SUPPORTS) Evolution: The Holocene extinction event is an ongoing mass extinction associated with humanity's expansion across the globe over the past few thousand years.
+- (NOT ENOUGH INFO) Future of Earth: This has resulted in a widespread, ongoing mass extinction of other species during the present geological epoch, now known as the Holocene extinction.
+- (SUPPORTS) Nature: The last mass extinction occurred some 66 million years ago, when a meteorite collision probably triggered the extinction of the non-avian dinosaurs and other large reptiles, but spared small animals such as mammals.
+[note] Use this as adversarial contradiction evidence with inline citation.

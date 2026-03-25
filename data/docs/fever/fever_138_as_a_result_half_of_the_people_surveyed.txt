@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 138
+[label] SUPPORTS
+[claim] As a result, half of the people surveyed around the world last year said they thought climate change would make humanity extinct.
+[candidate_evidence]
+- (SUPPORTS) Climate change and ecosystems: (2007:788) concluded that a global mean temperature increase of around 4 °C (above the 1990-2000 level) by 2100 would lead to major extinctions around the globe.
+- (NOT ENOUGH INFO) Human overpopulation: "Biologists think 50% of species will be facing extinction by the end of the century".
+- (NOT ENOUGH INFO) Scientific consensus on climate change: A 2016 survey found that two-thirds of AMS members think that all or most of climate change is caused by human activity.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: Catastrophic effects in 50–100 years would likely be observed according to 41%, while 44% thought the effects would be moderate and about 13 percent saw relatively little danger.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: Among all respondents, 90% agreed that temperatures have risen compared to pre-1800 levels, and 82% agreed that humans significantly influence the global temperature.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 104
+[label] SUPPORTS
+[claim] Increases in atmospheric CO2 followed increases in temperature.
+[candidate_evidence]
+- (SUPPORTS) Carbon dioxide: Increases in atmospheric concentrations of CO 2 and other long-lived greenhouse gases such as methane, nitrous oxide and ozone have correspondingly strengthened their absorption and emission of infrared radiation, causing the rise in average global temperature since the mid-20th century.
+- (NOT ENOUGH INFO) Carbon dioxide: Not only do increasing carbon dioxide concentrations lead to increases in global surface temperature, but increasing global temperatures also cause increasing concentrations of carbon dioxide.
+- (NOT ENOUGH INFO) Gaia hypothesis: When CO2 levels rise in the atmosphere the temperature increases and plants grow.
+- (SUPPORTS) Greenhouse gas: During the late 20th century, a scientific consensus evolved that increasing concentrations of greenhouse gases in the atmosphere cause a substantial rise in global temperatures and changes to other parts of the climate system, with consequences for the environment and for human health.
+- (SUPPORTS) Scientific consensus on climate change: Increases in ambient temperatures and changes in related processes are directly linked to rising anthropogenic greenhouse gas (GHG) concentrations in the atmosphere.
+[note] Use this as adversarial contradiction evidence with inline citation.

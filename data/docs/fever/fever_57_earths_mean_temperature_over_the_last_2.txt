@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 57
+[label] SUPPORTS
+[claim] Earth’s mean temperature over the last 2,000 years shows two previous periods when temperatures were warmer than they are now; from 1–200 A.D., an epoch called the Roman Warm Period, and more recently the Medieval Warm Period from 900–1100 A.D.
+[candidate_evidence]
+- (SUPPORTS) Medieval Warm Period: The Medieval Warm Period (MWP) also known as the Medieval Climate Optimum, or Medieval Climatic Anomaly was a time of warm climate in the North Atlantic region lasting from c. 950 to c. 1250.
+- (NOT ENOUGH INFO) Medieval Warm Period: 1250, during the European Middle Ages.
+- (NOT ENOUGH INFO) Medieval Warm Period: 1200 AD, and was followed by a decline of temperature levels till between c. 1500 and c. 1700 the coldest phase since the last ice age occurred."
+- (SUPPORTS) Medieval Warm Period: It is thought that between c. 950 and c. 1100 was the Northern Hemisphere's warmest period since the Roman Warm Period.
+- (NOT ENOUGH INFO) Medieval Warm Period: The Medieval Warm Period (MWP) is generally thought to have occurred from c. 950–c.
+[note] Use this as adversarial contradiction evidence with inline citation.

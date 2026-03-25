@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 306
+[label] REFUTES
+[claim] There is no statistical evidence that global warming is intensifying[…] droughts
+[candidate_evidence]
+- (REFUTES) Effects of global warming: Some evidence suggests that droughts have been occurring more frequently because of global warming and they are expected to become more frequent and intense in Africa, southern Europe, the Middle East, most of the Americas, Australia, and Southeast Asia.
+- (NOT ENOUGH INFO) Effects of global warming: more intense droughts and tropical cyclones) are more uncertain.
+- (REFUTES) Global warming: Overall, higher temperatures bring more rain and snowfall, but for some regions droughts and wildfires increase instead.
+- (REFUTES) Global warming: Climate change also increases droughts and heat waves that inhibit plant growth, which makes it uncertain whether this balancing feedback will persist in the future.
+- (REFUTES) Global warming: Since the 1950s, droughts and heat waves have appeared simultaneously with increasing frequency.
+[note] Use this as adversarial contradiction evidence with inline citation.

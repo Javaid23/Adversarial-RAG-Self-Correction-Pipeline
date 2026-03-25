@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 335
+[label] 3
+[claim] Last month was the hottest June ever recorded, European satellite agency announces
+[candidate_evidence]
+- (REFUTES) 2014 in science: Globally, June 2014 was the hottest June since records began in 1880, according to latest data from the National Oceanic and Atmospheric Administration (NOAA).
+- (REFUTES) 2015 in science: 20 August July 2015 was the hottest month on Earth since records began in 1880, according to data from NOAA.
+- (NOT ENOUGH INFO) Heat wave: June 2019 was the hottest month on record worldwide, the effects of this were especially prominent in Europe.
+- (SUPPORTS) Heat wave: "June was hottest ever recorded on Earth, European satellite agency announces".
+- (NOT ENOUGH INFO) List of weather records: According to the World Meteorological Organization, the reported temperature is the highest recorded in Asia.
+[note] Use this as adversarial contradiction evidence with inline citation.

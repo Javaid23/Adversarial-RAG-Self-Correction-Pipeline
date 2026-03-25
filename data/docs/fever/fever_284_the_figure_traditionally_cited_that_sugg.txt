@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 284
+[label] REFUTES
+[claim] The figure traditionally cited that suggests 97 per cent of climate scientists agree that global warming is man-made was also found to be flawed.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate change denial: Several researchers have concluded that around 97% of climate scientists agree with this consensus.
+- (NOT ENOUGH INFO) Global warming controversy: A 2010 paper in the Proceedings of the National Academy of Sciences analysed "1,372 climate researchers and their publication and citation data to show that (i) 97–98% of the climate researchers most actively publishing in the field support the tenets of ACC [anthropogenic climate change] outlined by the Intergovernmental Panel on Climate Change, and (ii) the relative climate expertise and scientific prominence of the researchers unconvinced of ACC are substantially below that of the convinced researchers".
+- (REFUTES) Global warming controversy: The authors found that 3974 of the abstracts expressed a position on anthropogenic global warming, and that 97.1% of those endorsed the consensus that humans are causing global warming.
+- (REFUTES) Global warming: In the scientific literature, there is an overwhelming consensus that global surface temperatures have increased in recent decades and that the trend is caused mainly by human-induced emissions of greenhouse gases.
+- (REFUTES) Global warming: The scientific consensus as of 2013[update], as stated in the IPCC Fifth Assessment Report, is that it "is extremely likely that human influence has been the dominant cause of the observed warming since the mid-20th century".
+[note] Use this as adversarial contradiction evidence with inline citation.

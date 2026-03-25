@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 332
+[label] SUPPORTS
+[claim] Shelters in poorer countries are not repainted as often, and darker stations absorb more of the sun’s energy.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Australian residential architectural styles: Darker colours were originally used but, as the years went by, new brighter paint served as a welcoming change to open up the spaces and brighten up the homes.
+- (NOT ENOUGH INFO) City: For example, within the urban microclimate, less-vegetated poor neighborhoods bear more of the heat (but have fewer means of coping with it).
+- (NOT ENOUGH INFO) Earth shelter: Earth houses can be built using wide glass façades and dome-lights, allowing rooms to become bright and suffused with light.
+- (SUPPORTS) Homelessness: The built environment in urban areas also contributes to the "heat island effect", the phenomenon whereby cities experience higher temperatures due to the predominance of dark, paved surfaces and lack of vegetation.
+- (SUPPORTS) Homelessness: Acute conditions such as sunburn, dehydration, heat stroke and allergic reactions are also common.
+[note] Use this as adversarial contradiction evidence with inline citation.

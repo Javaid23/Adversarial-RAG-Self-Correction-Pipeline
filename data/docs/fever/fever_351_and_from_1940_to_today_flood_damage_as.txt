@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 351
+[label] NOT ENOUGH INFO
+[claim] And from 1940 to today, flood damage as a percentage of GDP has fallen to less than 0.05 per cent per year from about 0.2 per cent.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Assam: According to the recent estimates, Assam's per capita GDP is ₹6,157 at constant prices (1993–94) and ₹10,198 at current prices; almost 40% lower than that in India.
+- (NOT ENOUGH INFO) Macau: Export-oriented manufacturing previously contributed to a much larger share of economic output, peaking at 36.9 per cent of GDP in 1985 and falling to less than 1 per cent in 2017.
+- (NOT ENOUGH INFO) Malaysia: Malaysia has had one of the best economic records in Asia, with GDP growing an average 6.5 per cent annually from 1957 to 2005.
+- (NOT ENOUGH INFO) United Kingdom: This compares to 0.3 per cent per year in the period 1991 to 2001 and 0.2 per cent in the decade 1981 to 1991.
+- (NOT ENOUGH INFO) Vietnam: In 1985, agriculture made up 37.2% of Vietnam's GDP; in 2008, that number had declined to 18.5%.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 343
+[label] NOT ENOUGH INFO
+[claim] They concluded that trends toward rising climate damages were mainly due to increased population and economic activity in the path of storms, that it was not currently possible to determine the portion of damages attributable to greenhouse gases, and that they didn’t expect that situation to change in the near future.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Intergovernmental Panel on Climate Change: Among other findings, the report concluded that sea level rises could be up to two feet higher by the year 2100, even if efforts to reduce greenhouse gas emissions and to limit global warming are successful; coastal cities across the world could see so-called "storm[s] of the century" at least once a year.
+- (NOT ENOUGH INFO) Intergovernmental Panel on Climate Change: "The IPCC Third Assessment Report'] conclusion that most of the observed warming of the last 50 years is likely to have been due to the increase in greenhouse gas concentrations accurately reflects the current thinking of the scientific community on this issue".
+- (NOT ENOUGH INFO) Scientific consensus on climate change: They state further that the "continuing reliance on combustion of fossil fuels as the world's primary source of energy will lead to much higher atmospheric concentrations of greenhouse gases, which will, in turn, cause significant increases in surface temperature, sea level, ocean acidification, and their related consequences to the environment and society".
+- (NOT ENOUGH INFO) Scientific consensus on climate change: It said that Continued emission of greenhouse gases will cause further warming and long-lasting changes in all components of the climate system, increasing the likelihood of severe, pervasive and irreversible impacts for people and ecosystems.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: While ‘climate change’ can be due to natural forces or human activity, there is now substantial evidence to indicate that human activity – and specifically increased greenhouse gas (GHGs) emissions – is a key factor in the pace and extent of global temperature increases.
+[note] Use this as adversarial contradiction evidence with inline citation.

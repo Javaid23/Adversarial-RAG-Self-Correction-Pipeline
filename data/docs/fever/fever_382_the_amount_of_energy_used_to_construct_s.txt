@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 382
+[label] REFUTES
+[claim] The amount of energy used to construct solar and wind facilities is greater than they produce in their working lives.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Net metering: The energy can be generated from a variety of renewable sources including solar, wind, and hydro.
+- (NOT ENOUGH INFO) Renewable energy: They found producing all new energy with wind power, solar power, and hydropower by 2030 is feasible and existing energy supply arrangements could be replaced by 2050.
+- (NOT ENOUGH INFO) Wind power: However, the estimated average cost per unit of electric power must incorporate the cost of construction of the turbine and transmission facilities, borrowed funds, return to investors (including cost of risk), estimated annual production, and other components, averaged over the projected useful life of the equipment, which may be in excess of twenty years.
+- (REFUTES) Zero-energy building: Energy is usually harvested onsite through energy producing technologies like solar and wind, while reducing the overall use of energy with highly efficient lightning and heating, ventilation and air conditioning (HVAC) technologies.
+- (NOT ENOUGH INFO) Zero-energy building: The production of goods under net zero fossil energy consumption requires locations of geothermal, microhydro, solar, and wind resources to sustain the concept.
+[note] Use this as adversarial contradiction evidence with inline citation.

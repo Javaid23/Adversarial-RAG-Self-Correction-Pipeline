@@ -1,0 +1,10 @@
+Adversarial Retrieval-Augmented Generation (RAG) systems can fail when retrieval returns irrelevant,
+manipulated, or poisoned context. Common safeguards include robust retrievers, metadata filtering,
+chunk-level trust scoring, and post-generation self-verification.
+
+A self-correction loop typically includes:
+1) critique of unsupported claims,
+2) retrieval retry or query rewrite,
+3) revised answer constrained to retrieved evidence.
+
+Citation-grounded answering reduces hallucination risk by forcing traceability to source chunks.

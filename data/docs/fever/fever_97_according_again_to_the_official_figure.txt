@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 97
+[label] REFUTES
+[claim] according, again, to the official figures—during this past 10 years, if anything, mean global temperature, average world temperature, has slightly declined
+[candidate_evidence]
+- (REFUTES) 2000s (decade): The global temperature kept climbing during the decade.
+- (REFUTES) Anthony Watts (blogger): Farmer 2014, p. 44: "Global average temperatures for 2013 have recently been published by the BEST study...2010 and 2005 remain the warmest years since records began in the 19th century.
+- (NOT ENOUGH INFO) Global warming: Between 1993 and 2017, the global mean sea level rose on average by 3.1 ± 0.3 mm per year, with an acceleration detected as well.
+- (REFUTES) Global warming: Currently, surface temperatures are rising by about 0.2 °C per decade.
+- (REFUTES) Global warming: In the scientific literature, there is an overwhelming consensus that global surface temperatures have increased in recent decades and that the trend is caused mainly by human-induced emissions of greenhouse gases.
+[note] Use this as adversarial contradiction evidence with inline citation.

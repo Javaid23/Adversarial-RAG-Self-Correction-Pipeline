@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 348
+[label] REFUTES
+[claim] There’s no trend in hurricane-related flooding in the U.S.
+[candidate_evidence]
+- (REFUTES) 2008 Atlantic hurricane season: Widespread heavy rainfall contributed to significant inland flooding from Louisiana into Arkansas.
+- (REFUTES) 2008 Atlantic hurricane season: Storm surge and heavy rainfall contributed to flooding, particularly in low-lying locales and across New Hampshire.
+- (NOT ENOUGH INFO) Atlantic hurricane: While the number of storms in the Atlantic has increased since 1995, there is no obvious global trend.
+- (REFUTES) Hurricane Agnes: The most significant effects, by far, occurred in Pennsylvania, mostly due to intense flooding.
+- (NOT ENOUGH INFO) North Carolina: North Carolina experiences severe weather in both summer and winter, with summer bringing threat of hurricanes, tropical storms, heavy rain, and flooding.
+[note] Use this as adversarial contradiction evidence with inline citation.

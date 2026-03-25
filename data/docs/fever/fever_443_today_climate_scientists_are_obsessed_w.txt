@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 443
+[label] REFUTES
+[claim] “Today climate scientists are obsessed with the level of carbon dioxide in the atmosphere, a very very small part of the overall picture.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Greenhouse gas: Measured atmospheric concentrations of carbon dioxide are currently 100 ppm higher than pre-industrial levels.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: At the global level, atmospheric concentrations of carbon dioxide and other heat-trapping greenhouse gases have increased sharply since the Industrial Revolution.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: "Atmospheric concentrations of carbon dioxide, methane, and nitrous oxide have increased to levels unprecedented in at least the last 800,000 years."
+- (NOT ENOUGH INFO) Scientific consensus on climate change: The changes in temperature have been associated with increasing concentrations of atmospheric carbon dioxide (CO 2) and other GHGs in the atmosphere."
+- (REFUTES) Scientific consensus on climate change: The world's most important greenhouse gas is carbon dioxide, a by-product of the burning of fossil fuels.
+[note] Use this as adversarial contradiction evidence with inline citation.

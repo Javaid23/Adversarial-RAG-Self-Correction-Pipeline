@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 490
+[label] SUPPORTS
+[claim] IPCC report warning last week the world is “nowhere near on track” to meet its Paris commitments
+[candidate_evidence]
+- (SUPPORTS) Global warming: Although the parties to the UNFCCC have agreed that deep cuts in emissions are required and that global warming should be limited to well below 2 °C (3.6 °F) in the Paris Agreement of 2016, the Earth's average surface temperature has already increased by about half this threshold and current pledges by countries to cut emissions are inadequate to limit future warming.
+- (SUPPORTS) Paris Agreement: "World on track for 3 °C of warming under current global climate pledges, warns UN".
+- (SUPPORTS) Special Report on Global Warming of 1.5 °C: "Australia is not on track to reach 2030 Paris target (but the potential is there)".
+- (NOT ENOUGH INFO) Special Report on Global Warming of 1.5 °C: Based on present knowledge, climate geoengineering techniques cannot be relied on to significantly contribute to meeting the Paris Agreement temperature goals".
+- (NOT ENOUGH INFO) United Nations Framework Convention on Climate Change: In 2015 the Paris Agreement was adopted, governing emission reductions from 2020 on through commitments of countries in Nationally Determined Contributions (NDCs), with a view of lowering the target to 1.5 °C.
+[note] Use this as adversarial contradiction evidence with inline citation.

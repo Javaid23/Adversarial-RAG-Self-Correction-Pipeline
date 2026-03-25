@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 373
+[label] SUPPORTS
+[claim] Like countless other organ­isms, we move and adapt when the environment changes.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Human impact on the environment: Human impact on the environment or anthropogenic impact on the environment includes changes to biophysical environments and ecosystems, biodiversity, and natural resources caused directly or indirectly by humans, including global warming, environmental degradation (such as ocean acidification), mass extinction and biodiversity loss, ecological crisis, and ecological collapse.
+- (SUPPORTS) Natural environment: Efforts have been increasingly focused on the mitigation of greenhouse gases that are causing climatic changes, on developing adaptative strategies to global warming, to assist humans, other animal, and plant species, ecosystems, regions and nations in adjusting to the effects of global warming.
+- (NOT ENOUGH INFO) Natural environment: Although there is no universal agreement on the definition of life, scientists generally accept that the biological manifestation of life is characterized by organization, metabolism, growth, adaptation, response to stimuli and reproduction.
+- (NOT ENOUGH INFO) Natural environment: In biology, the science of living organisms, "life" is the condition which distinguishes active organisms from inorganic matter, including the capacity for growth, functional activity and the continual change preceding death.
+- (SUPPORTS) Natural environment: Living organisms undergo metabolism, maintain homeostasis, possess a capacity to grow, respond to stimuli, reproduce and, through natural selection, adapt to their environment in successive generations.
+[note] Use this as adversarial contradiction evidence with inline citation.

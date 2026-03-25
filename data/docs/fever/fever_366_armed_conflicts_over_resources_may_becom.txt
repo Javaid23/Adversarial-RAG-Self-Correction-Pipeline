@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 366
+[label] NOT ENOUGH INFO
+[claim] Armed conflicts over resources may become a reality, and have the potential to escalate into nuclear war.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Cold War: The Soviets suppressed the Hungarian Revolution of 1956, and later more escalating crises occurred, such as the Suez Crisis (1956), the Berlin Crisis of 1961 and the Cuban Missile Crisis of 1962, which was perhaps the closest the two sides came to nuclear war.
+- (NOT ENOUGH INFO) Cold War: The Cuban Missile Crisis (October–November 1962) brought the world closer to nuclear war than ever before.
+- (NOT ENOUGH INFO) United Nations in popular culture: This led to rising international tensions over the coming decades and eventually to a global nuclear war in 2077, destroying civilization across the globe.
+- (NOT ENOUGH INFO) Vietnam War: It was the closest the Cold War came to escalating into a full-scale nuclear war, and the U.S. raised the readiness level of Strategic Air Command (SAC) forces to DEFCON 2.
+- (NOT ENOUGH INFO) Violence: War is fought as a means of resolving territorial and other conflicts, as war of aggression to conquer territory or loot resources, in national self-defence or liberation, or to suppress attempts of part of the nation to secede from it.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 137
+[label] REFUTES
+[claim] Preventing future pandemics requires more not less “industrial” agriculture
+[candidate_evidence]
+- (NOT ENOUGH INFO) Avian influenza: In Vietnam policymakers, with the support of the Food and Agriculture Organization of the United Nations (FAO), used HPAI control to accelerate the industrialization of livestock production for export by proposing to increase the portion of large-scale commercial farms and reducing the number of poultry keepers from 8 to 2 million by 2010.
+- (NOT ENOUGH INFO) Human overpopulation: Food production further increased with the industrial revolution as machinery, fertilizers, herbicides, and pesticides were used to increase land under cultivation as well as crop yields.
+- (NOT ENOUGH INFO) Intensive animal farming: Intensive animal farming or industrial livestock production, also known by its opponents as factory farming, is a type of intensive agriculture, specifically an approach to animal husbandry designed to maximize production, while minimizing costs.
+- (REFUTES) Intensive animal farming: There are many potential impacts on human health due to the modern cattle industrial agriculture system.
+- (REFUTES) Intensive animal farming: This must be the way forward and we should end industrial agriculture in this country as well."
+[note] Use this as adversarial contradiction evidence with inline citation.

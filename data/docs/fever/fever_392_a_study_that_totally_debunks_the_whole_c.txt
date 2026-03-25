@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 392
+[label] REFUTES
+[claim] a study that totally debunks the whole concept of man-made Global Warming
+[candidate_evidence]
+- (NOT ENOUGH INFO) Attribution of recent climate change: (2012) concluded that human activities had likely led to a warming of extreme daily minimum and maximum temperatures at the global scale.
+- (REFUTES) Attribution of recent climate change: Global Change Research Program concluded that "[global] warming is unequivocal and primarily human-induced."
+- (REFUTES) Scientific consensus on climate change: "Warming 'very likely' human-made".
+- (NOT ENOUGH INFO) Scientific consensus on climate change: "U.N. Report: Global Warming Man-Made, Basically Unstoppable".
+- (REFUTES) Scientific consensus on climate change: Scientists Reach 100% Consensus on Anthropogenic Global Warming.
+[note] Use this as adversarial contradiction evidence with inline citation.

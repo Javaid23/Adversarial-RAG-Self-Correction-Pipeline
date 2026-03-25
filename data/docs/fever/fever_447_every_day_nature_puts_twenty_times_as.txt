@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 447
+[label] SUPPORTS
+[claim] “Every day, nature puts twenty times as much carbon dioxide into the atmosphere as all of Earth industries.
+[candidate_evidence]
+- (SUPPORTS) Air pollution: Pollutants emitted into the atmosphere by human activity include: Carbon dioxide (CO 2) – Because of its role as a greenhouse gas it has been described as "the leading pollutant" and "the worst climate pollutant".
+- (SUPPORTS) Carbon dioxide: Since the Industrial Revolution anthropogenic emissions – primarily from use of fossil fuels and deforestation – have rapidly increased its concentration in the atmosphere, leading to global warming.
+- (NOT ENOUGH INFO) Coal: The coal industry damages the environment, including by climate change as it is the largest anthropogenic source of carbon dioxide, 14 Gt in 2016, which is 40% of the total fossil fuel emissions and almost 25% of total global greenhouse gas emissions.
+- (NOT ENOUGH INFO) Global warming: Human activity since the Industrial Revolution has increased the amount of greenhouse gases in the atmosphere, leading to increased radiative forcing from CO2, methane, tropospheric ozone, CFCs, and nitrous oxide.
+- (NOT ENOUGH INFO) Nature: Air is mostly nitrogen, oxygen, water vapor, with much smaller amounts of carbon dioxide, argon, etc.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 157
+[label] NOT ENOUGH INFO
+[claim] Contemporary Global Warming placed in geological context.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Global warming: The IPCC has adopted the baseline reference period 1850–1900 as an approximation of pre-industrial global mean surface temperature.
+- (NOT ENOUGH INFO) Global warming: Multiple independently produced instrumental datasets confirm that the 2009–2018 decade was 0.93 ± 0.07 °C warmer than the pre-industrial baseline (1850–1900).
+- (NOT ENOUGH INFO) Global warming: In the scientific literature, there is an overwhelming consensus that global surface temperatures have increased in recent decades and that the trend is caused mainly by human-induced emissions of greenhouse gases.
+- (NOT ENOUGH INFO) Global warming: The 1850–1900 period is a reasonable pragmatic surrogate for preindustrial global mean temperature."
+- (NOT ENOUGH INFO) Little Ice Age: "Global warming in the context of the Little Ice Age".
+[note] Use this as adversarial contradiction evidence with inline citation.

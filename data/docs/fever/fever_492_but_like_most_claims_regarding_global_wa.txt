@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 492
+[label] 3
+[claim] But like most claims regarding global warming, the real effect is small, probably temporary, and most likely due to natural weather patterns
+[candidate_evidence]
+- (REFUTES) Global warming: The effects of climate change on human systems, mostly due to warming and shifts in precipitation, have been detected worldwide.
+- (REFUTES) Global warming: Impacts include the direct effects of extreme weather, leading to injury and loss of life; and indirect effects, such as undernutrition brought on by crop failures.
+- (SUPPORTS) Global warming: The slower pace of warming can be attributed to a combination of natural fluctuations, reduced solar activity, and increased volcanic activity.
+- (SUPPORTS) Global warming: Climate change may be due to natural internal processes or external forcings such as modulations of the solar cycles, volcanic eruptions and persistent anthropogenic changes in the composition of the atmosphere or in land use."
+- (REFUTES) Global warming: The effects of global warming include rising sea levels, regional changes in precipitation, more frequent extreme weather events such as heat waves, and expansion of deserts.
+[note] Use this as adversarial contradiction evidence with inline citation.

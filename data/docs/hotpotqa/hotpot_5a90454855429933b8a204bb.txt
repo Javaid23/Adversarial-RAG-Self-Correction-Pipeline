@@ -1,0 +1,31 @@
+[dataset] HotpotQA_distractor
+
+[title] Jiangxia Tidal Power Station
+The Jiangxia Tidal Power Station (江厦潮汐电站) is the fourth largest tidal power station in the world, located in Wuyantou, Wenling City, Zhejiang Province, China.  Although the proposed design for the facility was 3,000 kW, the current installed capacity is 3,200 kW, generated from one unit of 500 kW, one unit of 600 kW, and three units of 700 kW, totalling the installed capacity to 3,200 kW.  Proposals were made to install a sixth 700 kW unit, but this has not yet been installed.  The facility generates up to 6.5 GWh of power annually.
+
+[title] Wenling Railway Station
+Wenling Railway Station is a railway station of Yongtaiwen Railway located in Zhejiang, People's Republic of China.
+
+[title] Wenling
+Wenling (Wenling dialect: Uen-lin Zy ] ; ) is a coastal county-level city in the municipal region of Taizhou, in southeastern Zhejiang province, China.  It borders Luqiao and Huangyan to the north, Yuhuan to the south, Yueqing to the west, looks out to the East China Sea to the east.  Wenling locates on 28°22'N, 121°21'E, approximately 300 km south of Shanghai.
+
+[title] Ke Zhao
+Ke Zhao or Chao Ko (, April 12, 1910 – November 8, 2002) was a Chinese mathematician born in Wenling, Taizhou, Zhejiang, People's Republic of China.
+
+[title] Zhengzhou Xinzheng International Airport
+Zhengzhou Xinzheng International Airport (IATA: CGO, ICAO: ZHCC) is the principal airport serving Zhengzhou, the capital of Henan Province, China.
+
+[title] Yandang Mountains
+Yandang Mountains or Yandangshan (Chinese:  雁蕩山 ,  雁荡山 ,  "Yàndàng Shān",  "Wild Goose Pond Mountain(s)") refers, in the broad sense, to a coastal mountain range in southeastern Zhejiang province in eastern China, covering much of the prefecture-level city of Wenzhou (from Pingyang County in the south to Yueqing County in the northeast) and extending to the county-level city of Wenling in Taizhou prefecture.  The mountain range is divided in two by the Oujiang River, the two parts being the North Yandang and South Yandang.  More narrowly, Yandangshan is also used more narrowly to refer to Mount Yandang , a specific part of the North Yandang around an ancient caldera near a small town of the same name (雁荡镇 , "Yàndàng Zhèn").  The highest peaks of North Yandang are located here, and this is also the main tourist spot.  In this article, name "Yandang Mountains" is used to refer the mountain range and "Mt. Yandang" to refer to the caldera.
+
+[title] Zhongyuan Airlines
+Zhongyuan Airlines (中原航空 "Zhōngyuán Hángkōng") was an airline based in Zhengzhou, Henan Province, People's Republic of China.  Its main base was Zhengzhou Xinzheng International Airport.
+
+[title] SIAS International University
+Sias International University (Sias, Chinese: 郑州大学西亚斯国际学院 zhèng-zhōu dà-xué xī-yà-sī guó-jì xué-yuàn), transliterated Zhengzhou University Sias International College, is the first solely American-owned post-secondary school in Central China.  Officially a campus of, and affiliated with Zhengzhou University, the leading university in Henan Province, it was developed and designed to meet the most current educational needs of students in China.  It is the first full-time undergraduate institution approved by the Degree Committee of the State Council in China to grant both Chinese and American bachelor's degrees, whose diplomas are those of Zhengzhou University and Fort Hays State University.  It is fully accredited by the Chinese Ministry of Education.  Sias is located in the ancient city of Xinzheng, near Henan's capital, Zhengzhou.
+
+[title] Xinzheng
+Xinzheng () is a small county-level city of Zhengzhou in the south of Henan province of Central China.  The city has a population of 600,000 people and covers an area of 15 km2 .
+
+[title] Peiligang culture
+The Peiligang culture is the name given by archaeologists to a group of Neolithic communities in the Yi-Luo river basin in Henan Province, China.  The culture existed from 7000 to 5000 BC.  Over 100 sites have been identified with the Peiligang culture, nearly all of them in a fairly compact area of about 100 square kilometers in the area just south of the river and along its banks.  The culture is named after the site discovered in 1977 at Peiligang, a village in Xinzheng County.  Archaeologists think that the Peiligang culture was egalitarian, with little political organization.

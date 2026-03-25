@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 319
+[label] 3
+[claim] Most of the atmospheric moisture originates in the tropical ocean, and the difference between surface and upper atmospheric temperature determines how much of the moisture rises into the atmosphere.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Extratropical cyclone: The peak time of subtropical cyclogenesis (the midpoint of this transition) in the North Atlantic is in the months of September and October, when the difference between the temperature of the air aloft and the sea surface temperature is the greatest, leading to the greatest potential for instability.
+- (SUPPORTS) Low-pressure area: Worldwide, tropical cyclone activity peaks in late summer, when the difference between temperatures aloft and sea surface temperatures is the greatest.
+- (REFUTES) Monsoon of South Asia: Consequently, the air above coastal lands heats up faster than the air above seas.
+- (SUPPORTS) Water vapor: The upper temperature level is given by the soil or water surface of the earth, which absorbs the incoming sun radiation and warms up, evaporating water.
+- (SUPPORTS) Water vapor: The increase in buoyancy can have a significant atmospheric impact, giving rise to powerful, moisture rich, upward air currents when the air temperature and sea temperature reaches 25 °C or above.
+[note] Use this as adversarial contradiction evidence with inline citation.

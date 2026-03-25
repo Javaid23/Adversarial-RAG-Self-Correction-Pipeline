@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 21
+[label] REFUTES
+[claim] Sea level rise has been slow and a constant, pre-dating industrialization
+[candidate_evidence]
+- (NOT ENOUGH INFO) Russia: Under Stalin's leadership, the government launched a command economy, industrialization of the largely rural country, and collectivization of its agriculture.
+- (REFUTES) Sea level rise: Since the last glacial maximum about 20,000 years ago, the sea level has risen by more than 125 metres (410 ft), with rates varying from less than a mm/year to 40+ mm/year, as a result of melting ice sheets over Canada and Eurasia.
+- (NOT ENOUGH INFO) Sea level rise: "Climate-change–driven accelerated sea-level rise detected in the altimeter era".
+- (REFUTES) Sea level rise: Data collected by the Commonwealth Scientific and Industrial Research Organisation (CSIRO) in Australia show the current global mean sea level trend to be 3.2 mm (0.13 in) per year, a doubling of the rate during the 20th century.
+- (NOT ENOUGH INFO) Sweden: Between 1870 and 1914, Sweden began developing the industrialised economy that exists today.
+[note] Use this as adversarial contradiction evidence with inline citation.

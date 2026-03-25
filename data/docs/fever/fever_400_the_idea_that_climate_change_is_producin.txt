@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 400
+[label] REFUTES
+[claim] The idea that climate change is producing heat records across the Earth is among the most egregious manipulations of data in the absurd global warming debate.
+[candidate_evidence]
+- (REFUTES) Attribution of recent climate change: Attribution of recent climate change is the effort to scientifically ascertain mechanisms responsible for recent global warming and related climate changes on Earth.
+- (REFUTES) Climate change (general concept): This is the case for the conclusions that the Earth system is warming and that much of this warming is very likely due to human activities.
+- (REFUTES) Global warming controversy: Using the long-term temperature trends for the earth scientists and statisticians conclude that it continues to warm through time.
+- (REFUTES) Global warming controversy: Over several decades of development, models have consistently provided a robust and unambiguous picture of significant climate warming in response to increasing greenhouse gases.
+- (REFUTES) Global warming controversy: According to the United States National Research Council, [T]here is a strong, credible body of evidence, based on multiple lines of research, documenting that climate is changing and that these changes are in large part caused by human activities.
+[note] Use this as adversarial contradiction evidence with inline citation.

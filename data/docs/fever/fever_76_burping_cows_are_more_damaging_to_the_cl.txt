@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 76
+[label] NOT ENOUGH INFO
+[claim] Burping cows are more damaging to the climate than all the cars on this planet.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate change mitigation: Many citizens of countries like the United States and Canada who drive personal cars often, see well over half of their climate change impact stemming from the emissions produced from their cars.
+- (NOT ENOUGH INFO) Climate change mitigation: For richer people, emissions tend to be associated with things such as eating beef, cars, frequent flying, and home heating.
+- (NOT ENOUGH INFO) Climate change mitigation: Most environmentally related taxes with implications for greenhouse gas emissions in OECD countries are levied on energy products and motor vehicles, rather than on CO2 emissions directly.
+- (NOT ENOUGH INFO) Earth: The Moon may have dramatically affected the development of life by moderating the planet's climate.
+- (NOT ENOUGH INFO) Earth: Our Changing Sun: The Role of Solar Nuclear Evolution and Magnetic Activity on Earth's Atmosphere and Climate.
+[note] Use this as adversarial contradiction evidence with inline citation.

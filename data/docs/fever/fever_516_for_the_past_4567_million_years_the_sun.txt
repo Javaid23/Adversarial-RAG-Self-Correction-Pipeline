@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 516
+[label] SUPPORTS
+[claim] For the past 4567 million years, the sun and the Earth’s orbit have driven climate change cycles.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Earth: Earth orbits the Sun at an average distance of about 150 million km (93 million mi) every 365.2564 mean solar days, or one sidereal year.
+- (NOT ENOUGH INFO) Earth: When combined with the Earth–Moon system's common orbit around the Sun, the period of the synodic month, from new moon to new moon, is 29.53 days.
+- (NOT ENOUGH INFO) Global warming: increased concentrations of greenhouse gases), solar luminosity, volcanic eruptions, and variations in the Earth's orbit around the Sun.
+- (SUPPORTS) Ice age: The Milankovitch cycles are a set of cyclic variations in characteristics of the Earth's orbit around the Sun.
+- (SUPPORTS) Little Ice Age: Orbital forcing from cycles in the earth's orbit around the sun has, for the past 2,000 years, caused a long-term northern hemisphere cooling trend that continued through the Middle Ages and the Little Ice Age.
+[note] Use this as adversarial contradiction evidence with inline citation.

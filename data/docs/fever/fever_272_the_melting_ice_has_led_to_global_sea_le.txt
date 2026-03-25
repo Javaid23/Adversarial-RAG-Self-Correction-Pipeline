@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 272
+[label] SUPPORTS
+[claim] The melting ice has led to global sea level rise of around eight inches since reliable record keeping began in 1880.
+[candidate_evidence]
+- (SUPPORTS) Greenland ice sheet: The Greenland Ice Sheet has experienced record melting in recent years since detailed records have been kept and is likely to contribute substantially to sea level rise as well as to possible changes in ocean circulation in the future if this is sustained.
+- (NOT ENOUGH INFO) Sea level rise: Since the last glacial maximum about 20,000 years ago, the sea level has risen by more than 125 metres (410 ft), with rates varying from less than a mm/year to 40+ mm/year, as a result of melting ice sheets over Canada and Eurasia.
+- (NOT ENOUGH INFO) Sea level rise: This acceleration is due mostly to human-caused global warming, which is driving thermal expansion of seawater and the melting of land-based ice sheets and glaciers.
+- (SUPPORTS) Sea level rise: Between 1993 and 2018, thermal expansion of the oceans contributed 42% to sea level rise; the melting of temperate glaciers, 21%; Greenland, 15%; and Antarctica, 8%.
+- (NOT ENOUGH INFO) Sea level rise: "The melting of floating ice raises the ocean level".
+[note] Use this as adversarial contradiction evidence with inline citation.

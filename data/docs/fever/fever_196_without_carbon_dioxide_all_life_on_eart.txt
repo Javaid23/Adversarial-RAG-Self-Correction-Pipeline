@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 196
+[label] SUPPORTS
+[claim] Without carbon dioxide, all life on Earth would die
+[candidate_evidence]
+- (NOT ENOUGH INFO) Carbon dioxide in Earth's atmosphere: The life and death of planet Earth.
+- (SUPPORTS) Carbon dioxide in Earth's atmosphere: Carbon dioxide in the Earth's atmosphere is essential to life and to most of the planetary biosphere.
+- (NOT ENOUGH INFO) Carbon dioxide: Plants, algae and cyanobacteria use light energy to photosynthesize carbohydrate from carbon dioxide and water, with oxygen produced as a waste product.
+- (NOT ENOUGH INFO) Earth: The lack of vegetation will result in the loss of oxygen in the atmosphere, making animal life impossible.
+- (NOT ENOUGH INFO) Future of Earth: By that point, all life on the Earth will be extinct.
+[note] Use this as adversarial contradiction evidence with inline citation.

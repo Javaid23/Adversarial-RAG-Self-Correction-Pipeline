@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 538
+[label] SUPPORTS
+[claim] Previous studies have shown that weakening carbon sinks will add 0.25°C, forest dieback will add 0.11°C, permafrost thaw will add 0.9°C and increased bacterial respiration will add 0.02°C.
+[candidate_evidence]
+- (SUPPORTS) Atmospheric methane: The Woods Hole Research Center, citing two 2015 studies on permafrost carbon says there may be a self-reinforcing tipping point where an estimated equivalent of 205 gigatons of carbon dioxide in the form of methane could cause up to 0.5 °C (up to 0.9 °F) warming by the end of the century, which would trigger more warming.
+- (NOT ENOUGH INFO) Climate change feedback: Farquharson and her team guess that about 231,000 square miles (600,000 square kilometers) of permafrost, or about 5.5% of the zone that is permafrost year-round, is vulnerable to rapid surface thawing.
+- (NOT ENOUGH INFO) Climate change in the Arctic: According to a study published in 2016, about 0.5 °C (0.90 °F) of the warming in the Arctic has been attributed to reductions in sulfate aerosols in Europe since 1980.
+- (NOT ENOUGH INFO) Permafrost: "1.5C rise in temperature enough to start permafrost melt, scientists warn".
+- (NOT ENOUGH INFO) Permafrost: A global temperature rise of 1.5 °C (2.7 °F) above current levels would be enough to start the thawing of permafrost in Siberia, according to one group of scientists.
+[note] Use this as adversarial contradiction evidence with inline citation.

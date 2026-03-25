@@ -1,0 +1,6 @@
+[dataset] SQuAD_v2
+[question_id] 56be9add3aeaaa14008c9153
+[question] Which single had the most success from that album?
+[is_impossible] False
+[context]
+Her fourth studio album 4 was released on June 28, 2011 in the US. 4 sold 310,000 copies in its first week and debuted atop the Billboard 200 chart, giving Beyoncé her fourth consecutive number-one album in the US. The album was preceded by two of its singles "Run the World (Girls)" and "Best Thing I Never Had", which both attained moderate success. The fourth single "Love on Top" was a commercial success in the US. 4 also produced four other singles; "Party", "Countdown", "I Care" and "End of Time". "Eat, Play, Love", a cover story written by Beyoncé for Essence that detailed her 2010 career break, won her a writing award from the New York Association of Black Journalists. In late 2011, she took the stage at New York's Roseland Ballroom for four nights of special performances: the 4 Intimate Nights with Beyoncé concerts saw the performance of her 4 album to a standing room only.

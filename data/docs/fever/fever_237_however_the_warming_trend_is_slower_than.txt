@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 237
+[label] REFUTES
+[claim] However the warming trend is slower than most climate models have forecast
+[candidate_evidence]
+- (NOT ENOUGH INFO) Global cooling: The general public had little awareness of carbon dioxide's effects on climate, but Science News in May 1959 forecast a 25% increase in atmospheric carbon dioxide in the 150 years from 1850 to 2000, with a consequent warming trend.
+- (NOT ENOUGH INFO) Global cooling: When the model included estimated changes in solar intensity, it gave a reasonable match to temperatures over the previous thousand years and its prediction was that "CO 2 warming dominates the surface temperature patterns soon after 1980."
+- (NOT ENOUGH INFO) Global warming: Scientists can then run these scenarios through physical climate models to generate climate change projections.
+- (REFUTES) Global warming: Physical climate models are also unable to reproduce the rapid warming observed in recent decades when taking into account only variations in solar output and volcanic activity.
+- (REFUTES) James Hansen: They showed that the climate system may be responding faster than the models indicate.
+[note] Use this as adversarial contradiction evidence with inline citation.

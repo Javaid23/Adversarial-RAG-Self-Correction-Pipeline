@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 279
+[label] SUPPORTS
+[claim] In one particularly damning email, CRU director Phil Jones said he had used ‘Mike’s Nature trick’ to ‘hide the decline’ in temperatures in the second half of the 20th century.
+[candidate_evidence]
+- (SUPPORTS) Climatic Research Unit email controversy: Many commentators quoted one email in which Phil Jones said that he had used "Mike's Nature trick" in a 1999 graph for the World Meteorological Organization "to hide the decline" in proxy temperatures derived from tree-ring analyses when measured temperatures were actually rising.
+- (NOT ENOUGH INFO) Climatic Research Unit: In August 2009 its director, Phil Jones, told the science journal Nature that he was working to make the data publicly available with the agreement of its owners but this was expected to take some months, and objections were anticipated from National Meteorological Organisations that made money from selling the data.
+- (NOT ENOUGH INFO) Hockey stick controversy: The AR4 SPM statement was that "Average Northern Hemisphere temperatures during the second half of the 20th century were very likely higher than during any other 50-year period in the last 500 years and likely the highest in at least the past 1,300 years.
+- (SUPPORTS) Hockey stick controversy: Despite this and the fact that 1999 had just seen record breaking global temperatures, the email was widely misquoted as a "trick" to "hide the decline" as though it referred to a decline in measured global temperatures, an accusation made publicly by the politicians Sarah Palin and Jim Inhofe.
+- (NOT ENOUGH INFO) Phil Jones (climatologist): He temporarily stepped aside from Director of the CRU in November 2009 following a controversy over e-mails which were stolen and published by person(s) unknown.
+[note] Use this as adversarial contradiction evidence with inline citation.

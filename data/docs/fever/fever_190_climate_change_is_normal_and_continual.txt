@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 190
+[label] SUPPORTS
+[claim] Climate change is normal and continual.
+[candidate_evidence]
+- (SUPPORTS) Climate change (general concept): Climate change is a long-term, sustained trend of change in climate.
+- (SUPPORTS) Climate change (general concept): Climate change means a change of climate which is attributed directly or indirectly to human activity that alters the composition of the global atmosphere and which is in addition to natural climate variability observed over comparable time periods.
+- (SUPPORTS) Climate change (general concept): increased emissions of greenhouse gases and dust) or natural (e.g., changes in solar output, the earth's orbit, volcano eruptions).
+- (SUPPORTS) Climate change (general concept): Climate change due to internal variability sometimes occurs in cycles or oscillations, for instance every 100 or 2000 years.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: Although global change has been a natural process throughout Earth's history, humans are responsible for substantially accelerating present-day changes.
+[note] Use this as adversarial contradiction evidence with inline citation.

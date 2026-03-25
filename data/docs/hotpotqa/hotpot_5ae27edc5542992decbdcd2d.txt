@@ -1,0 +1,31 @@
+[dataset] HotpotQA_distractor
+
+[title] Dirty Rotten Scoundrels (film)
+Dirty Rotten Scoundrels is a 1988 American comedy film directed by Frank Oz and starring Steve Martin, Michael Caine and Glenne Headly.  The screenplay was written by Dale Launer, Stanley Shapiro, and Paul Henning.  It is a remake of the Shapiro and Henning script for the 1964 Marlon Brando/David Niven film "Bedtime Story".
+
+[title] Confessions of a Teenage Drama Queen
+Confessions of a Teenage Drama Queen is a 2004 American teen musical comedy film directed by Sara Sugarman and produced by Robert Shapiro and Matthew Hart for Walt Disney Pictures.  It stars Lindsay Lohan as an aspiring teenaged actress whose family moves from New York City to New Jersey, Adam Garcia as her favorite rock musician, Glenne Headly as her mother, and Alison Pill as her best friend.  The screenplay was written by Gail Parent and is based on the novel of the same name by Dyan Sheldon.
+
+[title] De Palma (film)
+De Palma is a 2015 American documentary film directed by Noah Baumbach and Jake Paltrow about the director and screenwriter Brian De Palma.  It world premiered, out of competition, at the 72nd edition of the Venice Film Festival.
+
+[title] We Married Margo
+We Married Margo is a 2000 American independent comedy film directed by J. David Shapiro and co-written by Shapiro and William Dozier.  The film tells a story of two friends who were married to the same woman and is loosely based on real events in that Shapiro and Dozier actually met after dating the same woman named Margaux.  The film was awarded the "Audience Award for Comedy Film of the Year" at the 2000 The Comedy Festival (formerly known as the "US Comedy Arts Festival") and was nominated for the "Grand Jury Prize" at the Slamdance Film Festival the same year.
+
+[title] Battlefield Earth (film)
+Battlefield Earth (also referred to as Battlefield Earth: A Saga of the Year 3000) is a 2000 American science fiction action film based upon the first half of L. Ron Hubbard's 1982 novel of the same name.  Directed by Roger Christian and starring John Travolta, Barry Pepper and Forest Whitaker, the film depicts an Earth that has been under the rule of the alien Psychlos for 1,000 years and tells the story of the rebellion that develops when the Psychlos attempt to use the surviving humans as gold miners.
+
+[title] Avalanche (1994 film)
+Avalanche is a 1994 CTV made-for-television disaster thriller film directed by Paul Shapiro and starring Michael Gross, Deanna Milligan, Myles Ferguson and David Hasselhoff as main characters.  The film was shot in British Columbia, Canada.
+
+[title] Natalie Gold
+Natalie Gold is an American actress who has appeared in film, television, and stage productions, including on Broadway.  She is perhaps best known for playing Julia Harwell on the TV show "Rubicon", and she has appeared in many films including "Before the Devil Knows You're Dead", "I Don't Know How She Does It", "Love & Other Drugs".  She has performed opposite Jake Gyllenhall, Naomi Watts, Cynthia Nixon, and she has been directed by Sidney Lumet.  Gold grew up in Miami, Florida and studied theatre at the New World School of the Arts and at Emerson College.
+
+[title] Robin Hood: Men in Tights
+Robin Hood: Men in Tights is a 1993 American musical adventure comedy film and a parody of the Robin Hood story.  The film was produced and directed by Mel Brooks, co-written by Brooks, Evan Chandler, and J. David Shapiro based on a story by Chandler and Shapiro, and stars Cary Elwes, Richard Lewis, and Dave Chappelle in his film debut.  It includes frequent comedic references to previous "Robin Hood" films (particularly "", upon which the plot is loosely structured, Disney's "Robin Hood", and the 1938 Errol Flynn adaptation, "The Adventures of Robin Hood").
+
+[title] Brothers at War
+Brothers at War is a 2009 documentary film directed by Jake Rademacher and produced by Rademacher and Norman S. Powell.  The film follows several US soldiers in the Iraq War.  The film's executive producers are actor, director, and Presidential Citizens Medal recipient Gary Sinise and Secretary of Defense Medal for Outstanding Public Service recipient David Scantling.  "Brothers at War" won the Best Documentary Feature Award at the 2008 GI Film Festival.  The film features an original score by Lee Holdridge and an original song--"Brothers in Arms"—by John Ondrasik of Five for Fighting.
+
+[title] J. David Shapiro
+Jake David Shapiro, also known as J. D. Shapiro (born March 18, 1969), is an American filmmaker and stand-up comedian.  Shapiro is best known as the original screenwriter of the film "" and for writing the screenplay adaptation of L. Ron Hubbard's novel "Battlefield Earth".

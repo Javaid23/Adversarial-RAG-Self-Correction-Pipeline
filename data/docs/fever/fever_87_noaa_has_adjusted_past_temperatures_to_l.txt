@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 87
+[label] NOT ENOUGH INFO
+[claim] NOAA has adjusted past temperatures to look colder than they were and recent temperatures to look warmer than they were.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Global warming controversy: A study released in 2009, combined historical weather station data with satellite measurements to deduce past temperatures over large regions of the continent, and these temperatures indicate an overall warming trend.
+- (NOT ENOUGH INFO) Global warming hiatus: 'Our corrected data set says things have warmed up about 1.65 degrees Fahrenheit.
+- (NOT ENOUGH INFO) Global warming: This is much colder than the conditions that actually exist at the Earth's surface (the global mean surface temperature is about 14 °C).
+- (NOT ENOUGH INFO) Instrumental temperature record: Even accounting for the presence of internal climate variability, recent years rank among the warmest on record.
+- (NOT ENOUGH INFO) La Niña: La Niña is the positive and cold phase of the El Niño–Southern Oscillation, and is associated with cooler-than-average sea surface temperatures in the central and eastern tropical Pacific Ocean.
+[note] Use this as adversarial contradiction evidence with inline citation.

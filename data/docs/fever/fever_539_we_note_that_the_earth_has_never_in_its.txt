@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 539
+[label] SUPPORTS
+[claim] We note that the Earth has never in its history had a quasi-stable state that is around 2C warmer than the preindustrial and suggest that there is substantial risk that the system, itself, will ‘want’ to continue warming because of all of these other processes – even if we stop emissions,” she said.
+[candidate_evidence]
+- (SUPPORTS) Global warming: A concern is that self-reinforcing feedbacks will lead to a tipping point, where global temperatures transition to a hothouse climate state even if greenhouse gas emissions are reduced or eliminated.
+- (SUPPORTS) Global warming: A 2018 study tried to identify such a planetary threshold for self-reinforcing feedbacks and found that even a 2 °C (3.6 °F) increase in temperature over pre-industrial levels may be enough to trigger such a hothouse Earth scenario.
+- (NOT ENOUGH INFO) Global warming: Multiple independently produced instrumental datasets confirm that the 2009–2018 decade was 0.93 ± 0.07 °C warmer than the pre-industrial baseline (1850–1900).
+- (SUPPORTS) Planetary boundaries: The scientists raise the possibility that even if greenhouse gas emissions are substantially reduced to limit warming to 2 degrees, that might be the "threshold" at which self-reinforcing climate feedbacks add additional warming until the climate system stabilizes in a hothouse climate state.
+- (SUPPORTS) Planetary boundaries: Study author Katherine Richardson stresses, "We note that the Earth has never in its history had a quasi-stable state that is around 2 °C warmer than the preindustrial and suggest that there is substantial risk that the system, itself, will ‘want’ to continue warming because of all of these other processes – even if we stop emissions.
+[note] Use this as adversarial contradiction evidence with inline citation.

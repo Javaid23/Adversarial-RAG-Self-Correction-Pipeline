@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 171
+[label] SUPPORTS
+[claim] We’ll still be facing extreme heat, but at a far more manageable level than if we’d done nothing to halt climate change.
+[candidate_evidence]
+- (SUPPORTS) Climate change and gender: Climate change is predicted to increase frequency and magnitude of natural hazards such as extreme heat.
+- (SUPPORTS) Climate change in Australia: In 2013, the CSIRO released a report stating that Australia is becoming hotter, and that it will experience more extreme heat and longer fire seasons because of climate change.
+- (NOT ENOUGH INFO) Climate change mitigation: They say that even if all the current pledges will be accomplished there is a chance for a 4.5 degree temperature rise in decades.
+- (NOT ENOUGH INFO) Global warming: Many regions have probably already seen increases in warm spells and heat waves, and it is virtually certain that these changes will continue over the 21st century.
+- (NOT ENOUGH INFO) Global warming: The effects of global warming include rising sea levels, regional changes in precipitation, more frequent extreme weather events such as heat waves, and expansion of deserts.
+[note] Use this as adversarial contradiction evidence with inline citation.

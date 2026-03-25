@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 401
+[label] SUPPORTS
+[claim] On Feb. 7, several major newspapers carried stories of the declaration by NASA and NOAA that the past five years have been the warmest on record.
+[candidate_evidence]
+- (SUPPORTS) Instrumental temperature record: In January 2017, several scientific agencies around the world, including NASA and the NOAA in the United States and the Met Office in the United Kingdom, named 2016 the warmest year recorded.
+- (SUPPORTS) Instrumental temperature record: Consistent with Schmidt's comment, the NASA / NOAA announcement stated that "globally-averaged temperatures in 2016 were 1.78 degrees Fahrenheit (0.99 degrees Celsius) warmer than the mid-20th century mean" and that the impact of El Niño warming was estimated to have "increased the annual global temperature anomaly for 2016 by 0.2 degrees Fahrenheit (0.12 degrees Celsius)."
+- (NOT ENOUGH INFO) Instrumental temperature record: Comments from climate scientists reported in The Washington Post showed strong agreement in attributing the warming primarily to anthropogenic climate change, with some contribution from El Niño warming, though there were differing views on the significance of individual records.
+- (SUPPORTS) Instrumental temperature record: Even accounting for the presence of internal climate variability, recent years rank among the warmest on record.
+- (NOT ENOUGH INFO) Syracuse, New York: The latter was the warmest winter day on record.
+[note] Use this as adversarial contradiction evidence with inline citation.

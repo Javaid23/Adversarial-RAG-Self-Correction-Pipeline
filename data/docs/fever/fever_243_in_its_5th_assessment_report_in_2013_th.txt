@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 243
+[label] SUPPORTS
+[claim] In its 5th assessment report in 2013, the IPCC estimated that human emissions are probably responsible for more than half of the observed increase in global average temperature from 1951 to 2010.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Carbon dioxide in Earth's atmosphere: In the IPCC Fifth Assessment Report the increase in CO2 was estimated to be responsible for 1.82 W·m2 of the 2.63 W·m2 change in radiative forcing on Earth (about 70%).
+- (SUPPORTS) Global warming: The scientific consensus as of 2013[update], as stated in the IPCC Fifth Assessment Report, is that it "is extremely likely that human influence has been the dominant cause of the observed warming since the mid-20th century".
+- (NOT ENOUGH INFO) IPCC Fifth Assessment Report: This ocean warming accounts, with high confidence, for 90% of the energy accumulation between 1971 and 2010.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: Human-caused increases in greenhouse gases are responsible for most of the observed global average surface warming of roughly 0.8 °C (1.5 °F) over the past 140 years.
+- (NOT ENOUGH INFO) Sea level rise: In its fifth assessment report (2013) the Intergovernmental Panel on Climate Change (IPCC) estimated how much sea level is likely to rise in the 21st century based on different levels of greenhouse gas emissions.
+[note] Use this as adversarial contradiction evidence with inline citation.

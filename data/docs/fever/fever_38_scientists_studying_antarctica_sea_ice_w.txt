@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 38
+[label] REFUTES
+[claim] Scientists studying Antarctica sea ice warn a rise in accumulation could spark the next ice age.
+[candidate_evidence]
+- (REFUTES) Antarctica: "A 40-y record reveals gradual Antarctic sea ice increases followed by decreases at rates far exceeding the rates seen in the Arctic".
+- (NOT ENOUGH INFO) Ice age: An ice age is a long period of reduction in the temperature of the Earth's surface and atmosphere, resulting in the presence or expansion of continental and polar ice sheets and alpine glaciers.
+- (NOT ENOUGH INFO) Ice age: According to research published in Nature Geoscience, human emissions of carbon dioxide (CO2) will defer the next ice age.
+- (NOT ENOUGH INFO) Ice age: The release of water raised sea levels again, restoring the ingress of colder water from the Pacific with an accompanying shift to northern hemisphere ice accumulation.
+- (NOT ENOUGH INFO) Sea level rise: Based on changes of Antarctica's ice mass balance over millions of years, due to natural climate fluctuations, researchers concluded that the sea-ice acts as a barrier for warmer waters surrounding the continent.
+[note] Use this as adversarial contradiction evidence with inline citation.

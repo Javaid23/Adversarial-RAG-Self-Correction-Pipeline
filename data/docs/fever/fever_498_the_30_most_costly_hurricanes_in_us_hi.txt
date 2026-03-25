@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 498
+[label] REFUTES
+[claim] The 30 most costly hurricanes in U.S. history (according to federal data from January) show no increase in intensity over time.
+[candidate_evidence]
+- (REFUTES) Climate change in the United States: Hurricane wind speeds, rainfall intensity, and storm surge levels are likely to increase.
+- (REFUTES) Hurricane Andrew: After spending a week without significantly strengthening itself in the central Atlantic, it rapidly intensified into a powerful Category 5 hurricane while moving westward towards the Bahamas on August 23.
+- (NOT ENOUGH INFO) Hurricane Harvey: It is tied with 2005's Hurricane Katrina as the costliest tropical cyclone on record, inflicting $125 billion (2017 USD) in damage, primarily from catastrophic rainfall-triggered flooding in the Houston metropolitan area and Southeast Texas.
+- (REFUTES) Hurricane Irma: The extremely powerful hurricane continued to intensify, with maximum sustained winds peaking at 180 mph (285 km/h) near 18:00 UTC on September 5.
+- (NOT ENOUGH INFO) Hurricane Irma: On September 4, Irma resumed intensifying, becoming a Category 5 hurricane by early on the next day.
+[note] Use this as adversarial contradiction evidence with inline citation.

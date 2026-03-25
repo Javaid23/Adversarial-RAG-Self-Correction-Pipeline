@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 287
+[label] REFUTES
+[claim] Climate skeptics argue temperature records have been adjusted in recent years to make the past appear cooler and the present warmer, although the Carbon Brief showed that NOAA has actually made the past warmer, evening out the difference.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Effects of global warming: It is a major aspect of climate change, and has been demonstrated by the instrumental temperature record which shows global warming of around 1 °C since the pre-industrial period, although the bulk of this (0.9°C) has occurred since 1970.
+- (NOT ENOUGH INFO) Global warming controversy: Improved measurement and analysis techniques have reconciled this discrepancy: corrected buoy and satellite surface temperatures are slightly cooler and corrected satellite and radiosonde measurements of the tropical troposphere are slightly warmer.
+- (NOT ENOUGH INFO) Hockey stick controversy: Reconstructions have consistently shown that the rise in the instrumental temperature record of the past 150 years is not matched in earlier centuries, and the name "hockey stick graph" was coined for figures showing a long-term decline followed by an abrupt rise in temperatures.
+- (REFUTES) Hockey stick controversy: It concluded, "The weight of current multi-proxy evidence, therefore, suggests greater 20th-century warmth, in comparison with temperature levels of the previous 400 years, than was shown in the TAR.
+- (REFUTES) Hockey stick controversy: In at least some areas, the recent period appears to be warmer than has been the case for a thousand or more years".
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 148
+[label] SUPPORTS
+[claim] Previous IPCC reports tended to assume that clouds would have a neutral impact because the warming and cooling feedbacks would cancel each other out.
+[candidate_evidence]
+- (SUPPORTS) Cloud feedback: The albedo of increased cloudiness cools the climate, resulting in a negative feedback; while the reflection of infrared radiation by clouds warms the climate, resulting in a positive feedback.
+- (SUPPORTS) Cloud feedback: This feedback would partially cancel the increased surface warming due to the cloudiness.
+- (NOT ENOUGH INFO) Cloud feedback: In the current climate, clouds exert a cooling effect on climate (the global mean CRF is negative).
+- (SUPPORTS) Global warming: The main reinforcing feedbacks are the water vapour feedback, the ice–albedo feedback, and probably the net effect of clouds.
+- (NOT ENOUGH INFO) Tipping points in the climate system: The IPCC reports that feedbacks to increased temperatures are net positive for the remainder of this century, with the impact of cloud cover the largest uncertainty.
+[note] Use this as adversarial contradiction evidence with inline citation.

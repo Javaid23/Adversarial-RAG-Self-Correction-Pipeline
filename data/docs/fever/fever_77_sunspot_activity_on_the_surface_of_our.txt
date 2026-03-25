@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 77
+[label] NOT ENOUGH INFO
+[claim] [S]unspot activity on the surface of our star has dropped to a new low.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Proxima Centauri: It has a regular activity cycle of starspots.
+- (NOT ENOUGH INFO) Star: This surface activity produces starspots, which are regions of strong magnetic fields and lower than normal surface temperatures.
+- (NOT ENOUGH INFO) Star: During the Maunder Minimum, for example, the Sun underwent a 70-year period with almost no sunspot activity.
+- (NOT ENOUGH INFO) Star: Patches of the star's surface with a lower temperature and luminosity than average are known as starspots.
+- (NOT ENOUGH INFO) Sun: At solar-cycle minimum, the toroidal field is, correspondingly, at minimum strength, sunspots are relatively rare, and the poloidal field is at its maximum strength.
+[note] Use this as adversarial contradiction evidence with inline citation.

@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 168
+[label] SUPPORTS
+[claim] As the temperature has increased, so has the ability of scientists to determine whether specific events are linked to climate change.
+[candidate_evidence]
+- (SUPPORTS) Attribution of recent climate change: Attribution of recent climate change is the effort to scientifically ascertain mechanisms responsible for recent global warming and related climate changes on Earth.
+- (SUPPORTS) Attribution of recent climate change: For example, scientists have established causal links between human activities and the changes in snowpack, maximum and minimum (diurnal) temperature, and the seasonal timing of runoff over mountainous regions of the western United States.
+- (SUPPORTS) Attribution of recent climate change: This has led to increases in mean global temperature, or global warming.
+- (SUPPORTS) Climate change mitigation: Although proving that particular weather events are due specifically to global warming may never be possible, methodologies have been developed to show the increased risk of such events caused by global warming.
+- (SUPPORTS) Scientific consensus on climate change: Increases in ambient temperatures and changes in related processes are directly linked to rising anthropogenic greenhouse gas (GHG) concentrations in the atmosphere.
+[note] Use this as adversarial contradiction evidence with inline citation.

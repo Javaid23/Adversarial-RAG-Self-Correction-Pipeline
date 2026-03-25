@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 469
+[label] 3
+[claim] Ocean levels have been rising for the last 20,000 years[…] No climate scientist can tell you when natural sea level rise stopped and man-made sea level rise began.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Sea level rise: Since at least the start of the 20th century, the average global sea level has been rising.
+- (NOT ENOUGH INFO) Sea level rise: Between 1900 and 2016, the sea level rose by 16–21 cm (6.3–8.3 in).
+- (SUPPORTS) Sea level rise: Since the last glacial maximum about 20,000 years ago, the sea level has risen by more than 125 metres (410 ft), with rates varying from less than a mm/year to 40+ mm/year, as a result of melting ice sheets over Canada and Eurasia.
+- (REFUTES) Sea level rise: The rate of rise started to slow down about 8,200 years before present; the sea level was almost constant in the last 2,500 years, before the recent rising trend that started at the end of the 19th century or in the beginning of the 20th.
+- (NOT ENOUGH INFO) Sea: At the last glacial maximum, some 20,000 years ago, the sea level was 120 metres (390 ft) below its present-day level.
+[note] Use this as adversarial contradiction evidence with inline citation.

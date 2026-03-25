@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 484
+[label] NOT ENOUGH INFO
+[claim] “We almost take forests as a given but we lose forest every year, which means we are diminishing them as a carbon sink.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Carbon sink: Forest fires release absorbed carbon back into the atmosphere, as does deforestation due to rapidly increased oxidation of soil organic matter.
+- (NOT ENOUGH INFO) Carbon sink: Additionally, the amount of carbon released from harvesting is small compared to the amount of carbon lost each year to forest fires and other natural disturbances.
+- (NOT ENOUGH INFO) Deforestation: From the perspective of the developing world, the benefits of forest as carbon sinks or biodiversity reserves go primarily to richer developed nations and there is insufficient compensation for these services.
+- (NOT ENOUGH INFO) Forest: acting as a carbon sink.
+- (NOT ENOUGH INFO) Reducing emissions from deforestation and forest degradation: A large and persistent carbon sink in the world's forests.
+[note] Use this as adversarial contradiction evidence with inline citation.

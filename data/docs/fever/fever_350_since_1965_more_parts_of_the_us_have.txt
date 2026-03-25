@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 350
+[label] REFUTES
+[claim] Since 1965, more parts of the U.S. have seen a decrease in flooding than have seen an increase.
+[candidate_evidence]
+- (REFUTES) Effects of global warming: More than 90 US coastal cities are already experiencing chronic flooding and that number is expected to double by 2030.
+- (NOT ENOUGH INFO) Effects of global warming: When this turns to rain, it tends to come in heavy downpours potentially leading to more floods.
+- (REFUTES) Effects of global warming: In the United States and many other parts of the world there has been a marked increase in intense rainfall events which have resulted in more severe flooding.
+- (NOT ENOUGH INFO) New York City: The driest year on record is 1965, with 26.09 inches (663 mm) of rainfall.
+- (REFUTES) Vermont: According the Vermont state government, rainfall has significantly increased in the last 50 years, storms and flooding have increased, and winters have become warmer and shorter.
+[note] Use this as adversarial contradiction evidence with inline citation.

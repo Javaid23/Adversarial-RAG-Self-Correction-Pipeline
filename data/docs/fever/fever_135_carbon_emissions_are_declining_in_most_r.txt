@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 135
+[label] SUPPORTS
+[claim] Carbon emissions are declining in most rich nations and have been declining in Britain, Germany, and France since the mid-1970s
+[candidate_evidence]
+- (SUPPORTS) France: As of 2009[update], French carbon dioxide emissions per capita were lower than that of China's.
+- (SUPPORTS) Greenhouse gas: Average carbon emissions within the haulage industry are falling—in the thirty-year period from 1977 to 2007, the carbon emissions associated with a 200-mile journey fell by 21 percent; NOx emissions are also down 87 percent, whereas journey times have fallen by around a third.
+- (SUPPORTS) Greenhouse gas: Within the G8 group of countries, it is most significant for the UK, France and Germany.
+- (SUPPORTS) Greenhouse gas: On the other hand, annual per capita emissions of the EU-15 and the US are gradually decreasing over time.
+- (SUPPORTS) Greenhouse gas: Emissions in Russia and Ukraine have decreased fastest since 1990 due to economic restructuring in these countries.
+[note] Use this as adversarial contradiction evidence with inline citation.

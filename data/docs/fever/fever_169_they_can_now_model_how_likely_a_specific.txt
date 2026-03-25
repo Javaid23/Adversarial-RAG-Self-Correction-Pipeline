@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 169
+[label] NOT ENOUGH INFO
+[claim] They can now model how likely a specific event would be to occur under historical conditions, compared to the record temperatures we’re experiencing.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate change in the United States: Looking at the lack of certainty as to the causes of the 1995 to present increase in Atlantic extreme storm activity, a 2007 article in Nature used proxy records of vertical wind shear and sea surface temperature to create a long-term model.
+- (NOT ENOUGH INFO) Nuclear winter: Compared to climate change for the past millennium, even the smallest exchange modeled would plunge the planet into temperatures colder than the Little Ice Age (the period of history between approximately 1600 and 1850 AD).
+- (NOT ENOUGH INFO) Nuclear winter: In both cases, new climate model simulations show that the effects would last for more than a decade.
+- (NOT ENOUGH INFO) Nuclear winter: The authors used computational models developed by NCAR to simulate the climatic effects of a soot cloud that they suggest would be a result, of a regional nuclear war in which 100 "small" (15 Kt) weapons are detonated over cities.
+- (NOT ENOUGH INFO) Ocean acidification: A 2012 paper in the journal Science examined the geological record in an attempt to find a historical analog for current global conditions as well as those of the future.
+[note] Use this as adversarial contradiction evidence with inline citation.

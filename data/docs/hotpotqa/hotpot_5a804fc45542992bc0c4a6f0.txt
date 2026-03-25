@@ -1,0 +1,31 @@
+[dataset] HotpotQA_distractor
+
+[title] Tom Hollander
+Thomas Anthony Hollander (born 25 August 1967) is an English actor.  He began his career in theatre, winning the Ian Charleson Award in 1992 for his performance as Witwoud in "The Way of the World" at the Lyric Hammersmith Theatre.  He is known for his roles in comedic films such as "Pirates of the Caribbean" and "In the Loop" and drama films such as "Enigma", "Pride & Prejudice", "Gosford Park", and "Hanna".  He played the lead role in the sitcom "Rev.", which won the British Academy Television Award for best sitcom in 2011.  He also played the lead in the ITV's "Doctor Thorne" and won the BAFTA Television Award for Best Supporting Actor for his role as Major Lance "Corky" Corkoran in the BBC series "The Night Manager".
+
+[title] Robert Glenister
+Robert Lewis Glenister (born 11th March 1960) is an English actor known for his roles as con man Ash "Three Socks" Morgan in the BBC television series "Hustle" and Nicholas Blake in the BBC spy drama "Spooks".
+
+[title] Tom Burke (actor)
+Tom Liam Benedict Burke (born 30 June 1981) is an English actor.  He is best known for his role as Athos in the BBC series "The Musketeers" (2014–2016), as Dolokhov in the BBC literary-adaptation miniseries "War & Peace" and most recently for his role as the titular character Cormoran Strike in the BBC series "Strike" (2017).
+
+[title] Steven Hartley
+Steven Hartley (born 12 August 1960, in Shipley) is an English actor known internationally for his television, film and theatre roles.  He has appeared in over 40 principle and leading roles on television and film since 1985, including "EastEnders", "The Bill", "The Young Indiana Jones Chronicles", "Rumble", "Strictly Confidential", "Badboys", "Trial & Retribution", "Sharman", "Holby City", "Casualty", "Doctors", "Pie in the Sky", "The Cut", "Agatha Christie's Marple", "Merlin", "Married... with Children", "The Borgias", "Vera" alongside Brenda Blethyn, "Ripper Street", and the acclaimed BBC series "Happy Valley" and "Silent Witness" in 2015.
+
+[title] Close to the Enemy
+Close to the Enemy is a British period drama miniseries set in the late 1940s in London.  It is written and directed by Stephen Poliakoff, starring Jim Sturgess, Freddie Highmore, Charlotte Riley, Phoebe Fox, Alfred Molina, Lindsay Duncan, August Diehl, Alfie Allen, Angela Bassett, Antje Traue, Lily G and Robert Glenister.  It premiered in the United Kingdom on BBC Two on 10 November 2016.
+
+[title] Mark Williams (actor)
+Mark Williams (born 22 August 1959) is an English actor, screenwriter and presenter.  He is best known as Arthur Weasley in the "Harry Potter" films, and as one of the stars of the popular BBC sketch show "The Fast Show".  He also played Brian Williams (father of Rory Williams) in the BBC series "Doctor Who", and Olaf Petersen in "Red Dwarf".  More recently he has appeared as the title character in the BBC series "Father Brown".
+
+[title] Caroline Hayes
+Caroline Hayes is an English actress currently working and living in London.  She has appeared on stage and television in the UK and Canada, most notably in the BBC series "The Sins", alongside Pete Postlethwaite and Geraldine James, and Servants, another BBC series featuring Joe Absolom.  She also starred in the highly acclaimed Donmar Warehouse production of "The Real Thing" by Tom Stoppard alongside Steven Dillane and Jennifer Ehle.  In the North American market, she had a supporting role in two episodes of the Canadian science fiction TV series "Starhunter".
+
+[title] Peter Barkworth
+Peter Wynn Barkworth (14 January 1929 – 21 October 2006) was an English actor.  He twice won the BAFTA TV Award for Best Actor; for "Crown Matrimonial" in 1975 and for "Professional Foul" and "The Country Party" in 1978.  He also starred in the ITV series "Manhunt" (1970) and the BBC series "Telford's Change" (1979).  His film appearances included "Where Eagles Dare" (1968), "Patton" (1970), "International Velvet" (1978) and "Champions" (1984).
+
+[title] Andrew Burt
+Andrew Burt (born 23 May 1945 in Wakefield, England) is a retired English actor, who has appeared in many British TV drama series from the 1970s to the present day.  He is perhaps best known as the original Jack Sugden in "Emmerdale Farm", a role he played from 1972 to 1974 (with a brief return in 1976), before handing over the character to another actor, Clive Hornby.  He played the brother of Lesley Whittle in the 1977 film "The Black Panther", and had the eponymous starring role in the BBC series "The Legend of King Arthur" (1979).
+
+[title] Tony Booth (actor)
+Anthony George Booth (9 October 1931 – 25 September 2017, later known as Tony and Antony) was an English actor, best known for his role as Mike Rawlins in the BBC series "Till Death Us Do Part", and as the father-in-law of the former Prime Minister, Tony Blair.

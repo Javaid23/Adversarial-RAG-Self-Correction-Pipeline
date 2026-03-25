@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 161
+[label] SUPPORTS
+[claim] Extreme melting and changes to the climate like this has released pressure on to the continent, allowing the ground to rise up.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Earth: This is predicted to produce changes such as the melting of glaciers and ice sheets, more extreme temperature ranges, significant changes in weather and a global rise in average sea levels.
+- (NOT ENOUGH INFO) Sea level rise: There is a threshold in surface warming beyond which a partial or near-complete melting of the Greenland ice sheet occurs.
+- (SUPPORTS) Sea level rise: The gravitational effects comes into play when a large ice sheet melts.
+- (NOT ENOUGH INFO) Sea level rise: The three main reasons warming causes global sea level to rise are: oceans expand, ice sheets lose ice faster than it forms from snowfall, and glaciers at higher altitudes also melt.
+- (NOT ENOUGH INFO) Sea level rise: Under the influence of global warming, melt at the base of the ice sheet increases.
+[note] Use this as adversarial contradiction evidence with inline citation.

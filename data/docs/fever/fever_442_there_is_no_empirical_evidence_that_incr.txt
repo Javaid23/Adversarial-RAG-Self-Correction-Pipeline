@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 442
+[label] REFUTES
+[claim] There is no empirical evidence that increasing greenhouse gases are the primary cause of Global Warming
+[candidate_evidence]
+- (REFUTES) Global warming: In the scientific literature, there is an overwhelming consensus that global surface temperatures have increased in recent decades and that the trend is caused mainly by human-induced emissions of greenhouse gases.
+- (REFUTES) Global warming: Scientists have determined that the major factors causing the current climate change are greenhouse gases, land use changes, and aerosols and soot.
+- (REFUTES) Greenhouse gas: Cumulative anthropogenic (i.e., human-emitted) emissions of CO 2 from fossil fuel use are a major cause of global warming, and give some indication of which countries have contributed most to human-induced climate change.
+- (REFUTES) Greenhouse gas: During the late 20th century, a scientific consensus evolved that increasing concentrations of greenhouse gases in the atmosphere cause a substantial rise in global temperatures and changes to other parts of the climate system, with consequences for the environment and for human health.
+- (REFUTES) Instrumental temperature record: There is a scientific consensus that climate is changing and that greenhouse gases emitted by human activities are the primary driver.
+[note] Use this as adversarial contradiction evidence with inline citation.

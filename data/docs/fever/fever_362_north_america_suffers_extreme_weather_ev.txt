@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 362
+[label] SUPPORTS
+[claim] North America suffers extreme weather events including wildfires, drought, and heatwaves.
+[candidate_evidence]
+- (NOT ENOUGH INFO) 2010 Northern Hemisphere heat waves: The drought and heat wave combined to make wild fires inevitable.
+- (SUPPORTS) 2014 California wildfires: In May 2014, a series of at least 20 wildfires broke out in San Diego County during severe Santa Ana Wind conditions, historic drought conditions, and a heat wave.
+- (SUPPORTS) Extreme weather: Yet, recent abnormally intense storms, hurricanes, floods, heatwaves, droughts and associated large-scale wildfires have led to unprecendente negative ecological consequences for tropical forests and coral reefs around the world.
+- (NOT ENOUGH INFO) Heat wave: A heat wave, or heatwave, is a period of excessively hot weather, which may be accompanied by high humidity, especially in oceanic climate countries.
+- (NOT ENOUGH INFO) Heat wave: A heat wave is considered extreme weather that can be a natural disaster, and a danger because heat and sunlight may overheat the human body.
+[note] Use this as adversarial contradiction evidence with inline citation.

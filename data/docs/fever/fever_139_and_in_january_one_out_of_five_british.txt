@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 139
+[label] SUPPORTS
+[claim] And in January, one out of five British children told pollsters they were having nightmares about climate change.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate change denial: ISBN 978-1-4614-3640-9. belief that climate change is "real" and confidence in climate science has surprisingly decreased… Angus Reid polls conducted in December 2009 found declining support for climate change…in Britain, Canada, and the United States.
+- (NOT ENOUGH INFO) Climate change denial: Regrettably, this creates the impression that scientific opinion is evenly divided or completely unsettled" Begley 2007: "polls found that 64 percent of Americans thought there was 'a lot' of scientific disagreement on climate change; only one third thought planetary warming was "mainly caused by things people do."
+- (SUPPORTS) Climate change, industry and society: In 2007, the American Academy of Pediatrics issued the policy statement Global Climate Change and Children's Health: Anticipated direct health consequences of climate change include injury and death from extreme weather events and natural disasters, increases in climate-sensitive infectious diseases, increases in air pollution–related illness, and more heat-related, potentially fatal, illness.
+- (NOT ENOUGH INFO) Climate change, industry and society: Disasters, violence and disease are expected to be more frequent and intense, making the future of the world's poorest children more bleak.
+- (NOT ENOUGH INFO) Scientific consensus on climate change: Conservative environmental estimates of the impact of climate changes that are already in process indicate that they will result in numerous health effects to children.
+[note] Use this as adversarial contradiction evidence with inline citation.

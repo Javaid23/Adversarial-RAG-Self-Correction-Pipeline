@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 244
+[label] NOT ENOUGH INFO
+[claim] But it means a chunk of the rise is coming from elsewhere.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Portable Network Graphics: If lowercase, the chunk may be safely copied regardless of the extent of modifications to the file.
+- (NOT ENOUGH INFO) Rise of the Olympian: She also pointed out that Themyscira plays a role, and from after what happened in Amazons Attack!, the Amazons themselves are going to return.
+- (NOT ENOUGH INFO) Rise of the Ottoman Empire: Depopulation resulting from the plague was thus almost certainly a major factor in the success of early Ottoman expansion into the Balkans, and contributed to the weakening of the Byzantine Empire and the depopulation of Constantinople.
+- (NOT ENOUGH INFO) Rise of the Planet of the Apes: Peter Travers of Rolling Stone noted that the film has mixed "twists lifted from 1972's Conquest of the Planet of the Apes and 1999's Deep Blue Sea".
+- (NOT ENOUGH INFO) Rise of the Planet of the Apes: In a 2009 interview, Wyatt said, "We've incorporated elements from Conquest of the Planet of the Apes, in terms of how the apes begin to revolt, but this is primarily a prequel to the 1968 film...Caesar is a revolutionary figure who will be talked about by his fellow apes for centuries...This is just the first step in the evolution of the apes, and there's a lot more stories to tell after this.
+[note] Use this as adversarial contradiction evidence with inline citation.

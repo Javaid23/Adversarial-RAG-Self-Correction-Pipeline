@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 496
+[label] NOT ENOUGH INFO
+[claim] Nine years into that 11-year hurricane drought, a NASA scientist computed it as a 1-in-177-year event.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Climate of Florida: A statewide drought began in November 2005, one month after Hurricane Wilma's passage through the state, and persisted until 2009.
+- (NOT ENOUGH INFO) Global warming controversy: In a NASA report published in January 2013, Hansen and Sato noted "the 5-year mean global temperature has been flat for a decade, which we interpret as a combination of natural variability and a slowdown in the growth rate of the net climate forcing."
+- (NOT ENOUGH INFO) Hurricane Floyd: Following the state's fourth-worst drought in a century, the rains collected in rivers and streams, causing record flooding at 18 river gauges, and mostly affecting the Raritan, Passaic, and Delaware basins.
+- (NOT ENOUGH INFO) Natural disaster: Drought is the unusual dryness of soil caused by levels of rainfall significantly below average over a prolonged period.
+- (NOT ENOUGH INFO) Physical impacts of climate change: Between 2011 and 2014, California experienced the driest period in its recorded history and more than 100 million trees died in the drought, creating areas of dead, dry wood.
+[note] Use this as adversarial contradiction evidence with inline citation.

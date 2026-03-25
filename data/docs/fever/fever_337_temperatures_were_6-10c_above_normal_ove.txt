@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 337
+[label] NOT ENOUGH INFO
+[claim] temperatures were 6-10C above normal over most of France, Germany and northern Spain during the final days of the month, according to C3S.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Berlin: Temperatures can be 4 °C (7 °F) higher in the city than in the surrounding areas.
+- (NOT ENOUGH INFO) Paris: Summer days are usually warm and pleasant with average temperatures between 15 and 25 °C (59 and 77 °F), and a fair amount of sunshine.
+- (NOT ENOUGH INFO) Seville: The annual average temperature is 25.4 °C (78 °F) during the day and 13 °C (55 °F) at night.
+- (NOT ENOUGH INFO) Seville: Winters are mild: January is the coolest month, with average maximum temperatures of 16.0 °C (61 °F) and minimum of 5.7 °C (42 °F).
+- (NOT ENOUGH INFO) Valencia: March is transitional, the temperature often exceeds 20 °C (68 °F), with an average temperature of 19.3 °C (66.7 °F) during the day and 10.0 °C (50.0 °F) at night.
+[note] Use this as adversarial contradiction evidence with inline citation.

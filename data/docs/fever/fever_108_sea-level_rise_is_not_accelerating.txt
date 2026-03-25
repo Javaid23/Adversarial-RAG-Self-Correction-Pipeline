@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 108
+[label] REFUTES
+[claim] sea-level rise is not accelerating.
+[candidate_evidence]
+- (NOT ENOUGH INFO) Sea level rise: More precise data gathered from satellite radar measurements reveal an accelerating rise of 7.5 cm (3.0 in) from 1993 to 2017, which is a trend of roughly 30 cm (12 in) per century.
+- (REFUTES) Sea level rise: "Climate-change–driven accelerated sea-level rise detected in the altimeter era".
+- (REFUTES) Sea level rise: "Antarctica ice melt has accelerated by 280% in the last 4 decades".
+- (NOT ENOUGH INFO) Sea level rise: Climate scientists expect the rate to further accelerate during the 21st century.
+- (REFUTES) Sea level rise: However scientists have found that ice is being lost, and at an accelerating rate.
+[note] Use this as adversarial contradiction evidence with inline citation.

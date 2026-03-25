@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 86
+[label] REFUTES
+[claim] There isn’t yet any empirical evidence for their claim that greenhouse gases even cause temperatures to increase.
+[candidate_evidence]
+- (REFUTES) Climate: Increases in greenhouse gases, such as by volcanic activity, can increase the global temperature and produce an interglacial period.
+- (REFUTES) Global warming: In the scientific literature, there is an overwhelming consensus that global surface temperatures have increased in recent decades and that the trend is caused mainly by human-induced emissions of greenhouse gases.
+- (REFUTES) Greenhouse gas: During the late 20th century, a scientific consensus evolved that increasing concentrations of greenhouse gases in the atmosphere cause a substantial rise in global temperatures and changes to other parts of the climate system, with consequences for the environment and for human health.
+- (REFUTES) Scientific consensus on climate change: Increases in ambient temperatures and changes in related processes are directly linked to rising anthropogenic greenhouse gas (GHG) concentrations in the atmosphere.
+- (REFUTES) Scientific consensus on climate change: While ‘climate change’ can be due to natural forces or human activity, there is now substantial evidence to indicate that human activity – and specifically increased greenhouse gas (GHGs) emissions – is a key factor in the pace and extent of global temperature increases.
+[note] Use this as adversarial contradiction evidence with inline citation.

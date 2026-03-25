@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 413
+[label] 3
+[claim] However, since 1998, little warming has occurred while carbon dioxide emissions continue to increase.
+[candidate_evidence]
+- (REFUTES) Carbon dioxide: Since the Industrial Revolution anthropogenic emissions – primarily from use of fossil fuels and deforestation – have rapidly increased its concentration in the atmosphere, leading to global warming.
+- (NOT ENOUGH INFO) Global warming: CO2 emissions are continuing to rise due to the burning of fossil fuels and land-use change.
+- (SUPPORTS) Global warming: An example of such an episode is the slower rate of surface temperature increase from 1998 to 2012, which was dubbed the global warming hiatus.
+- (REFUTES) Greenhouse gas: The sharp acceleration in CO 2 emissions since 2000 to more than a 3% increase per year (more than 2 ppm per year) from 1.1% per year during the 1990s is attributable to the lapse of formerly declining trends in carbon intensity of both developing and developed nations.
+- (REFUTES) Kyoto Protocol: The Kyoto Protocol is an international treaty which extends the 1992 United Nations Framework Convention on Climate Change (UNFCCC) that commits state parties to reduce greenhouse gas emissions, based on the scientific consensus that (part one) global warming is occurring and (part two) it is extremely likely that human-made CO2 emissions have predominantly caused it.
+[note] Use this as adversarial contradiction evidence with inline citation.

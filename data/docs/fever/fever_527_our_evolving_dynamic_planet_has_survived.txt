@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 527
+[label] NOT ENOUGH INFO
+[claim] Our evolving dynamic planet has survived sea level changes of hundreds of metres
+[candidate_evidence]
+- (NOT ENOUGH INFO) Earth: Earth's hydrosphere consists chiefly of the oceans, but technically includes all water surfaces in the world, including inland seas, lakes, rivers, and underground waters down to a depth of 2,000 m (6,600 ft).
+- (NOT ENOUGH INFO) Earth: This is predicted to produce changes such as the melting of glaciers and ice sheets, more extreme temperature ranges, significant changes in weather and a global rise in average sea levels.
+- (NOT ENOUGH INFO) Earth: More precisely, the geoid is the surface of gravitational equipotential at mean sea level.
+- (NOT ENOUGH INFO) Marine life: Earth's hydrosphere consists chiefly of the oceans, but technically includes all water surfaces in the world, including inland seas, lakes, rivers, and underground waters down to a depth of 2,000 metres (6,600 ft) The deepest underwater location is Challenger Deep of the Mariana Trench in the Pacific Ocean, having a depth of 10,900 metres (6.8 mi).
+- (NOT ENOUGH INFO) Tsunami: Run up is measured in metres above a reference sea level.
+[note] Use this as adversarial contradiction evidence with inline citation.

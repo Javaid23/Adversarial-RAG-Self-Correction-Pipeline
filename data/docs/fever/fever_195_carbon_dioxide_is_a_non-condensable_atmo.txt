@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 195
+[label] NOT ENOUGH INFO
+[claim] Carbon dioxide is a non-condensable atmospheric gas like nitrogen and oxygen
+[candidate_evidence]
+- (NOT ENOUGH INFO) Carbon dioxide: Carbon dioxide (chemical formula CO 2) is a colorless gas with a density about 60% higher than that of dry air.
+- (NOT ENOUGH INFO) Explosive: The gaseous products of complete reaction are typically carbon dioxide, steam, and nitrogen.
+- (NOT ENOUGH INFO) Greenhouse gas: The most common gases in Earth's atmosphere are nitrogen (78%), oxygen (21%), and argon (0.9%).
+- (NOT ENOUGH INFO) Natural gas: Natural gas (also called fossil gas) is a naturally occurring hydrocarbon gas mixture consisting primarily of methane, but commonly including varying amounts of other higher alkanes, and sometimes a small percentage of carbon dioxide, nitrogen, hydrogen sulfide, or helium.
+- (NOT ENOUGH INFO) Natural gas: Like landfill gas, biogas is mostly methane and carbon dioxide, with small amounts of nitrogen, oxygen and hydrogen.
+[note] Use this as adversarial contradiction evidence with inline citation.

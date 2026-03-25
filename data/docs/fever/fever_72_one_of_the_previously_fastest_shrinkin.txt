@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 72
+[label] NOT ENOUGH INFO
+[claim] [O]ne of the previously fastest shrinking glaciers in the world is growing again, calling into question the narrative that rapid climate change [...]
+[candidate_evidence]
+- (NOT ENOUGH INFO) Begging the question: : 'Conception is defined as the beginning of life.']"
+- (NOT ENOUGH INFO) Begging the question: Such preface is then followed with the question, as in: [...] personal letter delivery is at an all-time low...
+- (NOT ENOUGH INFO) Narrative: Holstein, James A.
+- (NOT ENOUGH INFO) Question mark: Eats, Shoots & Leaves, 2003. p. 139.
+- (NOT ENOUGH INFO) Question mark: "), whereas in the English language orthography no space is allowed in front of the question mark (e.g.
+[note] Use this as adversarial contradiction evidence with inline citation.

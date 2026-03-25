@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 65
+[label] 3
+[claim] A windmill could spin until it falls apart and never generate as much energy as was invested in building it.
+[candidate_evidence]
+- (REFUTES) Wind farm: The energy consumed to manufacture and transport the materials used to build a wind power plant is equal to the new energy produced by the plant within a few months.
+- (REFUTES) Wind turbine: The energy harvested from the turbine will offset the installation cost, as well as provide virtually free energy for years.
+- (NOT ENOUGH INFO) Windmill: A windmill is a structure that converts wind power into rotational energy by means of vanes called sails or blades, specifically to mill grain (gristmills), but the term is also extended to windpumps, wind turbines and other applications.
+- (SUPPORTS) Windmill: The spread of tower mills came with a growing economy that called for larger and more stable sources of power, though they were more expensive to build.
+- (NOT ENOUGH INFO) Windmill: A wind turbine is a windmill-like structure specifically developed to generate electricity.
+[note] Use this as adversarial contradiction evidence with inline citation.

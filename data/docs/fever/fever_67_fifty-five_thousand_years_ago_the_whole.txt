@@ -1,0 +1,11 @@
+[dataset] Climate-FEVER
+[claim_id] 67
+[label] NOT ENOUGH INFO
+[claim] Fifty-five thousand years ago the whole world was 2°C warmer than it is today[...]
+[candidate_evidence]
+- (NOT ENOUGH INFO) Beringia: During the LGM 22,000 YBP the average summer temperature was 3–5 °C (5–9 °F) degrees cooler than today, with variations of 2.9 °C (5.2 °F) degrees cooler on the Seward Peninsula to 7.5 °C (13.5 °F) cooler in the Yukon.
+- (NOT ENOUGH INFO) Earth: Consequently, summers are 2.3 °C (4 °F) warmer in the Northern Hemisphere than in the Southern Hemisphere under similar conditions.
+- (NOT ENOUGH INFO) Holocene: "Centennial-scale climate cooling with a sudden event around 8,200 years ago".
+- (NOT ENOUGH INFO) Holocene: This period of warmth ended about 5,500 years ago with the descent into the Neoglacial and concomitant Neopluvial.
+- (NOT ENOUGH INFO) Nordland: Research using sediment in lakes near the Okstind Glacier has shown that the summer climate in Nordland was up to 2.5 °C warmer 9,000 to 6,000 years ago, and then slowly cooled—it was 0.5 °C warmer 2,000 years before present (see Holocene climatic optimum.).
+[note] Use this as adversarial contradiction evidence with inline citation.
