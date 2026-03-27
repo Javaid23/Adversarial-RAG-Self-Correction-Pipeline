@@ -47,6 +47,10 @@ def build_index(
     chunk_size: int,
     chunk_overlap: int,
 ) -> int:
+    # Ensure paths are Path objects
+    docs_dir = Path(docs_dir) if not isinstance(docs_dir, Path) else docs_dir
+    index_dir = Path(index_dir) if not isinstance(index_dir, Path) else index_dir
+    
     docs = _read_text_files(docs_dir)
     index_dir.mkdir(parents=True, exist_ok=True)
     persist_dir = index_dir / "chroma"

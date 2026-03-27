@@ -13,6 +13,9 @@ def retrieve_contexts(
     index_dir: Path,
     top_k: int,
 ) -> list[dict]:
+    # Ensure path is a Path object
+    index_dir = Path(index_dir) if not isinstance(index_dir, Path) else index_dir
+    
     persist_dir = index_dir / "chroma"
 
     if not persist_dir.exists():

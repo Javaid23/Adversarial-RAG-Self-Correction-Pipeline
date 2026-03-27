@@ -25,8 +25,13 @@ def run_pipeline(
     chunk_size: int,
     chunk_overlap: int,
     reindex: bool = False,
+    enable_self_correction: bool = True,
 ) -> PipelineResult:
-    persist_dir = Path(index_dir) / "chroma"
+    # Ensure paths are Path objects
+    docs_dir = Path(docs_dir) if not isinstance(docs_dir, Path) else docs_dir
+    index_dir = Path(index_dir) if not isinstance(index_dir, Path) else index_dir
+    
+    persist_dir = index_dir / "chroma"
 
     if reindex or not persist_dir.exists():
         build_index(
@@ -44,12 +49,14 @@ def run_pipeline(
         top_k=top_k,
     )
     draft_answer = generate_answer(provider=provider, question=question, contexts=contexts)
-    final_answer = critique_and_revise(
-        provider=provider,
-        question=question,
-        draft_answer=draft_answer,
-        contexts=contexts,
-    )
+    final_answer = draft_answer
+    if enable_self_correction:
+        final_answer = critique_and_revise(
+            provider=provider,
+            question=question,
+            draft_answer=draft_answer,
+            contexts=contexts,
+        )
 
     return PipelineResult(
         contexts=contexts,

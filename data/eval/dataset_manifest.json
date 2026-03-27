@@ -10,5 +10,9 @@
   "hotpotqa": {
     "docs": 120,
     "eval": 120
+  },
+  "adversarial_poison": {
+    "docs": 8,
+    "eval": 8
   }
 }
