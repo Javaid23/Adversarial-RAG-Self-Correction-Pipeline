@@ -1,5 +1,0 @@
-﻿OK
-LEN=50
-Berlin [1]. 
-
-[1] Wikipedia: Berlin (capital city)

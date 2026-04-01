@@ -52,6 +52,12 @@ def build_index(
     index_dir = Path(index_dir) if not isinstance(index_dir, Path) else index_dir
     
     docs = _read_text_files(docs_dir)
+    # DEBUG: Print found files and count
+    print(f"[DEBUG] Searching for .txt files in: {docs_dir}")
+    print(f"[DEBUG] Number of .txt files found: {len(docs)}")
+    if len(docs) < 10:
+        for doc_path, _ in docs:
+            print(f"[DEBUG] Found file: {doc_path}")
     index_dir.mkdir(parents=True, exist_ok=True)
     persist_dir = index_dir / "chroma"
 

@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import concurrent.futures
+import os
 import time
 from pathlib import Path
 from typing import Any
@@ -33,7 +34,10 @@ def ask_question(
     top_k: int,
     do_reindex: bool,
     do_self_correct: bool,
+    do_cove: bool,
+    do_self_rag: bool,
     docs_dir: Path,
+    index_dir: Path,
     adversarial_mode: bool,
 ) -> dict[str, Any]:
     PIPELINE_TIMEOUT_S = 35
@@ -48,12 +52,14 @@ def ask_question(
             provider=provider,
             question=question,
             docs_dir=docs_dir,
-            index_dir=settings.index_dir,
+            index_dir=index_dir,
             top_k=k,
             chunk_size=settings.chunk_size,
             chunk_overlap=settings.chunk_overlap,
             reindex=reindex,
             enable_self_correction=self_correct,
+            enable_cove=do_cove,
+            enable_self_rag=do_self_rag,
         )
 
     t0 = time.perf_counter()
@@ -135,8 +141,16 @@ def main() -> None:
     with st.sidebar:
         st.header("Chat Settings")
         top_k = st.slider("Top-K Retrieved Chunks", min_value=1, max_value=20, value=settings.top_k)
+        # Only set reindex_once if not already set, and before widget instantiation
+        if "reindex_once" not in st.session_state:
+            st.session_state["reindex_once"] = False
+        # Dataset selection dropdown
+        dataset_options = ["(root)", "adversarial", "fever", "hotpotqa", "squad_v2"]
+        dataset_choice = st.selectbox("Select dataset subfolder", dataset_options, index=0)
         do_reindex = st.checkbox("Rebuild index once on next message", value=False, key="reindex_once")
         do_self_correct = st.checkbox("Enable self-correction (slower)", value=False)
+        do_cove = st.checkbox("Enable CoVe verification", value=False)
+        do_self_rag = st.checkbox("Enable Self-RAG critique", value=False)
         adversarial_mode = st.checkbox("Adversarial mode (poisoned docs only)", value=False)
         clear_chat = st.button("Clear Chat")
 
@@ -153,13 +167,35 @@ def main() -> None:
         embedding_model=settings.embedding_model,
     )
 
-    docs_dir = settings.docs_dir
+    # Set docs_dir based on dataset selection
+    if dataset_choice == "(root)":
+        docs_dir = settings.docs_dir
+        dataset_slug = "root"
+    else:
+        docs_dir = settings.docs_dir / dataset_choice
+        dataset_slug = dataset_choice
     effective_reindex = do_reindex
     effective_self_correct = do_self_correct
     if adversarial_mode:
         docs_dir = settings.docs_dir / "adversarial"
+        dataset_slug = "adversarial"
         effective_reindex = True
         effective_self_correct = False
+
+    # Create a per-session index base to avoid chroma.sqlite3 lock conflicts across processes
+    if "index_base" not in st.session_state:
+        st.session_state.index_base = settings.index_dir / f"session_{os.getpid()}"
+
+    # Maintain a per-dataset active index directory to avoid deleting locked sqlite files
+    if "active_index_dirs" not in st.session_state:
+        st.session_state.active_index_dirs = {}
+
+    active_index_dirs: dict[str, Path] = st.session_state.active_index_dirs
+    if effective_reindex or dataset_slug not in active_index_dirs:
+        run_tag = f"run_{int(time.time())}"
+        active_index_dirs[dataset_slug] = Path(st.session_state.index_base) / dataset_slug / run_tag
+
+    index_dir = active_index_dirs[dataset_slug]
 
     user_question = st.chat_input("Ask a question...")
     if user_question:
@@ -179,7 +215,10 @@ def main() -> None:
                     top_k=top_k,
                     do_reindex=effective_reindex,
                     do_self_correct=effective_self_correct,
+                    do_cove=do_cove,
+                    do_self_rag=do_self_rag,
                     docs_dir=docs_dir,
+                    index_dir=index_dir,
                     adversarial_mode=adversarial_mode,
                 )
                 st.session_state.chat_history.append(
@@ -201,8 +240,8 @@ def main() -> None:
                 )
                 st.error(f"Pipeline failed: {exc}")
             finally:
-                if do_reindex:
-                    st.session_state["reindex_once"] = False
+                # Removed problematic session_state assignment to fix StreamlitAPIException
+                pass
 
     st.markdown("## Chat")
     if not st.session_state.chat_history:
