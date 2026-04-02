@@ -38,7 +38,6 @@ def ask_question(
     do_self_rag: bool,
     docs_dir: Path,
     index_dir: Path,
-    adversarial_mode: bool,
 ) -> dict[str, Any]:
     PIPELINE_TIMEOUT_S = 35
     FAST_RETRY_TIMEOUT_S = 15
@@ -88,47 +87,15 @@ def ask_question(
             "latency_s": time.perf_counter() - t0,
         }
 
-    # Retry once in fast mode when timeout happens.
-    if adversarial_mode:
-        # In adversarial mode, avoid direct-answer fallback that can mask poisoning behavior.
-        total_time = time.perf_counter() - t0
-        return {
-            "question": question,
-            "contexts": [],
-            "draft_answer": "",
-            "final_answer": "⚠️ Retrieval timed out in adversarial mode. Try one-time reindex and ask again.",
-            "latency_s": total_time,
-        }
-
-    # Retry once in fast mode when timeout happens.
-    retry_t0 = time.perf_counter()
-    try:
-        with concurrent.futures.ThreadPoolExecutor(max_workers=1) as ex:
-            fut = ex.submit(_run_once, k=1, reindex=False, self_correct=False)
-            result = fut.result(timeout=FAST_RETRY_TIMEOUT_S)
-
-        total_time = time.perf_counter() - retry_t0
-        final_answer = (result.final_answer or result.draft_answer or "No answer generated.").strip()
-        if final_answer:
-            final_answer += "\n\n_(Recovered via fast retry after timeout.)_"
-        return {
-            "question": question,
-            "contexts": result.contexts,
-            "draft_answer": result.draft_answer,
-            "final_answer": final_answer,
-            "latency_s": total_time,
-        }
-    except Exception:
-        # Final fallback: deterministic emergency answer so user is never blocked.
-        total_time = time.perf_counter() - retry_t0
-        fallback_answer = emergency_answer(question)
-        return {
-            "question": question,
-            "contexts": [],
-            "draft_answer": "",
-            "final_answer": (fallback_answer or "No answer generated.").strip() + "\n\n_(Fallback response: retrieval timed out.)_",
-            "latency_s": total_time,
-        }
+    # In adversarial mode, avoid direct-answer fallback that can mask poisoning behavior
+    total_time = time.perf_counter() - t0
+    return {
+        "question": question,
+        "contexts": [],
+        "draft_answer": "",
+        "final_answer": "⚠️ Retrieval timed out. Try one-time reindex and ask again.",
+        "latency_s": total_time,
+    }
 
 
 def main() -> None:
@@ -139,19 +106,16 @@ def main() -> None:
         st.stop()
 
     with st.sidebar:
-        st.header("Chat Settings")
+        st.header("Pipeline Settings")
+        st.info("🛡️ This system uses the adversarial poisoned dataset to stress-test the RAG pipeline.")
         top_k = st.slider("Top-K Retrieved Chunks", min_value=1, max_value=20, value=settings.top_k)
         # Only set reindex_once if not already set, and before widget instantiation
         if "reindex_once" not in st.session_state:
             st.session_state["reindex_once"] = False
-        # Dataset selection dropdown
-        dataset_options = ["(root)", "adversarial", "fever", "hotpotqa", "squad_v2"]
-        dataset_choice = st.selectbox("Select dataset subfolder", dataset_options, index=0)
         do_reindex = st.checkbox("Rebuild index once on next message", value=False, key="reindex_once")
         do_self_correct = st.checkbox("Enable self-correction (slower)", value=False)
         do_cove = st.checkbox("Enable CoVe verification", value=False)
         do_self_rag = st.checkbox("Enable Self-RAG critique", value=False)
-        adversarial_mode = st.checkbox("Adversarial mode (poisoned docs only)", value=False)
         clear_chat = st.button("Clear Chat")
 
     if "chat_history" not in st.session_state:
@@ -167,20 +131,11 @@ def main() -> None:
         embedding_model=settings.embedding_model,
     )
 
-    # Set docs_dir based on dataset selection
-    if dataset_choice == "(root)":
-        docs_dir = settings.docs_dir
-        dataset_slug = "root"
-    else:
-        docs_dir = settings.docs_dir / dataset_choice
-        dataset_slug = dataset_choice
+    # Always use adversarial dataset for stress testing
+    docs_dir = settings.docs_dir / "adversarial"
+    dataset_slug = "adversarial"
     effective_reindex = do_reindex
     effective_self_correct = do_self_correct
-    if adversarial_mode:
-        docs_dir = settings.docs_dir / "adversarial"
-        dataset_slug = "adversarial"
-        effective_reindex = True
-        effective_self_correct = False
 
     # Create a per-session index base to avoid chroma.sqlite3 lock conflicts across processes
     if "index_base" not in st.session_state:
@@ -219,7 +174,6 @@ def main() -> None:
                     do_self_rag=do_self_rag,
                     docs_dir=docs_dir,
                     index_dir=index_dir,
-                    adversarial_mode=adversarial_mode,
                 )
                 st.session_state.chat_history.append(
                     {
